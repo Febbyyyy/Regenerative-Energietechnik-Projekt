@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  7 OCT 2022 16:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  10 OCT 2022 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1754,14 +1754,25 @@ Package pdftex.def Info: bilder/ostfalia.png  used on input line 10.
 
 
  <./bilder/ostfalia.png>] (02_formelzeichen.tex))
-(03_einleitung.tex) (04_kap2.tex) (05_kap3.tex) (06_schluss.tex)
+(03_einleitung.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 22.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[2
+
+
+
+]) (04_kap2.tex) (05_kap3.tex) (06_schluss.tex)
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 296.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [2
-
-
+ [3
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
@@ -1775,7 +1786,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 301.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 
-[3
+[4
 
 
 ]
@@ -1789,7 +1800,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 5.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [4
+ [5
 
 
 
@@ -1802,10 +1813,10 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51954 strings out of 475390
- 1254719 string characters out of 2774153
- 2223955 words of memory out of 3000000
- 72481 multiletter control sequences out of 15000+600000
+ 51960 strings out of 475390
+ 1254815 string characters out of 2774153
+ 2224028 words of memory out of 3000000
+ 72486 multiletter control sequences out of 15000+600000
  529771 words of font info for 68 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  108i,23n,106p,10611b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1820,9 +1831,9 @@ nstall/fonts/type1/public/lm/lmro10.pfb></Library/Application Support/MiKTeX/te
 xmfs/install/fonts/type1/public/lm/lmro9.pfb></Library/Application Support/MiKT
 eX/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></Library/Application Supp
 ort/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 00_Projekt_RET.pdf (5 pages, 338365 bytes).
+Output written on 00_Projekt_RET.pdf (6 pages, 343047 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
