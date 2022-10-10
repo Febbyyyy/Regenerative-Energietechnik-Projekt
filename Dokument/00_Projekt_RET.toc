@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.0.1}%
+\contentsline {section}{\numberline {2}Wie kann der Begriff Kraftwerksreserve definiert werden?}{2}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Wie funktioniert der deutsche Strommarkt?}{2}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Kraftwerksreserven zur Netzfrequenzstabilisierung}{2}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3}Kraftwerksreserven zur Reserveleistungsvorhaltung}{2}{subsection.0.2.3}%
+\contentsline {section}{\numberline {3}Bewertung der Kraftwerksreserven zur Netzstabilisierung und Reserveleistungsvorhaltung}{2}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Bewertung nach gesetzlichen Gesichtspunkten}{2}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bewertung nach logistischen Gesichtspunkten}{2}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Bewertung nach wirtschaftlichen Gesichtspunkten}{2}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Was bedeutet der Atom- und Braunkohleausstieg f^^c3^^bcr die Kraftwerksreserven?}{2}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{2}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{2}{section.0.4}%
+\contentsline {section}{\numberline {5}Literatur}{3}{section.0.5}%
+\contentsline {section}{\numberline {6}Anhang}{4}{section.0.6}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

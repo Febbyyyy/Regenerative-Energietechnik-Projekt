@@ -1,0 +1,304 @@
+%---------- Präambel ----------%
+
+\documentclass[a4paper, numbers=noenddot, bibliography=totocnumbered, german,fontsize=11pt]{scrartcl} %Papierformat,Schriftgröße und Art des Dokumentes
+
+\usepackage[utf8]{inputenc} %deutsche Umlaute
+\usepackage[ngerman]{babel} %neue deutsche Rechtschreibung, sowie Silbentrennung
+\usepackage[T1]{fontenc} %Westeuropäische Kodierung
+\usepackage{lmodern} %modernes Schriftbild
+%\usepackage{indentfirst} %einrücken des ersten Absatzes nach einer Überschrift
+
+\usepackage{amsmath} %Mathematische Formeln
+%\usepackage{ziffer} %Deutsches Komma und 1 000 er freistellen
+
+\usepackage{pdfpages} %Einbinden von PDF-Seiten
+\usepackage{graphicx} %Grafiken einfügen
+\usepackage[per-mode=fraction, locale = DE]{siunitx} %Einheiten richtig darstellen
+
+\usepackage{array} % Tabellenformate
+\usepackage{tabulary} %dynamische Spaltenbreite
+%\usepackage{longtable} % Erzeugen mehrseitiger Tabellen
+%\usepackage{ltxtable} % Kombination von Tabularx und Longtable
+%\usepackage{footnote} %Fußnooten in Tabellen
+%\makesavenoteenv{tabular} %Fußnoten in Tabellen
+\usepackage{booktabs} %Dicke Linien in Tabellen
+\usepackage{paralist} %Nummerierte Umgebung
+
+\usepackage{float} %Grafik an genau diese stelle setzen (H)
+\usepackage{wrapfig} %Grafik mit Textumfluss einfügen
+%\usepackage{subfigure} %Grafiken nebeneinander darstellen
+
+\usepackage{tocbasic} %Stil für Inhaltsverzeichnis
+\usepackage[hidelinks,bookmarksopen,bookmarksopenlevel={1},bookmarksnumbered]{hyperref} %Verweise zwischen Nummern colorlinks für eingefärbte hyperlinks, frenchlinks für Kapitelchen.
+%\usepackage{breakurl} %Verbeserter Zeilenumbruch bei urls (eigentlich nicht benötigt)
+\usepackage{csquotes} %Zitate
+\usepackage[backref=true,backend=biber,style=numeric,sorting=none,hyperref=true]{biblatex} %Literaturverzeichnis
+
+\usepackage{paracol}	%mehrere Spalten (Seitenaufteilung)
+\usepackage{wasysym} %Durchmesserzeichen
+%\usepackage[nofiller]{struktex} %Nassi-Shneidermann Diagramme
+\usepackage{tikz} %Diagramme und Grafiken Zeichnen
+\usepackage{pgfplots, pgfplotstable} %Diagramme Zeichnen
+%\usepackage{mathtools} %Für mittlere Temperaturwerte
+\usepackage{eurosym} %Eurozeichen
+\usepackage{makecell} %Für Zeilenumbrüche in Tabellen
+\usepackage{romannum} %Für römische Zahlen \Romannum{1} --> Große römische Zahl 
+\usepackage{multirow} %Gegenteil von multicolumn
+
+
+%\KOMAoptions{DIV=calc} %Teilung für optimalen Satzspiegel (führt oft zu geringer Seitenbreite)
+
+%---------- Erhöht Abstandsmaße z.B. in Tabellen ----------%
+
+\renewcommand*{\arraystretch}{1.1} %höhere Zeilen in tabellen
+
+%---------- Literaturverzeichnis----------%
+
+\nocite{*}%lässt alle Literatureinträge erscheinen (auch ohne Zitat)
+\addbibresource{07_literaturverzeichnis.bib}
+\defbibheading{head}{\section{Literatur}}
+
+%---------- Zählung von Überschriften bei Verwendung von Paracol ----------%
+
+%\globalcounter{figure} %Paracol durchzählen global Figuren
+%\globalcounter{table} %Paracol durchzählen global Tabellen
+%\globalcounter{equation} %Paracol durchzählen global Formeln
+%\globalcounter{diagramm} %Paracol durchzählen global Diagramme
+%\globalcounter{section} %Paracol durchzählen global Überschriften
+%\globalcounter{subsection} %Paracol durchzählen global Unterüberschriften
+
+%---------- Beschriftung der Tabellen und Abbildungen ----------%
+
+\renewcaptionname{ngerman}{\figurename}{Abb.} %Beschriftung der Abbildungen
+\renewcaptionname{ngerman}{\tablename}{Tab.} % Beschriftung der Tabellen
+
+%---------- Wichtigbox Fynn (Formelsammlung) ----------%
+
+%\usepackage{framed}
+%\newenvironment{wichtigbox}{%
+%	\def\FrameCommand{
+%%		\fboxsep=-12pt 
+%		\fboxrule 0.5mm \fcolorbox{red}{white}}%
+%	\MakeFramed {\advance\hsize-\textwidth\FrameRestore}}%
+%{\endMakeFramed}
+
+%---------- Konfiguration von Diagrammen und Grafiken ----------%
+
+\usetikzlibrary{
+plotmarks,
+arrows.meta,
+calc,
+arrows,
+patterns,
+positioning
+}
+\usepgfplotslibrary{patchplots}
+\usepackage{grffile} % Für Matlab GRafiken
+\pgfplotsset{
+	plot coordinates/math parser=false,
+	/pgf/number format/.cd,
+	use comma,% Komma als Dezimaltrenner
+	1000 sep = {\,}
+}
+
+\newlength\figureheight
+\newlength\figurewidth
+
+\pgfplotsset{
+	compat=newest,
+	samples=200,
+	clip=false,
+	my axis style/.style={
+%		axis on top,
+		axis x line=bottom,
+		axis y line=middle,
+%		scale only axis,
+		legend pos= north east,
+		axis line style={-{Latex[length=3mm]}},
+		legend style={font=\normalsize},
+		label style={font=\normalsize},
+		tick label style={font=\normalsize},
+		xlabel style={
+			at={(ticklabel* cs:1)},
+			anchor=west,
+			font=\normalsize,
+		},
+		ylabel style={
+			at={(ticklabel* cs:1)},
+			anchor=west,
+			font=\normalsize,
+		},
+		xlabel=x,
+		ylabel=y,
+		height=0.5\textwidth,
+		width=0.75\textwidth,
+	},
+}
+
+%---------- Absatz Texteinzug verändern----------%
+
+\setlength{\parindent}{0pt} %Keine Texteinzüge am Absatzanfang
+
+%---------- Einheiten Darstellungs Konfiguration ----------%
+
+\sisetup{
+	list-final-separator = { \translate{and} },
+	list-pair-separator  = { \translate{and} },
+	range-phrase         = { \translate{to (numerical range)}},
+	group-minimum-digits={4}, %trennt auch Zahlen 4 Einheiten
+%	group-separator={\,}, %kann den Gruppenseperator ändern
+}
+
+%---------- Ersetzt den Malpunkt mit \cdot ----------%
+
+\DeclareMathSymbol{*}{\mathbin}{symbols}{"01} % macht alle Malzeichen als Punkt
+
+%---------- Kapitelabhängige Nummerierung ----------%
+
+\numberwithin{table}{section} %stellt den Tabellen eine section vorran
+\numberwithin{figure}{section} %stellt den Bildern eine section vorran
+\numberwithin{equation}{section} %stellt den Formelbeschriftungen eine section vorran
+
+%---------- Spaltentypen für Tabellen ----------%
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+%---------- Neue Verzeichnisstypen ----------%
+\DeclareTOCStyleEntry[linefill=\hfill]{default}{subsection} %Subsections ohne Punktlinien
+
+% Formelverzeichnis
+%\DeclareNewTOC[
+%type=equation,
+%counterwithin=caption,
+%name=Formel,
+%listname={Formelverzeichnis},
+%tocentryentryformat:=table,
+%tocentrynumwidth:=table,%2.3em,% like figures and tables
+%tocentryindent:=table,%1.5em,% like figures and tables
+%]{loe}
+
+% Diagrammverzeichnis
+\DeclareNewTOC[
+float,
+floatpos = htp,                         % voreingestellte Gleitparameter
+owner=float,
+counterwithin=section,
+type=diagramm,
+name=Diagramm, % Name in Beschriftungen
+listname={Diagrammverzeichnis},
+tocentryentryformat:=table,
+tocentrynumwidth:=table,%2.3em,% like figures and tables
+tocentryindent:=table,%1.5em,% like figures and tables
+]{lod}
+
+% Anhangsverzeichnis
+\DeclareNewTOC[%
+owner=\jobname,
+type=anhang,
+listname={Anhangsverzeichnis},% Titel des Verzeichnisses
+]{atoc}% Dateierweiterung (a=appendix, toc=table of contents)
+
+\makeatletter
+\newcommand*{\@currententry}{}
+% Zwei amsmath-Anweisungen ändern:
+\g@addto@macro\make@display@tag{\set@currententry}%
+\def\tagform@#1{\maketag@@@{(\ignorespaces#1\unskip\@@italiccorr)}%
+	\set@currententry}
+\newcommand*{\set@currententry}{%
+	\typeout{set current entry}%
+	\ifx\@currententry\@empty\else
+	\addcontentsline{loe}{table}{\protect\numberline{\@currentlabel}%
+		\@currententry}%
+	\global\let\@currententry\@empty
+	\fi
+}
+% Neue Benutzeranweisung
+\newcommand*{\equationentry}[1]{%
+	\gdef\@currententry{#1}%
+}
+% Für Anhangsverzeichnis
+\@addtoreset{section}{part}
+\newcommand*{\useappendixtocs}{%
+	\renewcommand*{\ext@toc}{atoc}%
+}
+\makeatother
+
+
+
+%---------- Abmaße des Blattes mit Fuß- und Kopfzeile ----------%
+
+\setlength{\headheight}{48.42pt}
+
+\usepackage[headsepline]{scrlayer-scrpage} 	%Linien in Kopfzeile
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+
+\ihead{\textbf{Regenerative Energietechnik\\Kraftwerksreserven Deutschland}\\\footnotesize{Moritz Deckert, Fynn Linnenbrügger}}
+\ohead{\includegraphics[height=15mm]{bilder/ostfalia.png}} %Logo Kopfzeile
+
+%\ifoot{Linnenbrügger, Fynn} %Name im linken Feld
+\cfoot{\today} %heutiges Datum \today
+\ofoot{\pagemark} %aktuelle Seite
+
+%---------- PDF-Eigenschaften ----------%
+
+\hypersetup{pdftitle = {Die Energiewende -- Wo befinden sich Kraftwerksreserven in Deutschland?}
+		pdfsubject  = {Die Energiewende -- Wo befinden sich Kraftwerksreserven in Deutschland?},
+		pdfauthor   = {Moritz Deckert und Fynn Linnenbrügger}
+	}
+
+%---------- Titel, Autor, etc. für Deckblatt ----------%
+
+\title{Die Energiewende -- Wo befinden sich Kraftwerksreserven in Deutschland?}
+%\subtitle{Institut für energieoptimierte Systeme (EOS)}
+%\author{Fynn Linnenbrügger}
+%\date{\today} %heutiges Datum \today
+
+%---------- Eigene Befehle ----------%
+
+\newcommand*{\quelle}{\footnotesize Quelle: }
+\newcommand*{\entspricht}{~\widehat{=}~}
+\newcommand*{\uuline}[1]{\underline{\underline{#1}}}
+\newcommand*{\stern}{\ast}
+\DeclareSIUnit{\year}{\text{a}}
+\DeclareSIUnit{\dH}{\text{°dH}}
+\DeclareSIUnit{\litre}{\text{l}} % Kleinbuchstabe für Liter l
+\DeclareSIUnit{\euro}{\text{\officialeuro}} %Eurozeichen im SI
+\DeclareSIUnit{\L}{\text{L}} %Verbrennungsrechnung Luft
+\DeclareSIUnit{\B}{\text{B}} %Verbrennungsrechnung Brennstoff
+\DeclareSIUnit{\fA}{\text{fA}} %Verbrennungsrechnung feuchtes Abgas
+\DeclareSIUnit{\tA}{\text{tA}} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\Ntwo}{N_2} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\Otwo}{O_2} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\COtwo}{CO_2} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\water}{H_2O} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\Molpercent}{\text{Mol-\%}} %Verbrennungsrechnung trockenes Abgas
+\DeclareSIUnit{\kW}{\text{kW}} %Kilowatt
+\DeclareSIUnit{\qm}{\text{m^2}} %Quadratmeter
+\DeclareSIUnit{\km}{\text{m^3}} %Kubikmeter
+\DeclareSIUnit{\sonden}{\text{Sonden}} %Kubikmeter
+
+%---------- Beginn der Arbeit ----------%
+
+\begin{document}
+\pagenumbering{arabic}
+\setcounter{page}{0}	
+\include{01_deckblatt.tex}
+\include{02_verzeichnisse.tex}
+
+\input{03_einleitung}
+\input{04_kap2}
+\input{05_kap3}
+\input{06_schluss}
+
+\cleardoublepage
+
+
+%	\sloppy	 %manchmal bei URL´s notwendig
+\printbibliography[heading=head]		
+\cleardoublepage	
+\include{08_anhang.tex}
+
+\end{document}	

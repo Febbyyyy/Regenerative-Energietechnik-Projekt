@@ -1,0 +1,186 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{VorlesungsskriptWP}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=32aab9dcd38ff41b796a5ba85b361d5d}{%
+           family={Kühl},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \strng{fullhash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \strng{bibnamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \strng{authorbibnamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \strng{authornamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \strng{authorfullhash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Heizungstechnik II Vorlesungsskript - Wärmepumpen}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{PlädoyerWolff}{online}{}
+      \name{author}{2}{}{%
+        {{hash=8e571022e3ea06c6a5456649f9aede54}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2bf79a71778e47e13dd5c441c774c4e1}{%
+           family={Jagnow},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{fullhash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{bibnamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authorbibnamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authornamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authorfullhash}{1d02254f780d61399acf6fb3d1556f72}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Plädoyer für kalte versus warme Nah- und Fernwärmenetze aus erneuerbaren Quellen}
+      \field{version}{10.2022}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
+      \endverb
+      \verb{url}
+      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
+      \endverb
+    \endentry
+    \entry{StandpunkteWolff}{online}{}
+      \name{author}{2}{}{%
+        {{hash=8e571022e3ea06c6a5456649f9aede54}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2bf79a71778e47e13dd5c441c774c4e1}{%
+           family={Jagnow},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{fullhash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{bibnamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authorbibnamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authornamehash}{1d02254f780d61399acf6fb3d1556f72}
+      \strng{authorfullhash}{1d02254f780d61399acf6fb3d1556f72}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Standpunkte zur Energie- und Wärmewende im Gebäudebereich nach der 1. Eröffnungsbilanz Klimaschutz des BMWK am 11. Januar 2022}
+      \field{version}{10.2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
+      \endverb
+      \verb{url}
+      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
+      \endverb
+    \endentry
+    \entry{DIN_4708_Teil2}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6dd71e538213a5204baad8f08472c49f}{%
+           family={Normung},
+           familyi={N\bibinitperiod},
+           given={Deutsche\bibnamedelima Institut},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutsche Institut für Normung e. V. (DIN)}%
+      }
+      \strng{namehash}{6dd71e538213a5204baad8f08472c49f}
+      \strng{fullhash}{6dd71e538213a5204baad8f08472c49f}
+      \strng{bibnamehash}{6dd71e538213a5204baad8f08472c49f}
+      \strng{authorbibnamehash}{6dd71e538213a5204baad8f08472c49f}
+      \strng{authornamehash}{6dd71e538213a5204baad8f08472c49f}
+      \strng{authorfullhash}{6dd71e538213a5204baad8f08472c49f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{subtitle}{Regeln zur Ermittlung des Wärmebedarfs zur Erwärmung von Trinkwasser in Wohngebäuden}
+      \field{title}{DIN 4708 Teil 2 - Zentrale Wassererwärmungsanlagen}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{Thermo}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2629e9d9dced7fc2e09d3e151001d226}{%
+           family={Cerbe},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6c18886e516f843fe19f69a7995f3701}{%
+           family={Wilhelms},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag}%
+      }
+      \strng{namehash}{58ac1cab8980e8b7be65c352ccb63653}
+      \strng{fullhash}{58ac1cab8980e8b7be65c352ccb63653}
+      \strng{bibnamehash}{58ac1cab8980e8b7be65c352ccb63653}
+      \strng{authorbibnamehash}{58ac1cab8980e8b7be65c352ccb63653}
+      \strng{authornamehash}{58ac1cab8980e8b7be65c352ccb63653}
+      \strng{authorfullhash}{58ac1cab8980e8b7be65c352ccb63653}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{part}{18., überarbeitete Auflage}
+      \field{subtitle}{Theoretische Grundlagen und praktische Anwendungen}
+      \field{title}{Technische Thermodynamik}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
