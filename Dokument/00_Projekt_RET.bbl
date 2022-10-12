@@ -19,165 +19,91 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{VorlesungsskriptWP}{unpublished}{}
+    \entry{Frauenhofer_PV_Bericht}{report}{}
       \name{author}{1}{}{%
-        {{hash=32aab9dcd38ff41b796a5ba85b361d5d}{%
-           family={Kühl},
-           familyi={K\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
+        {{hash=21a4ea8a7e5e5e9e6e392772ba9db4ae}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
       }
-      \strng{namehash}{32aab9dcd38ff41b796a5ba85b361d5d}
-      \strng{fullhash}{32aab9dcd38ff41b796a5ba85b361d5d}
-      \strng{bibnamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
-      \strng{authorbibnamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
-      \strng{authornamehash}{32aab9dcd38ff41b796a5ba85b361d5d}
-      \strng{authorfullhash}{32aab9dcd38ff41b796a5ba85b361d5d}
+      \list{institution}{1}{%
+        {Frauenhofer ISE}%
+      }
+      \strng{namehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{fullhash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{bibnamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authorbibnamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authornamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authorfullhash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Heizungstechnik II Vorlesungsskript - Wärmepumpen}
-      \field{year}{2021}
+      \field{month}{09}
+      \field{title}{Aktuelle Fakten zur Photovoltaik in Deutschland}
+      \field{type}{Report}
+      \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{PlädoyerWolff}{online}{}
-      \name{author}{2}{}{%
-        {{hash=8e571022e3ea06c6a5456649f9aede54}{%
-           family={Wolff},
+    \entry{Elektrizitätswirtschaft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e78a835d631c864072b65336d9d292f9}{%
+           family={Wawer},
            familyi={W\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2bf79a71778e47e13dd5c441c774c4e1}{%
-           family={Jagnow},
-           familyi={J\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
+           given={T.},
+           giveni={T\bibinitperiod}}}%
       }
-      \strng{namehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{fullhash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{bibnamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authorbibnamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authornamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authorfullhash}{1d02254f780d61399acf6fb3d1556f72}
-      \field{extraname}{1}
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{fullhash}{e78a835d631c864072b65336d9d292f9}
+      \strng{bibnamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authorbibnamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authornamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authorfullhash}{e78a835d631c864072b65336d9d292f9}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{12}
-      \field{title}{Plädoyer für kalte versus warme Nah- und Fernwärmenetze aus erneuerbaren Quellen}
-      \field{version}{10.2022}
-      \field{year}{2021}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
-      \endverb
-      \verb{url}
-      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
-      \endverb
-    \endentry
-    \entry{StandpunkteWolff}{online}{}
-      \name{author}{2}{}{%
-        {{hash=8e571022e3ea06c6a5456649f9aede54}{%
-           family={Wolff},
-           familyi={W\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2bf79a71778e47e13dd5c441c774c4e1}{%
-           family={Jagnow},
-           familyi={J\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{fullhash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{bibnamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authorbibnamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authornamehash}{1d02254f780d61399acf6fb3d1556f72}
-      \strng{authorfullhash}{1d02254f780d61399acf6fb3d1556f72}
-      \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{01}
-      \field{title}{Standpunkte zur Energie- und Wärmewende im Gebäudebereich nach der 1. Eröffnungsbilanz Klimaschutz des BMWK am 11. Januar 2022}
-      \field{version}{10.2022}
+      \field{subtitle}{Eine praxisorientierte Einführung in Strommärkte und Stromhandel}
+      \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
+      \field{dateera}{ce}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
-      \endverb
-      \verb{url}
-      \verb https://www.delta-q.de/projekte/waermenetze/#kalt
-      \endverb
     \endentry
-    \entry{DIN_4708_Teil2}{book}{}
+    \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
-        {{hash=6dd71e538213a5204baad8f08472c49f}{%
-           family={Normung},
-           familyi={N\bibinitperiod},
-           given={Deutsche\bibnamedelima Institut},
-           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
-           prefix={für},
-           prefixi={f\bibinitperiod}}}%
+        {{hash=a6d49318e9ce4c395a4df2c6cab1e485}{%
+           family={Reitsam},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Deutsche Institut für Normung e. V. (DIN)}%
-      }
-      \strng{namehash}{6dd71e538213a5204baad8f08472c49f}
-      \strng{fullhash}{6dd71e538213a5204baad8f08472c49f}
-      \strng{bibnamehash}{6dd71e538213a5204baad8f08472c49f}
-      \strng{authorbibnamehash}{6dd71e538213a5204baad8f08472c49f}
-      \strng{authornamehash}{6dd71e538213a5204baad8f08472c49f}
-      \strng{authorfullhash}{6dd71e538213a5204baad8f08472c49f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{04}
-      \field{subtitle}{Regeln zur Ermittlung des Wärmebedarfs zur Erwärmung von Trinkwasser in Wohngebäuden}
-      \field{title}{DIN 4708 Teil 2 - Zentrale Wassererwärmungsanlagen}
-      \field{year}{1994}
-      \true{nocite}
-    \endentry
-    \entry{Thermo}{book}{}
-      \name{author}{2}{}{%
-        {{hash=2629e9d9dced7fc2e09d3e151001d226}{%
-           family={Cerbe},
-           familyi={C\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=6c18886e516f843fe19f69a7995f3701}{%
-           family={Wilhelms},
-           familyi={W\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
+      \list{institution}{1}{%
+        {Technische Universität München}%
       }
       \list{location}{1}{%
         {München}%
       }
-      \list{publisher}{1}{%
-        {Carl Hanser Verlag}%
-      }
-      \strng{namehash}{58ac1cab8980e8b7be65c352ccb63653}
-      \strng{fullhash}{58ac1cab8980e8b7be65c352ccb63653}
-      \strng{bibnamehash}{58ac1cab8980e8b7be65c352ccb63653}
-      \strng{authorbibnamehash}{58ac1cab8980e8b7be65c352ccb63653}
-      \strng{authornamehash}{58ac1cab8980e8b7be65c352ccb63653}
-      \strng{authorfullhash}{58ac1cab8980e8b7be65c352ccb63653}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \strng{namehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{fullhash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{bibnamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authorbibnamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authornamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authorfullhash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{part}{18., überarbeitete Auflage}
-      \field{subtitle}{Theoretische Grundlagen und praktische Anwendungen}
-      \field{title}{Technische Thermodynamik}
-      \field{year}{2017}
-      \field{dateera}{ce}
+      \field{title}{Potentiale einer solidarischen Eigenstromerzeugung der Industrie zur Bereitstellung von Backup-Leistung auf dem deutschen Strommarkt}
+      \field{type}{Dissertation}
+      \field{year}{2022}
       \true{nocite}
     \endentry
   \enddatalist

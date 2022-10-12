@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  10 OCT 2022 22:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  12 OCT 2022 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1744,7 +1744,7 @@ ftex.map}]
 \tf@lot=\write8
 \openout8 = `00_Projekt_RET.lot'.
 
-<bilder/ostfalia.png, id=28, 2007.5pt x 422.57875pt>
+<bilder/ostfalia.png, id=34, 2007.5pt x 422.57875pt>
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 10.
@@ -1767,32 +1767,117 @@ Package pdftex.def Info: bilder/ostfalia.png  used on input line 22.
 
 
 
-]) (04_kap2.tex) (05_kap3.tex) (06_schluss.tex)
+]) (04_kap2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
+
+ []
+
+<./anhang/Doktorarbeit Reitsam.pdf, id=78, page=82, 597.50829pt x 845.0471pt>
+File: ./anhang/Doktorarbeit Reitsam.pdf Graphic file (type pdf)
+<use ./anhang/Doktorarbeit Reitsam.pdf, page 82>
+Package pdftex.def Info: ./anhang/Doktorarbeit Reitsam.pdf , page82 used on inp
+ut line 23.
+(pdftex.def)             Requested size: 418.25555pt x 237.75621pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--34
+
+ []
+
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 34.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[3
+
+ <./anhang/Doktorarbeit Reitsam.pdf>]
+<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=116, page=92, 478.00583pt x 68
+2.86618pt>
+File: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf Graphic file (type pdf)
+<use ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, page 92>
+Package pdftex.def Info: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf , page92 u
+sed on input line 44.
+(pdftex.def)             Requested size: 209.12778pt x 189.06929pt.
+
+Underfull \hbox (badness 4805) in paragraph at lines 45--45
+[][][]\T1/lmr/m/n/10.95 Regelzonen und ^^dcber-tra-gungs-
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 49--51
+\T1/lmr/m/n/10.95 sta-bi-li-sie-rung fal-len un-ter den Be-griff
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 49--51
+\T1/lmr/m/n/10.95 be-ra-li-sier-ten Strom-markts be-sit-zen die
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 49--51
+\T1/lmr/m/n/10.95 ^^dcber-tra-guns-netz-be-trei-ber kei-ne ei-ge-nen
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 49--51
+\T1/lmr/m/n/10.95 Kraft-wer-ke, so-dass f^^fcr die Sta-bi-li-sie-
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 49--51
+\T1/lmr/m/n/10.95 rung Ver-tr^^e4-ge mit Ener-gie-ver-sor-gungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 52--58
+[]\T1/lmr/m/n/10.95 Unter Re-ge-l-ener-gie ver-steht man zum
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 52--58
+\T1/lmr/m/n/10.95 gel-zo-ne-nun-gleich-ge-wich-ten (Re-ge-l-ar-beit)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 58.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[4 <./anhang/Elektrizitätswirtschaft.pdf>]
+<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=157, page=115, 478.00583pt x 6
+82.86618pt>
+File: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf Graphic file (type pdf)
+<use ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, page 115>
+Package pdftex.def Info: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf , page115 
+used on input line 62.
+(pdftex.def)             Requested size: 418.25555pt x 144.87497pt.
+) (05_kap3.tex) (06_schluss.tex)
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 296.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [3
 
-]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
-00.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+[5 <./anhang/Elektrizitätswirtschaft.pdf>]
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 301.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-
-[4
+ [6
 
 
 ]
 \openout2 = `08_anhang.aux'.
 
- (08_anhang.tex (00_Projekt_RET.atoc)
+ (08_anhang.tex
+(00_Projekt_RET.atoc)
 \tf@atoc=\write9
 \openout9 = `00_Projekt_RET.atoc'.
 
@@ -1800,40 +1885,52 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 5.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [5
+ [7
 
 
 
-]) (00_Projekt_RET.aux
-(01_deckblatt.aux) (02_verzeichnisse.aux) (08_anhang.aux))
+]) (00_Projekt_RET.aux (01_deckblatt.aux)
+(02_verzeichnisse.aux) (08_anhang.aux))
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `00_Projekt_RET.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                00_Projekt_RET
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 \openout1 = `00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51960 strings out of 475390
- 1254815 string characters out of 2774153
- 2224028 words of memory out of 3000000
- 72486 multiletter control sequences out of 15000+600000
- 529771 words of font info for 68 fonts, out of 8000000 for 9000
+ 51943 strings out of 475390
+ 1255051 string characters out of 2774153
+ 2227421 words of memory out of 3000000
+ 72468 multiletter control sequences out of 15000+600000
+ 526657 words of font info for 66 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 108i,23n,106p,10611b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,23n,106p,10611b,3166s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.
-enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/l
-mbxo10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publ
-ic/lm/lmcsc10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/lm/lmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/font
-s/type1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install
-/fonts/type1/public/lm/lmri10.pfb></Library/Application Support/MiKTeX/texmfs/i
-nstall/fonts/type1/public/lm/lmro10.pfb></Library/Application Support/MiKTeX/te
-xmfs/install/fonts/type1/public/lm/lmro9.pfb></Library/Application Support/MiKT
-eX/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></Library/Application Supp
-ort/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 00_Projekt_RET.pdf (6 pages, 343463 bytes).
+enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-r
+m.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/
+install/fonts/type1/public/amsfonts/cm/cmr9.pfb></Library/Application Support/M
+iKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb></Library/Applic
+ation Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxo10.pfb></Library
+/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Li
+brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb
+></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri
+10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/l
+m/lmro10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
+blic/lm/lmro9.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/lm/lmssbx10.pfb>
+Output written on 00_Projekt_RET.pdf (8 pages, 1344926 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
