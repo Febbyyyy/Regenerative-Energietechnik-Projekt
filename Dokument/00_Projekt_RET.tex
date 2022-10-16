@@ -32,7 +32,9 @@
 \usepackage[hidelinks,bookmarksopen,bookmarksopenlevel={1},bookmarksnumbered]{hyperref} %Verweise zwischen Nummern colorlinks für eingefärbte hyperlinks, frenchlinks für Kapitelchen.
 %\usepackage{breakurl} %Verbeserter Zeilenumbruch bei urls (eigentlich nicht benötigt)
 \usepackage{csquotes} %Zitate
-\usepackage[backref=true,backend=biber,style=numeric,sorting=none,hyperref=true]{biblatex} %Literaturverzeichnis
+%\usepackage[backref=true,backend=biber,style=numeric,sorting=none,hyperref=true]{biblatex} %Literaturverzeichnis mit Zahl und \cite verwenden
+\usepackage[backref=true,backend=biber,style=authoryear,sorting=none,hyperref=true]{biblatex} %Literaturverzeichnis Harvard Style und \parencite verwenden
+
 
 \usepackage{paracol}	%mehrere Spalten (Seitenaufteilung)
 \usepackage{wasysym} %Durchmesserzeichen

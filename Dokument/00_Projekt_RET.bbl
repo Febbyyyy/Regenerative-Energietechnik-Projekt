@@ -21,11 +21,12 @@
   \datalist[entry]{none/global//global/global}
     \entry{Frauenhofer_PV_Bericht}{report}{}
       \name{author}{1}{}{%
-        {{hash=21a4ea8a7e5e5e9e6e392772ba9db4ae}{%
+        {{un=0,uniquepart=base,hash=21a4ea8a7e5e5e9e6e392772ba9db4ae}{%
            family={Wirth},
            familyi={W\bibinitperiod},
            given={H.},
-           giveni={H\bibinitperiod}}}%
+           giveni={H\bibinitperiod},
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {Frauenhofer ISE}%
@@ -36,8 +37,10 @@
       \strng{authorbibnamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
       \strng{authornamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
       \strng{authorfullhash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{09}
@@ -45,15 +48,15 @@
       \field{type}{Report}
       \field{year}{2022}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Elektrizitätswirtschaft}{book}{}
       \name{author}{1}{}{%
-        {{hash=e78a835d631c864072b65336d9d292f9}{%
+        {{un=0,uniquepart=base,hash=e78a835d631c864072b65336d9d292f9}{%
            family={Wawer},
            familyi={W\bibinitperiod},
            given={T.},
-           giveni={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -67,8 +70,10 @@
       \strng{authorbibnamehash}{e78a835d631c864072b65336d9d292f9}
       \strng{authornamehash}{e78a835d631c864072b65336d9d292f9}
       \strng{authorfullhash}{e78a835d631c864072b65336d9d292f9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{subtitle}{Eine praxisorientierte Einführung in Strommärkte und Stromhandel}
@@ -79,11 +84,12 @@
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
-        {{hash=a6d49318e9ce4c395a4df2c6cab1e485}{%
+        {{un=0,uniquepart=base,hash=a6d49318e9ce4c395a4df2c6cab1e485}{%
            family={Reitsam},
            familyi={R\bibinitperiod},
            given={N.},
-           giveni={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod},
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {Technische Universität München}%
@@ -97,14 +103,15 @@
       \strng{authorbibnamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
       \strng{authornamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
       \strng{authorfullhash}{a6d49318e9ce4c395a4df2c6cab1e485}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Potentiale einer solidarischen Eigenstromerzeugung der Industrie zur Bereitstellung von Backup-Leistung auf dem deutschen Strommarkt}
       \field{type}{Dissertation}
       \field{year}{2022}
-      \true{nocite}
     \endentry
   \enddatalist
 \endrefsection

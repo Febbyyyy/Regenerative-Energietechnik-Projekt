@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  12 OCT 2022 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.5)  13 OCT 2022 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,7 +768,7 @@ ef
 File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count363
@@ -880,12 +880,12 @@ File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count439
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/nume
-ric.bbx
-File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/auth
+oryear.bbx
+File: authoryear.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -895,23 +895,19 @@ File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count440
 \c@bbx:relatedtotal=\count441
 ))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/nume
-ric.cbx
-File: numeric.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/auth
+oryear.cbx
+File: authoryear.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -1497,10 +1493,10 @@ line 40.
 )
 \figureheight=\skip102
 \figurewidth=\skip103
-Package tocbasic Info: setting babel extension for `lod' on input line 193.
+Package tocbasic Info: setting babel extension for `lod' on input line 195.
 \scr@dte@diagramm@maxnumwidth=\skip104
 \c@diagramm=\count483
-Package tocbasic Info: setting babel extension for `atoc' on input line 200.
+Package tocbasic Info: setting babel extension for `atoc' on input line 202.
 \scr@dte@anhang@maxnumwidth=\skip105
 
 (/Users/fynn/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-s
@@ -1523,7 +1519,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28
-5.
+7.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1531,24 +1527,24 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (00_Projekt_RET.aux (01_deckblatt.aux) (02_verzeichnisse.aux) (08_anhang.aux))
 \openout1 = `00_Projekt_RET.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 285.
-LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-
 pdf.mkii
@@ -1600,8 +1596,8 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 285.
-Package hyperref Info: Link coloring OFF on input line 285.
+or `german'. on input line 287.
+Package hyperref Info: Link coloring OFF on input line 287.
  (00_Projekt_RET.out)
 (00_Projekt_RET.out)
 \@outlinefile=\write5
@@ -1614,7 +1610,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 285.
+(scrartcl)           before \begin{document} on input line 287.
 
 (/Users/fynn/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookma
 rk/bookmark.sty
@@ -1660,91 +1656,99 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '00_Projekt_RET.bbl' found.
  (00_Projekt_RET.bbl)
-Package biblatex Info: Reference section=0 on input line 285.
-Package biblatex Info: Reference segment=0 on input line 285.
+Package biblatex Info: Reference section=0 on input line 287.
+Package biblatex Info: Reference segment=0 on input line 287.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package scrbase Info: activating ngerman \figurename on input line 285.
-Package scrbase Info: activating ngerman \tablename on input line 285.
+Package scrbase Info: activating ngerman \figurename on input line 287.
+Package scrbase Info: activating ngerman \tablename on input line 287.
 \openout2 = `01_deckblatt.aux'.
 
 (01_deckblatt.tex
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
-.
+<bilder/ostfalia.png, id=6, 2007.5pt x 422.57875pt>
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 6.
+(pdftex.def)             Requested size: 270.3269pt x 56.9055pt.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+6.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
-.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+3.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+3.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-8.
+23.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-8.
+23.
 
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 8.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 8.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 8.
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 8.
-
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 23
+.
 
 (/Users/fynn/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wasysy
 m/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-)
-
-LaTeX Warning: No \author given.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 9.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
-) [0
-
+)) [0
 
 
 {/Users/fynn/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pd
-ftex.map}]
+ftex.map} <./bilder/ostfalia.png>]
 \openout2 = `02_verzeichnisse.aux'.
 
- (02_verzeichnisse.tex (00_Projekt_RET.toc)
+ (02_verzeichnisse.tex
+(00_Projekt_RET.toc
+Overfull \hbox (0.45267pt too wide) in paragraph at lines 12--12
+ [][] [][]\T1/lmr/m/n/12 Auswirkungen des Aus-baus der er-neu-er-ba-ren Ener-gi
+-en auf die Kraft- 
+ []
+
+)
 \tf@toc=\write6
 \openout6 = `00_Projekt_RET.toc'.
 
- (00_Projekt_RET.lof)
+ (00_Projekt_RET.lof
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2.
+
+Overfull \hbox (5.22345pt too wide) in paragraph at lines 2--2
+ [][] [][]\T1/lmr/m/n/12 Strompreisbildung an der B^^f6r-se nach dem Merit-Orde
+r-Prinzip (Reit- 
+ []
+
+)
 \tf@lof=\write7
 \openout7 = `00_Projekt_RET.lof'.
 
-
-(00_Projekt_RET.lot)
+ (00_Projekt_RET.lot)
 \tf@lot=\write8
 \openout8 = `00_Projekt_RET.lot'.
 
-<bilder/ostfalia.png, id=34, 2007.5pt x 422.57875pt>
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 10.
@@ -1753,8 +1757,7 @@ Package pdftex.def Info: bilder/ostfalia.png  used on input line 10.
 
 
 
- <./bilder/ostfalia.png>] (02_formelzeichen.tex))
-(03_einleitung.tex
+] (02_formelzeichen.tex)) (03_einleitung.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
  []
@@ -1772,25 +1775,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
-<./anhang/Doktorarbeit Reitsam.pdf, id=78, page=82, 597.50829pt x 845.0471pt>
+<./anhang/Doktorarbeit Reitsam.pdf, id=87, page=82, 597.50829pt x 845.0471pt>
 File: ./anhang/Doktorarbeit Reitsam.pdf Graphic file (type pdf)
 <use ./anhang/Doktorarbeit Reitsam.pdf, page 82>
 Package pdftex.def Info: ./anhang/Doktorarbeit Reitsam.pdf , page82 used on inp
 ut line 23.
-(pdftex.def)             Requested size: 418.25555pt x 237.75621pt.
+(pdftex.def)             Requested size: 368.06693pt x 222.92636pt.
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 26.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[3
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 27--34
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 34.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 40.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[3
-
- <./anhang/Doktorarbeit Reitsam.pdf>]
-<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=116, page=92, 478.00583pt x 68
+[4 <./anhang/Doktorarbeit Reitsam.pdf>]
+<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=130, page=92, 478.00583pt x 68
 2.86618pt>
 File: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf Graphic file (type pdf)
 <use ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, page 92>
@@ -1803,28 +1810,38 @@ Underfull \hbox (badness 4805) in paragraph at lines 45--45
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 49--51
-\T1/lmr/m/n/10.95 sta-bi-li-sie-rung fal-len un-ter den Be-griff
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/lmr/m/n/10.95 netz-be-trei-ber in Deutsch-land
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 49--51
-\T1/lmr/m/n/10.95 be-ra-li-sier-ten Strom-markts be-sit-zen die
+Underfull \hbox (badness 1478) in paragraph at lines 49--51
+[]\T1/lmr/m/n/12 Die Kraft-werks-re-ser-ven zur Netz-fre-
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 49--51
-\T1/lmr/m/n/10.95 ^^dcber-tra-guns-netz-be-trei-ber kei-ne ei-ge-nen
+Underfull \hbox (badness 2229) in paragraph at lines 49--51
+\T1/lmr/m/n/12 quenz-sta-bi-li-sie-rung fal-len un-ter den
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 49--51
-\T1/lmr/m/n/10.95 Kraft-wer-ke, so-dass f^^fcr die Sta-bi-li-sie-
+Underfull \hbox (badness 6268) in paragraph at lines 49--51
+\T1/lmr/m/n/12 be-sit-zen die ^^dcber-tra-guns-netz-be-trei-
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 49--51
-\T1/lmr/m/n/10.95 rung Ver-tr^^e4-ge mit Ener-gie-ver-sor-gungs-
+Underfull \hbox (badness 4899) in paragraph at lines 49--51
+\T1/lmr/m/n/12 ber kei-ne ei-ge-nen Kraft-wer-ke, so-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 49--51
+\T1/lmr/m/n/12 dass f^^fcr die Sta-bi-li-sie-rung Ver-tr^^e4-
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 49--51
+\T1/lmr/m/n/12 ge mit Ener-gie-ver-sor-gungs-un-ter-neh-
  []
 
 
@@ -1833,51 +1850,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--51
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 52--58
-[]\T1/lmr/m/n/10.95 Unter Re-ge-l-ener-gie ver-steht man zum
+Underfull \hbox (badness 1127) in paragraph at lines 52--58
+\T1/lmr/m/n/12 ge-l-ar-beit) ([][]Wa-wer []2022[]). Da es im
  []
 
-
-Underfull \hbox (badness 3199) in paragraph at lines 52--58
-\T1/lmr/m/n/10.95 gel-zo-ne-nun-gleich-ge-wich-ten (Re-ge-l-ar-beit)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
-
- []
-
-File: bilder/ostfalia.png Graphic file (type png)
-<use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 58.
-(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[4 <./anhang/Elektrizitätswirtschaft.pdf>]
-<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=157, page=115, 478.00583pt x 6
+<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=137, page=115, 478.00583pt x 6
 82.86618pt>
 File: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf Graphic file (type pdf)
 <use ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, page 115>
 Package pdftex.def Info: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf , page115 
 used on input line 62.
 (pdftex.def)             Requested size: 418.25555pt x 144.87497pt.
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 65.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[5 <./anhang/Elektrizitätswirtschaft.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 66--74
+
+ []
+
+<./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, id=176, page=116, 478.00583pt x 6
+82.86618pt>
+File: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf Graphic file (type pdf)
+<use ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf, page 116>
+Package pdftex.def Info: ./anhang/Elektrizit^^c3^^a4tswirtschaft.pdf , page116 
+used on input line 78.
+(pdftex.def)             Requested size: 418.25555pt x 90.06152pt.
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 87.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[6 <./anhang/Elektrizitätswirtschaft.pdf> <./anhang/Elektrizitätswirtschaft.p
+df>]
+Overfull \hbox (201.1507pt too wide) in paragraph at lines 92--103
+[][] 
+ []
+
 ) (05_kap3.tex) (06_schluss.tex)
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 296.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 298.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-
-[5 <./anhang/Elektrizitätswirtschaft.pdf>]
+ [7]
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 301.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 303.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [6
+ [8
 
 
 ]
 \openout2 = `08_anhang.aux'.
 
- (08_anhang.tex
-(00_Projekt_RET.atoc)
+ (08_anhang.tex (00_Projekt_RET.atoc)
 \tf@atoc=\write9
 \openout9 = `00_Projekt_RET.atoc'.
 
@@ -1885,52 +1911,50 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 5.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [7
+
+[9
 
 
 
-]) (00_Projekt_RET.aux (01_deckblatt.aux)
-(02_verzeichnisse.aux) (08_anhang.aux))
-
-LaTeX Warning: There were undefined references.
-
+]) (00_Projekt_RET.aux (01_deckblatt.aux) (02_verzeichnisse.aux)
+(08_anhang.aux))
 Package rerunfilecheck Info: File `00_Projekt_RET.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                00_Projekt_RET
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 \openout1 = `00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51943 strings out of 475390
- 1255051 string characters out of 2774153
- 2227421 words of memory out of 3000000
- 72468 multiletter control sequences out of 15000+600000
- 526657 words of font info for 66 fonts, out of 8000000 for 9000
+ 52000 strings out of 475390
+ 1256261 string characters out of 2774153
+ 2229905 words of memory out of 3000000
+ 72521 multiletter control sequences out of 15000+600000
+ 536596 words of font info for 64 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 108i,23n,106p,10611b,3166s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,23n,106p,10611b,3449s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.
-enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-r
-m.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/
-type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/
-install/fonts/type1/public/amsfonts/cm/cmr9.pfb></Library/Application Support/M
-iKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb></Library/Applic
-ation Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxo10.pfb></Library
-/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Li
-brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb
-></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri
-10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/l
-m/lmro10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
-blic/lm/lmro9.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/lm/lmssbx10.pfb>
-Output written on 00_Projekt_RET.pdf (8 pages, 1344971 bytes).
+enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-m
+athsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/l
+m/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/d
+vips/lm/lm-rm.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/in
+stall/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/Mi
+KTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb></Library/Applicati
+on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb></Li
+brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pf
+b></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmb
+xo10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
+/lm/lmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
+public/lm/lmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/t
+ype1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fo
+nts/type1/public/lm/lmri10.pfb></Library/Application Support/MiKTeX/texmfs/inst
+all/fonts/type1/public/lm/lmro10.pfb></Library/Application Support/MiKTeX/texmf
+s/install/fonts/type1/public/lm/lmro9.pfb></Library/Application Support/MiKTeX/
+texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></Library/Application Support
+/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 00_Projekt_RET.pdf (10 pages, 1352293 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
