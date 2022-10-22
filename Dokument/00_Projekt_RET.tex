@@ -19,9 +19,10 @@
 \usepackage{tabulary} %dynamische Spaltenbreite
 %\usepackage{longtable} % Erzeugen mehrseitiger Tabellen
 %\usepackage{ltxtable} % Kombination von Tabularx und Longtable
-\usepackage{footnote} %Fußnooten in Tabellen
+\usepackage{parnotes}
+%\usepackage{footnote} %Fußnooten in Tabellen
 %\makesavenoteenv{table}
-\makesavenoteenv{tabular} %Fußnoten in Tabellen
+%\makesavenoteenv{tabular} %Fußnoten in Tabellen
 \usepackage{booktabs} %Dicke Linien in Tabellen
 \usepackage{paralist} %Nummerierte Umgebung
 
@@ -34,7 +35,7 @@
 %\usepackage{breakurl} %Verbeserter Zeilenumbruch bei urls (eigentlich nicht benötigt)
 \usepackage{csquotes} %Zitate
 %\usepackage[backref=true,backend=biber,style=numeric,sorting=none,hyperref=true]{biblatex} %Literaturverzeichnis mit Zahl und \cite verwenden
-\usepackage[backref=true,backend=biber,style=authoryear,sorting=none,hyperref=true,maxcitenames=2]{biblatex} %Literaturverzeichnis Harvard Style und \parencite verwenden
+\usepackage[backref=true,backend=biber,style=numeric,sorting=none,hyperref=true,maxcitenames=2]{biblatex} %Literaturverzeichnis Harvard Style und \parencite verwenden
 \DefineBibliographyStrings{ngerman}{ 
 	andothers = {{et\,al\adddot}},             
 }
@@ -49,6 +50,7 @@
 \usepackage{makecell} %Für Zeilenumbrüche in Tabellen
 \usepackage{romannum} %Für römische Zahlen \Romannum{1} --> Große römische Zahl 
 \usepackage{multirow} %Gegenteil von multicolumn
+\usepackage[abs]{overpic} %Über Bilder malen
 
 
 %\KOMAoptions{DIV=calc} %Teilung für optimalen Satzspiegel (führt oft zu geringer Seitenbreite)
@@ -239,7 +241,7 @@ listname={Anhangsverzeichnis},% Titel des Verzeichnisses
 \pagestyle{scrheadings}
 \clearpairofpagestyles
 
-\ihead{\textbf{Regenerative Energietechnik\\Kraftwerksreserven Deutschland}\\\footnotesize{Moritz Deckert, Fynn Linnenbrügger}}
+\ihead{\textbf{Regenerative Energietechnik\\Kraftwerksreserven in Deutschland}\\\footnotesize{Moritz Deckert, Fynn Linnenbrügger}}
 \ohead{\includegraphics[height=15mm]{bilder/ostfalia.png}} %Logo Kopfzeile
 
 %\ifoot{Linnenbrügger, Fynn} %Name im linken Feld
