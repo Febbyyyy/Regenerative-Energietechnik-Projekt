@@ -215,6 +215,8 @@
 			
 			Aus Tabelle \ref{Tab. Übersicht der Präqualifizierten Leistung je PrimärenergieträgerKategorie in Deutschland} können die präqualifizierten Leistungen je Primärenergieträger entnommen werden.
 			Auffällig ist der hohe Anteil an Wasserkraft und Erdgas mit \SI{64,3}{\percent} und \SI{15,1}{\percent} an der Sekundärreserve bzw. \SI{42,3}{\percent} und \SI{21,1}{\percent} an der Minutenreserve.
+			Hierbei findet keine Unterteilung in Laufwasserkraftwerke oder Speicherkraftwerke statt.
+			Da die Ausschreibung der Reserven täglich stattfindet, finden saisonale Schwankung der Wasserkraft durchaus Berücksichtigung \cite{Doktorarbeit_Reitsam}.
 			Konventionellen Braun- und Steinkohlekraftwerken haben ebenfalls einen großen Anteil an der Minutenreserve mit \SI{21,5}{\percent}.
 			Die vorgehaltene Leistung steigt mit der Regelenergieart stetig an.
 			Des Weiteren ist gut zu erkennen, dass Windkraft, Batteriespeicher und Demand-Side-Management Systeme keinen nennenswerten Beitrag zur Netzfrequenzstabilisierung leisten. \\
@@ -326,7 +328,8 @@
 			Besonders massiv zeigt sich dieses Problem im Winterhalbjahr, da der allgemeine Strombedarf größer ausfällt.
 			Die Windparks im Norden des Landes produzieren viel Strom, welcher unter anderem aufgrund des mangelnden Netzausbaus nicht von Nord nach Süd transportiert werden kann.
 			Um diesen Engpässen entgegenzuwirken und ein Gleichgewicht herzustellen, werden im Norden konventionelle Kraftwerke heruntergefahren und im Süden mit gleicher Leistung hochgefahren (s. Abb. \ref{Abb. Reserven Deutschland}).
-			So findet ein Ausgleich bzw. eine Entlastung des Stromnetzes über die Grenzen der Regelzonen hinweg statt \cite{Netz_Kapa_Reserve_NextKraftwerke}.
+			So findet ein Ausgleich bzw. eine Entlastung des Stromnetzes über die Grenzen der Regelzonen hinweg statt \cite{Netz_Kapa_Reserve_NextKraftwerke}. \\
+			
 			Kraftwerke können auf zwei verschiedene Arten in die Netzreserve überführt werden.
 			Zum einen durch die freie Kontrahierung von Anlagen im In- und Ausland.
 			Zum anderen durch Ausweisung von vorläufig oder endgültig stillzulegenden Kraftwerken, welche zuvor von den ÜNB und der BNetzA als systemrelevant eingestuft werden und damit nach dem EnWG nicht still gelegt werden dürfen \cite{EnWG}. \\
@@ -371,6 +374,35 @@
 			Des Weiteren dürfen die Anlagen der Netzreserve auch an den Ausschreibungen der Kapazitätsreserve teilnehmen.
 			Bei erfolgreicher Ausschreibung erfolgt die Vergütung ausschließlich anhand der Kapazitätsreserve.
 			Auf Anordnung der ÜNB müssen die Kraftwerksbetreiber jedoch ihre angegebene Leistung innerhalb der Netzreserve an den aktuellen Bedarf anpassen.
+			
+			\begin{table}[H]
+				\centering
+				\caption{Einsätze der Netzreserve \cite{Monitoringbericht_BNetzA}}
+				\label{Tab. Einsätze Netzreserve}
+				\begin{tabular}{lrrrr}
+					& \makecell[c]{Tage \\ $\left[\si{\day}\right]$} & \makecell[c]{Einsatzdurchschnitt \\ $\left[\si{\mega\watt}\right]$} & \makecell[c]{Maximale Leistungsanforderung \\ $\left[\si{\mega\watt}\right]$} & \makecell[c]{Summe \\ $\left[\si{\mega\watt\hour}\right]$} \\ \hline
+					Januar & \num{9} & \num{148} & \num{622} & \num{12832} \\
+					Februar & \num{14} & \num{228} & \num{1145} & \num{41638} \\
+					März & \num{8} & \num{121} & \num{342} & \num{10147} \\
+					April & \num{14} & \num{183} & \num{872} & \num{31022} \\
+					Mai & \num{22} & \num{232} & \num{930} & \num{85851} \\
+					Juni & \num{24} & \num{246} & \num{560} & \num{95267} \\
+					Juli & \num{20} & \num{208} & \num{912} & \num{58588} \\
+					August & \num{19} & \num{226} & \num{745} & \num{71112} \\
+					September & \num{21} & \num{297} & \num{990} & \num{71576} \\
+					Oktober & \num{10} & \num{156} & \num{385} & \num{18324} \\
+					November & \num{17} & \num{322} & \num{1049} & \num{95149} \\
+					Dezember & \num{13} & \num{231} & \num{740} & \num{43569} \\ \hline
+					Gesamt & \uuline{\num{191}} &  &  & \uuline{\num{635074}} \\ \hline
+				\end{tabular}
+			\end{table}
+			
+			Aus dem Monitoringbericht der BNetzA geht hervor, dass in 2020 an \num{191} Tagen insgesamt ca. \SI{635}{\giga\watt\hour} Strom aus Kraftwerken der Netzreserve erzeugt wurden \cite{Monitoringbericht_BNetzA}.
+			In den Monaten Februar und November sind dabei die größten Leistungen angefallen.
+			Dies ist mit dem bereits angesprochenen Nord-Süd-Gefälle zu begründen.	
+			Weiterhin finden in Sommermonaten erhebliche Kraftwerkseinsätze statt.
+			Hierbei rückt nicht die maximal angeforderte Leistung in den Vordergrund sondern die erzeugte Menge Strom.
+			In den Sommermonaten kann dies an unterschiedlichen Faktoren liegen und ist nicht wie im Winter an die besonders hohe Windstromerzeugung gekoppelt.
 		    
 		\subsubsection{Kapazitätsreserve}
 		
