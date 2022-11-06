@@ -112,6 +112,7 @@
 				\caption{Mitglieder der ENTSO-E für PRL\parencite{ENTSO-E_PRL}}
 				\label{Abb. Mitglieder ENTSO-E}
 			\end{figure}
+		\clearpage
 			
 			Die Ausschreibung von Primärregelleistung erfolgt täglich für einen Erbringungszeitraum von 0:00 Uhr bis 24:00 Uhr am Folgetag.
 			Angebotsabgabe erfolgt am Vortag bis 8:00 Uhr  \parencite{regelleistungnet_PRL_Ausschreibung}.
@@ -147,11 +148,13 @@
 			Da die Sekundärregelleistungsanbieter ihre Anlagen im Verbund nicht auf einige \si{\mega\watt} modulieren können, besteht fast kontinuierlicher Bedarf an Sekundärregelleistung.
 			Da jeder ÜNB in seiner Regelzone SRL zu- und abschalten kann, besteht eine Austauschpflicht unter den vier ÜNB.
 			Auf diese Weise wird ineffizientes gegeneinander regeln unter den Regelzonen auf ein Minimum reduziert \parencite{SRL_NextKraftwerke}. \\
+			\clearpage
 			
 			Die Mindestangebotsgröße beträgt \SI{5}{\mega\watt}.
 			Jedoch können nach einer Änderung des Beschlusses "`zur Festlegung von Ausschreibungsbedingungen und Veröffentlichungspflichten für Sekundärregelung"' der BNetzA auch Angebote in Höhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} eingereicht werden.
 			Diese Änderung ist an die Maßgabe geknüpft, dass die Anbieter ausschließlich ein Angebot je Zeitscheibe für positive oder negative Regelleistung abgeben dürfen \parencite{Beschluss_SRL}.
-			Die Reduzierung erleichtert den Eintritt für kleinere Anbieter oder virtuelle Kraftwerke, welche mehrere Anlagen poolen\footnote{Pooling bezeichnet das Zusammenschalten, meist zu virtuellen Kraftwerken, von mehreren kleinen Anlagen zur Stromerzeugung oder -speicherung.}. \\
+			Die Reduzierung erleichtert den Eintritt für kleinere Anbieter oder virtuelle Kraftwerke, welche mehrere Anlagen poolen.
+			Pooling bezeichnet das Zusammenschalten, meist zu virtuellen Kraftwerken, von mehreren kleinen Anlagen zur Stromerzeugung oder -speicherung. \\
 			
 			Die Sekundärregelreserven werden täglich ausgeschrieben. 
 			Bis zum Vortag um 9:00 Uhr muss das Angebot für den Folgetag abgegeben werden.
@@ -232,13 +235,13 @@
 			Nach Stand vom 28.01.2022 haben 30 Unternehmen Primärregelleistung und jeweils 34 Sekundärregelleistung bzw. Minutenreserve angeboten. 
 						
 			\begin{table}[H]
-				\renewcommand*{\arraystretch}{1.3} %höhere Zeilen in tabellen
+				\renewcommand*{\arraystretch}{1.2} %höhere Zeilen in tabellen
 				\centering
-				\caption{Übersicht der Präqualifizierten Leistung (in \si{\giga\watt}) je Primärenergieträger/Kategorie in Deutschland, Stand: 01.01.2022 \cite{regelleistungnet_PRL_Ausschreibung}}
+				\caption{Präqualifizierte Leistung je Primärenergieträger/Kategorie in Deutschland, Stand: 01.01.2022 \cite{regelleistungnet_PRL_Ausschreibung}}
 				\label{Tab. Übersicht der Präqualifizierten Leistung je PrimärenergieträgerKategorie in Deutschland}
 				\begin{tabular}{lrrrrr}
 					\hline
-					Technologie & FCR  & aFRR$+$ & aFRR$-$& mFRR$+$ & mFRR$-$ \\ \hline
+					\makecell[c]{Technologie \\ $\left[-\right]$} & \makecell[c]{FCR \\ $\left[\si{\giga\watt}\right]$}  & \makecell[c]{aFRR$+$ \\ $\left[\si{\giga\watt}\right]$} & \makecell[c]{aFRR$-$ \\ $\left[\si{\giga\watt}\right]$} & \makecell[c]{mFRR$+$ \\ $\left[\si{\giga\watt}\right]$} & \makecell[c]{mFRR$-$ \\ $\left[\si{\giga\watt}\right]$} \\ \hline
 					Kernenergie & 0,22 & 0,18 & 0,19 & 1,27 & 1,27 \\
 					Braunkohle & 0,56 & 1,20 & 1,21 & 4,16 & 4,20 \\
 					Steinkohle & 0,48 & 1,05 & 1,07 & 2,98 & 2,88 \\
@@ -302,13 +305,6 @@
 		
 	\subsection{Kraftwerksreserven zur Reserveleistungsvorhaltung}
 	
-		Abbildung \ref{Abb. Reserven Deutschland} zeigt die deutschlandweite Verteilung von Kraftwerken der Netz-, Kapazitätsreserve sowie den Braunkohlekraftwerken der Sicherheitsbereitschaft.
-		Die drei Arten der Reserveleistungsvorhaltung sind im Energiewirtschaftsgesetz gesetzlich verankert und gegenwärtige Rahmenbedingungen klar definiert.
-		Anhand der Karte wird verdeutlicht, dass die Netzreserve vor allem in Süddeutschland präsent ist (orange Kennzeichnung).
-		Die Gründe für die überaus starke regionale Konzentration im Süden werden in Kapitel \ref{sect: Netzreserve} eruiert.
-		Die rot gekennzeichneten Kapazitätsreserven sind hauptsächlich im Norden Deutschlands zu finden.
-		Die drei verbliebenen Braunkohlekraftwerke aus der Sicherheitsbereitschaft sind mit blauen Punkten gekennzeichnet.
-		
 		\begin{figure} [H]
 			\centering
 			\begin{overpic}[width=0.5\textwidth]{./anhang/Karte Kraftwerke.pdf}%
@@ -319,6 +315,13 @@
 			\caption{Netz-,Kapazitätsreserven und Sicherheitsbereitschaft in Deutschland, Quelle: Eigene Darstellung}
 			\label{Abb. Reserven Deutschland}
 		\end{figure}
+	
+		Abbildung \ref{Abb. Reserven Deutschland} zeigt die deutschlandweite Verteilung von Kraftwerken der Netz-, Kapazitätsreserve sowie den Braunkohlekraftwerken der Sicherheitsbereitschaft.
+		Die drei Arten der Reserveleistungsvorhaltung sind im Energiewirtschaftsgesetz gesetzlich verankert und gegenwärtige Rahmenbedingungen klar definiert.
+		Anhand der Karte wird verdeutlicht, dass die Netzreserve vor allem in Süddeutschland präsent ist (orange Kennzeichnung).
+		Die Gründe für die überaus starke regionale Konzentration im Süden werden in Kapitel \ref{sect: Netzreserve} eruiert.
+		Die rot gekennzeichneten Kapazitätsreserven sind hauptsächlich im Norden Deutschlands zu finden.
+		Die drei verbliebenen Braunkohlekraftwerke aus der Sicherheitsbereitschaft sind mit blauen Punkten gekennzeichnet.
 	
 		\subsubsection{Netzreserve} \label{sect: Netzreserve}
 		
@@ -334,32 +337,6 @@
 			Zum einen durch die freie Kontrahierung von Anlagen im In- und Ausland.
 			Zum anderen durch Ausweisung von vorläufig oder endgültig stillzulegenden Kraftwerken, welche zuvor von den ÜNB und der BNetzA als systemrelevant eingestuft werden und damit nach dem EnWG nicht still gelegt werden dürfen \cite{EnWG}. \\
 			
-			\begin{longtable}{lllr}
-				%				\centering
-				\caption{Kraftwerke in der Netzreserve \cite{Excel_Kraftwerksliste}}			
-				\label{Tab. Kraftwerke Netzreserve} \\
-				\hline
-				Kraftwerk & Ort & Energieträger & Nettoleistung \\ \hline 
-				Heizkraftwerk Altbach & Altbach & Steinkohle & \SI{433}{\mega\watt} \\
-				Bexbach & Bexbach & Steinkohle & \SI{726}{\mega\watt} \\
-				GT 11 \& GT 12 & Darmstadt & Erdgas & \SI{93}{\mega\watt} \\
-				Staudinger 4 & Großkrotzenburg & Erdgas & \SI{622}{\mega\watt} \\
-				Ingolstadt 3 und 4 & Großmehring & Heizöl & \SI{772}{\mega\watt} \\
-				HLB 5 und 6 & Heilbronn & Steinkohle & \SI{250}{\mega\watt} \\
-				KWM Block 3 & Hohenhameln & Steinkohle & \SI{690}{\mega\watt} \\ 
-				RDK 4S DT \& GT & Karlsruhe & Erdgas & \SI{353}{\mega\watt} \\
-				KW2 DT27 & Mainz & Erdgas & \SI{250}{\mega\watt} \\
-				GKM Block 7 & Mannheim & Steinkohle & \SI{425}{\mega\watt} \\
-				Kraftwerk Marbach & Marbach & Heizöl & \SI{425}{\mega\watt} \\
-				Heyden 4 & Petershagen & Steinkohle & \SI{875}{\mega\watt} \\
-				Weiher 3 & Quierscheid & Steinkohle & \SI{656}{\mega\watt} \\
-				UPM Schongau DKW T4 \& T5 & Schongau & Erdgas & \SI{64}{\mega\watt} \\
-				Irsching 3 & Vohburg & Heizöl & \SI{415}{\mega\watt} \\
-				Walheim Block 1 \& 2 & Walheim & Steinkohle & \SI{244}{\mega\watt} \\
-				Kraftwerk Thyrow & Zossen & Erdgas & \SI{187}{\mega\watt} \\ \hline
-				Summe &  &  & $\uuline{\SI{7480}{\mega\watt}}$ \\ \hline
-			\end{longtable}
-			
 			Die Höhe der bereitzustellenden Reserve wird anhand von Berechnungen der BNetzA und der jährlichen Systemanalyse der ÜNB ermittelt.
 			Innerhalb der Berechnung werden Erzeugungsspitzen im Norden, Kraftwerksausfälle im Süden und Nichtverfügbarkeiten von Netzbetriebsmitteln gegenüber gestellt.
 			Anschließend erfolgt die Ermittlung, welche Leistung im Süden unterhalb des \num{50,4} Breitengrades zugeschaltet werden muss, um Angebot und Nachfrage gesamtheitlich auszubalancieren.
@@ -367,7 +344,35 @@
 			Für den Betrachtungszeitraum 2023/2024 bestätigt die BNetzA die Reserveleistung in Höhe von \SI{5,361}{\giga\watt}, welche durch die Systemanalyse der ÜNB ermittelt wurde \cite{Bedarf_Netz_Kapa_Reserve}.		
 			Die geplante Verringerung der Leistung ist an den fortlaufenden Netzausbau geknüpft und kann nur bei Einhaltung der Ausbauziele eingehalten werden. 
 			In Tabelle \ref{Tab. Kraftwerke Netzreserve} sind nach Stand des 31.05.2022 alle Kraftwerke der Netzreserve aufgeführt. 
-			Da lediglich \SI{7,48}{\giga\watt} von deutschen Kraftwerken bereitgestellt werden können, müssen zusätzliche ausländische Kraftwerkskapazitäten hinzugekauft werden. \\		
+			Da lediglich \SI{7,48}{\giga\watt} von deutschen Kraftwerken bereitgestellt werden können, müssen zusätzliche ausländische Kraftwerkskapazitäten hinzugekauft werden. 
+			
+			\begin{table}[H]
+				\centering
+				\caption{Kraftwerke in der Netzreserve \cite{Excel_Kraftwerksliste}}			
+				\label{Tab. Kraftwerke Netzreserve} 
+				\begin{tabular}{lllr}
+					\hline
+					\makecell[c]{Kraftwerk \\ $\left[-\right]$} & \makecell[c]{Ort \\ $\left[-\right]$} & \makecell[c]{Energieträger \\ $\left[-\right]$} & \makecell[c]{Nettoleistung \\ $\left[\si{\mega\watt}\right]$} \\ \hline 
+					Heizkraftwerk Altbach & Altbach & Steinkohle & \num{433} \\
+					Bexbach & Bexbach & Steinkohle & \num{726} \\
+					GT 11 \& GT 12 & Darmstadt & Erdgas & \num{93} \\
+					Staudinger 4 & Großkrotzenburg & Erdgas & \num{622} \\
+					Ingolstadt 3 und 4 & Großmehring & Heizöl & \num{772} \\
+					HLB 5 und 6 & Heilbronn & Steinkohle & \num{250} \\
+					KWM Block 3 & Hohenhameln & Steinkohle & \num{690} \\ 
+					RDK 4S DT \& GT & Karlsruhe & Erdgas & \num{353} \\
+					KW2 DT27 & Mainz & Erdgas & \num{250} \\
+					GKM Block 7 & Mannheim & Steinkohle & \num{425} \\
+					Kraftwerk Marbach & Marbach & Heizöl & \num{425} \\
+					Heyden 4 & Petershagen & Steinkohle & \num{875} \\
+					Weiher 3 & Quierscheid & Steinkohle & \num{656} \\
+					UPM Schongau DKW T4 \& T5 & Schongau & Erdgas & \num{64} \\
+					Irsching 3 & Vohburg & Heizöl & \num{415} \\
+					Walheim Block 1 \& 2 & Walheim & Steinkohle & \num{244} \\
+					Kraftwerk Thyrow & Zossen & Erdgas & \num{187} \\ \hline
+					Summe &  &  & \num{7480} \\ \hline
+				\end{tabular}
+			\end{table}
 			
 			Die Vergütung erfolgt anhand der Kosten für die dauerhafte Herstellung der Betriebsbereitschaft (Betriebsbereitschaftskosten) und anhand eines Leistungs- und/ oder Arbeitspreises, falls diese vorher mit dem zuständigen ÜNB ausgemacht worden sind \cite{EnWG}.
 			Die Ausweisung durch die BNetzA und ÜNB ist für 24 Monate bindend und kann bei erneuter Ausweisung um weitere 24 Monate verlängert werden.		
@@ -380,6 +385,7 @@
 				\caption{Einsätze der Netzreserve \cite{Monitoringbericht_BNetzA}}
 				\label{Tab. Einsätze Netzreserve}
 				\begin{tabular}{lrrrr}
+					\hline
 					& \makecell[c]{Tage \\ $\left[\si{\day}\right]$} & \makecell[c]{Einsatzdurchschnitt \\ $\left[\si{\mega\watt}\right]$} & \makecell[c]{Maximale Leistungsanforderung \\ $\left[\si{\mega\watt}\right]$} & \makecell[c]{Summe \\ $\left[\si{\mega\watt\hour}\right]$} \\ \hline
 					Januar & \num{9} & \num{148} & \num{622} & \num{12832} \\
 					Februar & \num{14} & \num{228} & \num{1145} & \num{41638} \\
@@ -393,7 +399,7 @@
 					Oktober & \num{10} & \num{156} & \num{385} & \num{18324} \\
 					November & \num{17} & \num{322} & \num{1049} & \num{95149} \\
 					Dezember & \num{13} & \num{231} & \num{740} & \num{43569} \\ \hline
-					Gesamt & \uuline{\num{191}} &  &  & \uuline{\num{635074}} \\ \hline
+					Gesamt & \num{191} &  &  & \num{635074} \\ \hline
 				\end{tabular}
 			\end{table}
 			
@@ -421,13 +427,13 @@
 				\label{Tab. Kraftwerke Kapazitätsreserve}
 				\begin{tabular}{lllr}
 					\hline
-					Kraftwerk & Ort & Energieträger & Nettoleistung \\ \hline
-					Gasturbinenkraftwerk Ahrensfelde & Ahrensfelde & Erdgas & \SI{148}{\mega\watt} \\
-					Gaskraftwerk Emden & Emden & Erdgas & \SI{52}{\mega\watt} \\
-					Gaskraftwerk Landesbergen & Landesbergen & Erdgas & \SI{56}{\mega\watt} \\
-					Gersteinwerk F \& G & Werne & Erdgas & \SI{820}{\mega\watt} \\
-					Kraftwerk Thyrow & Zossen & Erdgas & \SI{187}{\mega\watt} \\ \hline
-					Summe &  &  & $\uuline{\SI{1263}{\mega\watt}}$ \parnote{Laut Netztransparenz.de wurden \SI{1086}{\mega\watt} kontrahiert. Der Unterschied zu der Angabe der BNetzA besteht in unterschiedlichen Aussagen zur Nettokraftwerksleistung und Nichtberücksichtigung der Dampfturbinen im Gersteinkraftwerk E \& F. Diese sind jedoch in der Excel-Liste der BNetzA als Kapazitätsreserve ausgewiesen \cite{Excel_Kraftwerksliste}.} \\ \hline
+					\makecell[c]{Kraftwerk \\ $\left[-\right]$} & \makecell[c]{Ort \\ $\left[-\right]$} & \makecell[c]{Energieträger \\ $\left[-\right]$} & \makecell[c]{Nettoleistung \\ $\left[\si{\mega\watt}\right]$} \\ \hline 
+					Gasturbinenkraftwerk Ahrensfelde & Ahrensfelde & Erdgas & \num{148} \\
+					Gaskraftwerk Emden & Emden & Erdgas & \num{52} \\
+					Gaskraftwerk Landesbergen & Landesbergen & Erdgas & \num{56} \\
+					Gersteinwerk F \& G & Werne & Erdgas & \num{820} \\
+					Kraftwerk Thyrow & Zossen & Erdgas & \num{187} \\ \hline
+					Summe &  &  & \num{1263} \parnote{Laut Netztransparenz.de wurden \SI{1086}{\mega\watt} kontrahiert. Der Unterschied zu der Angabe der BNetzA besteht in unterschiedlichen Aussagen zur Nettokraftwerksleistung und Nichtberücksichtigung der Dampfturbinen im Gersteinkraftwerk E \& F. Diese sind jedoch in der Excel-Liste der BNetzA als Kapazitätsreserve ausgewiesen \cite{Excel_Kraftwerksliste}.} \\ \hline
 				\end{tabular}
 				\parbox{0.95\textwidth}{\parnotes}
 			\end{table}	
@@ -468,11 +474,11 @@
 				\label{Tab. Kraftwerke Sicherheitsbereitschaft}
 				\begin{tabular}{lllr}
 					\hline
-					Kraftwerk & Ort & Energieträger & Nettoleistung \\ \hline
-					Niederaußem E \& F & Bergheim & Braunkohle & \SI{594}{\mega\watt} \\
-					Neurath C & Grevenbroich & Braunkohle & \SI{292 }{\mega\watt} \\
-					Kraftwerk Jänschwalde Block E \& F & Jänschwalde & Braunkohle & \SI{1000}{\mega\watt} \\ \hline
-					Summe &  &  & $\uuline{\SI{1886}{\mega\watt}}$ \\ \hline
+					\makecell[c]{Kraftwerk \\ $\left[-\right]$} & \makecell[c]{Ort \\ $\left[-\right]$} & \makecell[c]{Energieträger \\ $\left[-\right]$} & \makecell[c]{Nettoleistung \\ $\left[\si{\mega\watt}\right]$} \\ \hline 
+					Niederaußem E \& F & Bergheim & Braunkohle & \num{594} \\
+					Neurath C & Grevenbroich & Braunkohle & \num{292} \\
+					Kraftwerk Jänschwalde Block E \& F & Jänschwalde & Braunkohle & \num{1000} \\ \hline
+					Summe &  &  & \num{1886} \\ \hline
 				\end{tabular}
 			\end{table}
 		
