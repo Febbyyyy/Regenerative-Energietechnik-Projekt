@@ -23,7 +23,7 @@
 *.ini
 *.zip
 *.7z
-/Dokumentation/00_Hausarbeit_Smart-Grid.pdf
+/Dokumentation/00_Projekt_RET.pdf
 
 ## AutoCAD Sicherungsdateien:
 *.ds$
