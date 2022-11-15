@@ -20,13 +20,21 @@
 .*.lb
 
 ##Sonstiges
+*.ini
 *.zip
 *.7z
-/Dokumentation/00_Projekt_Heizungstechnik.pdf
+/Dokumentation/00_Projekt_RET.pdf
 
 ## AutoCAD Sicherungsdateien:
 *.ds$
 *.bak
+*.dwl
+*.dwl2
+*.shx
+
+## Revit Sicherungsdateien:
+*.*.rvt
+*.log
 *.dwl
 *.dwl2
 
@@ -271,7 +279,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
 #Mac Speicher Datei
 *.DS_Store
-*.pr$
-Dokument/00_Projekt_RET.pdf
