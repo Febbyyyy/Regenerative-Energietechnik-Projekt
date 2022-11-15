@@ -1,0 +1,778 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Frauenhofer_PV_Bericht}{report}{}
+      \name{author}{1}{}{%
+        {{hash=21a4ea8a7e5e5e9e6e392772ba9db4ae}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Frauenhofer ISE}%
+      }
+      \strng{namehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{fullhash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{bibnamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authorbibnamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authornamehash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \strng{authorfullhash}{21a4ea8a7e5e5e9e6e392772ba9db4ae}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{Aktuelle Fakten zur Photovoltaik in Deutschland}
+      \field{type}{Report}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{haucap}{article}{}
+      \name{author}{1}{}{%
+        {{hash=79e9982f4623ebcfaf6e0086d1562dc5}{%
+           family={Haucap},
+           familyi={H\bibinitperiod},
+           given={Justus},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \strng{fullhash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \strng{bibnamehash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \strng{authorbibnamehash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \strng{authornamehash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \strng{authorfullhash}{79e9982f4623ebcfaf6e0086d1562dc5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Wirtschaftspolitik}
+      \field{month}{12}
+      \field{title}{Braucht Deutschland einen Kapazitätsmarkt für eine sichere Stromversorgung?}
+      \field{volume}{62}
+      \field{year}{2013}
+      \field{pages}{257\bibrangedash 269}
+      \range{pages}{13}
+    \endentry
+    \entry{Elektrizitätswirtschaft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e78a835d631c864072b65336d9d292f9}{%
+           family={Wawer},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{fullhash}{e78a835d631c864072b65336d9d292f9}
+      \strng{bibnamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authorbibnamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authornamehash}{e78a835d631c864072b65336d9d292f9}
+      \strng{authorfullhash}{e78a835d631c864072b65336d9d292f9}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Eine praxisorientierte Einführung in Strommärkte und Stromhandel}
+      \field{title}{Elektrizitätswirtschaft}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Doktorarbeit_Reitsam}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a6d49318e9ce4c395a4df2c6cab1e485}{%
+           family={Reitsam},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technische Universität München}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \strng{namehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{fullhash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{bibnamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authorbibnamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authornamehash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \strng{authorfullhash}{a6d49318e9ce4c395a4df2c6cab1e485}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Potentiale einer solidarischen Eigenstromerzeugung der Industrie zur Bereitstellung von Backup-Leistung auf dem deutschen Strommarkt}
+      \field{type}{Dissertation}
+      \field{year}{2022}
+    \endentry
+    \entry{ENTSO-E_PRL}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={ENTSO-E},
+           familyi={E\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Frequency Containment Reserves (FCR)}
+      \field{urlday}{16}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/fcr/#basic-principle
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/fcr/#basic-principle
+      \endverb
+    \endentry
+    \entry{Beschluss_PRL}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Festlegungsverfahren zu den Ausschreibungsbedingungen und Veröffentlichungspflichten für Primärregelleistung}
+      \field{type}{Beschluss}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Beschluss_SRL}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Festlegungsverfahren zu den Ausschreibungsbedingungen und Veröffentlichungspflichten für Sekundärregelung}
+      \field{type}{Beschluss}
+      \field{year}{2017}
+    \endentry
+    \entry{Beschluss_MRL}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Festlegungsverfahren zu den Ausschreibungsbedingungen und Veröffentlichungspflichten für Minutenreserve}
+      \field{type}{Beschluss}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{regelleistungnet_PRL_Ausschreibung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0b8fc2da17433ae2aa232b848f9f394c}{%
+           family={ÜNB},
+           familyi={Ü\bibinitperiod},
+           given={Deutschland},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \strng{fullhash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \strng{bibnamehash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \strng{authorbibnamehash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \strng{authornamehash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \strng{authorfullhash}{0b8fc2da17433ae2aa232b848f9f394c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Internetplattform zur Vergabe von Regelleistung}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.regelleistung.net/ext/
+      \endverb
+      \verb{url}
+      \verb https://www.regelleistung.net/ext/
+      \endverb
+    \endentry
+    \entry{SRL_NextKraftwerke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de960b74e0a5e99530d9702307824d1d}{%
+           family={Next-Kraftwerke},
+           familyi={N\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{fullhash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{bibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorbibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authornamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorfullhash}{de960b74e0a5e99530d9702307824d1d}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist Sekundärregelleistung (SRL)/ automatic Frequency Restoration Reserves (aFRR)?}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.next-kraftwerke.de/wissen/sekundaerreserve
+      \endverb
+      \verb{url}
+      \verb https://www.next-kraftwerke.de/wissen/sekundaerreserve
+      \endverb
+    \endentry
+    \entry{Angerer_Krohns}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f00b79966df4ccb40120043d016d29d5}{%
+           family={Angerer},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=480d61eb445d2837a8aecd155368bd62}{%
+           family={Krohns},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Shaker Verlag}%
+      }
+      \strng{namehash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \strng{fullhash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \strng{bibnamehash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \strng{authorbibnamehash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \strng{authornamehash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \strng{authorfullhash}{ff1dd0380baf6eebb24e4883c93a1bf6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Bewertung von technischen Flexibilitätsoptionen am Beispiel des Intraday-Handels}
+      \field{title}{Stromhandel auf europäischen Spotmärkten}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{BMWi_2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bc7855623d113d22df490f1a34efd159}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelima Energie},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Shaker Verlag}%
+      }
+      \strng{namehash}{bc7855623d113d22df490f1a34efd159}
+      \strng{fullhash}{bc7855623d113d22df490f1a34efd159}
+      \strng{bibnamehash}{bc7855623d113d22df490f1a34efd159}
+      \strng{authorbibnamehash}{bc7855623d113d22df490f1a34efd159}
+      \strng{authornamehash}{bc7855623d113d22df490f1a34efd159}
+      \strng{authorfullhash}{bc7855623d113d22df490f1a34efd159}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Bewertung von technischen Flexibilitätsoptionen am Beispiel des Intraday-Handels}
+      \field{title}{Stromhandel auf europäischen Spotmärkten}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{bbh_blog}{book}{}
+      \name{author}{3}{}{%
+        {{hash=a2817b16945887e946640eeecf5f1e5d}{%
+           family={Zenke},
+           familyi={Z\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=29a6feead0bf3d3c973ed08c87c83ab9}{%
+           family={Dessau},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b20ffbd16c722f4f04868d9bc7e4afd2}{%
+           family={Heymann},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{73512a7c4bbb0192b78908521cffa855}
+      \strng{fullhash}{532727611f934ad925f67605c33610c0}
+      \strng{bibnamehash}{532727611f934ad925f67605c33610c0}
+      \strng{authorbibnamehash}{532727611f934ad925f67605c33610c0}
+      \strng{authornamehash}{73512a7c4bbb0192b78908521cffa855}
+      \strng{authorfullhash}{532727611f934ad925f67605c33610c0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Kommission macht weg für Braunkohlereserve frei}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bbh-blog.de/alle-themen/energie/kommission-macht-weg-fuer-kapazitaetsreserve-frei/
+      \endverb
+      \verb{url}
+      \verb https://www.bbh-blog.de/alle-themen/energie/kommission-macht-weg-fuer-kapazitaetsreserve-frei/
+      \endverb
+    \endentry
+    \entry{Bericht_Momentanreserve}{report}{}
+      \name{author}{1}{}{%
+        {{hash=185e21db5284eef2563eb77b873e9fd3}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={F.\bibnamedelimi Knoll},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Universität Greifswald, Universität Rostock}%
+        {Hochschule Stralsund}%
+      }
+      \strng{namehash}{185e21db5284eef2563eb77b873e9fd3}
+      \strng{fullhash}{185e21db5284eef2563eb77b873e9fd3}
+      \strng{bibnamehash}{185e21db5284eef2563eb77b873e9fd3}
+      \strng{authorbibnamehash}{185e21db5284eef2563eb77b873e9fd3}
+      \strng{authornamehash}{185e21db5284eef2563eb77b873e9fd3}
+      \strng{authorfullhash}{185e21db5284eef2563eb77b873e9fd3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{subtitle}{Eine interdisziplinäre Einführung unter Berücksichtigung technischer, ökonomischer und juristischer Aspekte}
+      \field{title}{Momentanreserve in einem überwiegend EE-basierten Stromsystem}
+      \field{type}{Report}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Gawlik}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c585f0b78a7f1711c36fc11ea25695f}{%
+           family={R.\bibnamedelimi Schürhuber},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={A.\bibnamedelimi Lechner},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ac8639102851cd1c94da6bb1dc05b614}{%
+           family={Gawlik},
+           familyi={G\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vienna}%
+      }
+      \strng{namehash}{4ee7d92a5714af8e85950360a21faac1}
+      \strng{fullhash}{4ee7d92a5714af8e85950360a21faac1}
+      \strng{bibnamehash}{4ee7d92a5714af8e85950360a21faac1}
+      \strng{authorbibnamehash}{4ee7d92a5714af8e85950360a21faac1}
+      \strng{authornamehash}{4ee7d92a5714af8e85950360a21faac1}
+      \strng{authorfullhash}{4ee7d92a5714af8e85950360a21faac1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Elektrotechnik und Informationstechnik}
+      \field{number}{8}
+      \field{subtitle}{Eine praxisorientierte Einführung in Strommärkte und Stromhandel}
+      \field{title}{Bereitstellung synthetischer Schwungmassedurch Wasserkraftwerke}
+      \field{volume}{133}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{388\bibrangedash 394}
+      \range{pages}{7}
+    \endentry
+    \entry{Energiespeicher}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0de54d62546751069e375510695b45a4}{%
+           family={Sterner},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c3463bc322e89ee49f8edf273a030e63}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vieweg}%
+      }
+      \strng{namehash}{b0f19853f73faf5856fb18263929218a}
+      \strng{fullhash}{b0f19853f73faf5856fb18263929218a}
+      \strng{bibnamehash}{b0f19853f73faf5856fb18263929218a}
+      \strng{authorbibnamehash}{b0f19853f73faf5856fb18263929218a}
+      \strng{authornamehash}{b0f19853f73faf5856fb18263929218a}
+      \strng{authorfullhash}{b0f19853f73faf5856fb18263929218a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{part}{2., korrigierte und ergänzte Auflage}
+      \field{subtitle}{Bedarf, Technologien, Integration}
+      \field{title}{Energiespeicher}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Regelleistung_NextKraftwerke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de960b74e0a5e99530d9702307824d1d}{%
+           family={Next-Kraftwerke},
+           familyi={N\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{fullhash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{bibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorbibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authornamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorfullhash}{de960b74e0a5e99530d9702307824d1d}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist Regelenergie}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.next-kraftwerke.de/wissen/regelenergie
+      \endverb
+      \verb{url}
+      \verb https://www.next-kraftwerke.de/wissen/regelenergie
+      \endverb
+    \endentry
+    \entry{Monitoringbericht_BNetzA}{report}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {BNetzA}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{Monitoringbericht 2021}
+      \field{type}{Report}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{EnWG}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=519e9b71235a5401fe318d4595f3ead0}{%
+           family={EnWG},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{519e9b71235a5401fe318d4595f3ead0}
+      \strng{fullhash}{519e9b71235a5401fe318d4595f3ead0}
+      \strng{bibnamehash}{519e9b71235a5401fe318d4595f3ead0}
+      \strng{authorbibnamehash}{519e9b71235a5401fe318d4595f3ead0}
+      \strng{authornamehash}{519e9b71235a5401fe318d4595f3ead0}
+      \strng{authorfullhash}{519e9b71235a5401fe318d4595f3ead0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Energiewirtschaftsgesetz}
+      \field{title}{Gesetz über die Elektrizitäts- und Gasversorgung}
+      \field{type}{Gesetz}
+      \field{version}{2022}
+      \field{year}{2005}
+    \endentry
+    \entry{Netz_Kapa_Reserve_NextKraftwerke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de960b74e0a5e99530d9702307824d1d}{%
+           family={Next-Kraftwerke},
+           familyi={N\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{fullhash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{bibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorbibnamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authornamehash}{de960b74e0a5e99530d9702307824d1d}
+      \strng{authorfullhash}{de960b74e0a5e99530d9702307824d1d}
+      \field{extraname}{3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was sind Netzreserve, Kapazitätsreserve und Sicherheitsbereitschaft?}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.next-kraftwerke.de/wissen/netzreserve-kapazitatsreserve-sicherheitsbereitschaft#kapazittsreserve-ausschreibungsverfahren-und-zuschlge
+      \endverb
+      \verb{url}
+      \verb https://www.next-kraftwerke.de/wissen/netzreserve-kapazitatsreserve-sicherheitsbereitschaft#kapazittsreserve-ausschreibungsverfahren-und-zuschlge
+      \endverb
+    \endentry
+    \entry{Bedarf_Netz_Kapa_Reserve}{report}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {BNetzA}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{5}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{Feststellung des Bedarfs an Netzreserve für den Winter 2022/2023 sowie den Betrachtungszeitraum April 2023 bis März 2024}
+      \field{type}{Bericht}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Excel_Kraftwerksliste}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{6}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{title}{Kraftwerksliste Bundesnetzagentur (bundesweit; alle Netz- und Umspannebenen) Stand: 31.05.2022}
+      \field{type}{Excel-Tabelle}
+      \field{year}{2022}
+    \endentry
+    \entry{Weißbuch}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fdd5ec536c94e301fae18359aa60928e}{%
+           family={BMWi},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {BMWi}%
+      }
+      \strng{namehash}{fdd5ec536c94e301fae18359aa60928e}
+      \strng{fullhash}{fdd5ec536c94e301fae18359aa60928e}
+      \strng{bibnamehash}{fdd5ec536c94e301fae18359aa60928e}
+      \strng{authorbibnamehash}{fdd5ec536c94e301fae18359aa60928e}
+      \strng{authornamehash}{fdd5ec536c94e301fae18359aa60928e}
+      \strng{authorfullhash}{fdd5ec536c94e301fae18359aa60928e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{subtitle}{Ein Strommarkt für die Energiewende}
+      \field{title}{Weißbuch}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Agora_Braunkohle}{report}{}
+      \name{author}{3}{}{%
+        {{hash=514560237b7f6af9f06a4d7a3b836514}{%
+           family={Graichen},
+           familyi={G\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c151079a62c432384bc30af3605043f8}{%
+           family={Kleiner},
+           familyi={K\bibinitperiod},
+           given={Mara\bibnamedelima Marthe},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dc644e379b389b03bc493987875db34b}{%
+           family={Podewils},
+           familyi={P\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Agora Energiewende}%
+      }
+      \strng{namehash}{052a29620fdfdaab86dbe70723355117}
+      \strng{fullhash}{55d9d781a4ee102c4bd18cbcd52b5906}
+      \strng{bibnamehash}{55d9d781a4ee102c4bd18cbcd52b5906}
+      \strng{authorbibnamehash}{55d9d781a4ee102c4bd18cbcd52b5906}
+      \strng{authornamehash}{052a29620fdfdaab86dbe70723355117}
+      \strng{authorfullhash}{55d9d781a4ee102c4bd18cbcd52b5906}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{subtitle}{Rückblick auf die wesentlichen Entwicklungen}
+      \field{title}{Die Energiewende im Stromsektor: Stand	der Dinge 2015}
+      \field{type}{Studie}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Bundesregoerung_Notlage-Gas}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bff19a5004efb8939e13d2bac0cf9e92}{%
+           family={Bundesregierung},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{fullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{bibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorbibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authornamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorfullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Weniger Gasverbrauch im Ernstfall}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/themen/klimaschutz/gasersatz-reserve-2048304
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/themen/klimaschutz/gasersatz-reserve-2048304
+      \endverb
+    \endentry
+    \entry{Bundesregoerung_Umnutzung_Kraftwerke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bff19a5004efb8939e13d2bac0cf9e92}{%
+           family={Bundesregierung},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{fullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{bibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorbibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authornamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorfullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Reserve für Stromproduktion nutzen}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/themen/klimaschutz/versorgungsreserve-2130276
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/themen/klimaschutz/versorgungsreserve-2130276
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

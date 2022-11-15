@@ -1,0 +1,30 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}Wie kann der Begriff Kraftwerksreserve definiert werden?}{4}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Wie funktioniert der deutsche Strommarkt?}{4}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Kraftwerksreserven zur Netzfrequenzstabilisierung}{6}{subsection.0.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Primärregelreserve}{8}{subsubsection.0.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Sekundärregelreserve}{9}{subsubsection.0.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Minutenreserve}{11}{subsubsection.0.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Primärenergieträger und Einsatzzeiten}{11}{subsubsection.0.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Momentanreserve}{13}{subsubsection.0.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Kraftwerksreserven zur Reserveleistungsvorhaltung}{14}{subsection.0.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Netzreserve}{15}{subsubsection.0.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Kapazitätsreserve}{17}{subsubsection.0.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Sicherheitsbereitschaft}{19}{subsubsection.0.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Veränderungen der Kraftwerksreserven aufgrund des russischen Überfalls auf die Ukraine}{20}{subsection.0.2.4}%
+\contentsline {section}{\numberline {3}Bewertung der Kraftwerksreserven zur Netzstabilisierung und Reserveleistungsvorhaltung}{21}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Bewertung der logistischen Situation der Reserven}{21}{subsection.0.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Logistischer Stand bei der Braunkohle (Arbeitstitel)}{21}{subsubsection.0.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Logistischer Stand bei der Steinkohle}{22}{subsubsection.0.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Logistischer Stand beim Gas}{23}{subsubsection.0.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Logistischer Stand beim Öl}{24}{subsubsection.0.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Kapazitätssituation für den Winter 2022/23}{24}{subsection.0.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Der zweite Stresstest zum Stromsystem}{24}{subsubsection.0.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{25}{subsubsection.0.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Was bedeutet der Atom- und Braunkohleausstieg für die Kraftwerksreserven?}{25}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{25}{subsection.0.3.4}%
+\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{25}{section.0.4}%
+\contentsline {section}{\numberline {5}Literatur}{26}{section.0.5}%
+\contentsline {section}{\numberline {6}Anhang}{28}{section.0.6}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
