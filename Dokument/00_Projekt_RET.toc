@@ -24,9 +24,10 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{25}{subsubsection.0.3.2.2}%
 \contentsline {subsection}{\numberline {3.3}Wie entwickeln sich Kraftwerksreserven zukünftig}{25}{subsection.0.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Wo befinden wir uns?}{26}{subsubsection.0.3.3.1}%
-\contentsline {subsection}{\numberline {3.4}Was bedeutet der Atom- und Kohleausstieg für die Kraftwerksreserven?}{26}{subsection.0.3.4}%
-\contentsline {subsection}{\numberline {3.5}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{27}{subsection.0.3.5}%
-\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{27}{section.0.4}%
-\contentsline {section}{\numberline {5}Literatur}{28}{section.0.5}%
-\contentsline {section}{\numberline {6}Anhang}{30}{section.0.6}%
+\contentsline {subsubsection}{\numberline {3.3.2}Entwicklung der Reserven bis 2030}{27}{subsubsection.0.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Was bedeutet der Atom- und Kohleausstieg für die Kraftwerksreserven?}{27}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{28}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{28}{section.0.4}%
+\contentsline {section}{\numberline {5}Literatur}{29}{section.0.5}%
+\contentsline {section}{\numberline {6}Anhang}{31}{section.0.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
