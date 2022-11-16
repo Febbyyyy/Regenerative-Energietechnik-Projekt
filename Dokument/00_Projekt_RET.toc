@@ -23,8 +23,8 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Der zweite Stresstest zum Stromsystem}{24}{subsubsection.0.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{25}{subsubsection.0.3.2.2}%
 \contentsline {subsection}{\numberline {3.3}Was bedeutet der Atom- und Braunkohleausstieg für die Kraftwerksreserven?}{25}{subsection.0.3.3}%
-\contentsline {subsection}{\numberline {3.4}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{25}{subsection.0.3.4}%
-\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{25}{section.0.4}%
-\contentsline {section}{\numberline {5}Literatur}{26}{section.0.5}%
-\contentsline {section}{\numberline {6}Anhang}{28}{section.0.6}%
+\contentsline {subsection}{\numberline {3.4}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{26}{subsection.0.3.4}%
+\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{26}{section.0.4}%
+\contentsline {section}{\numberline {5}Literatur}{27}{section.0.5}%
+\contentsline {section}{\numberline {6}Anhang}{29}{section.0.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
