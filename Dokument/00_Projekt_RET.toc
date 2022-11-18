@@ -22,12 +22,12 @@
 \contentsline {subsection}{\numberline {3.2}Kapazitätssituation für den Winter 2022/23}{24}{subsection.0.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Der zweite Stresstest zum Stromsystem}{24}{subsubsection.0.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{25}{subsubsection.0.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Wie entwickeln sich Kraftwerksreserven zukünftig}{25}{subsection.0.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Wo befinden wir uns?}{26}{subsubsection.0.3.3.1}%
+\contentsline {subsection}{\numberline {3.3}Wie entwickeln sich Kraftwerksreserven zukünftig}{26}{subsection.0.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Wo befinden wir uns?}{27}{subsubsection.0.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Entwicklung der Reserven bis 2030}{27}{subsubsection.0.3.3.2}%
-\contentsline {subsection}{\numberline {3.4}Was bedeutet der Atom- und Kohleausstieg für die Kraftwerksreserven?}{27}{subsection.0.3.4}%
-\contentsline {subsection}{\numberline {3.5}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{28}{subsection.0.3.5}%
-\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{28}{section.0.4}%
-\contentsline {section}{\numberline {5}Literatur}{29}{section.0.5}%
-\contentsline {section}{\numberline {6}Anhang}{31}{section.0.6}%
+\contentsline {subsection}{\numberline {3.4}Was bedeutet der Atom- und Kohleausstieg für die Kraftwerksreserven?}{28}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Auswirkungen des Ausbaus der erneuerbaren Energien auf die Kraftwerksreserven}{29}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Zusammenfassung und Ausblick}{29}{section.0.4}%
+\contentsline {section}{\numberline {5}Literatur}{30}{section.0.5}%
+\contentsline {section}{\numberline {6}Anhang}{32}{section.0.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
