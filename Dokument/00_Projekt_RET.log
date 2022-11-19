@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  19 NOV 2022 15:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  19 NOV 2022 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2079,19 +2079,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
  []
 
 
-Overfull \hbox (9.73698pt too wide) in paragraph at lines 118--120
+Overfull \hbox (9.73698pt too wide) in paragraph at lines 116--118
 \T1/lmr/m/n/12 Die An-nah-men der Stu-die lie-fert die No-vel-lie-rung des Erne
 uerbare-Energien-Gesetzes
  []
 
 
-Overfull \hbox (6.47122pt too wide) in paragraph at lines 118--120
+Overfull \hbox (6.47122pt too wide) in paragraph at lines 116--118
 \T1/lmr/m/n/12 (EEG). An-ge-nom-men wer-den für das Jahr 2030 $\OT1/lmr/m/n/12 
 115$$[]$ \T1/lmr/m/n/12 Onshore-Windkraft, $\OT1/lmr/m/n/12 30$$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
@@ -2099,14 +2099,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--120
 File: ./anhang/Annahmen Agora2035.png Graphic file (type png)
 <use ./anhang/Annahmen Agora2035.png>
 Package pdftex.def Info: ./anhang/Annahmen Agora2035.png  used on input line 12
-3.
+1.
 (pdftex.def)             Requested size: 250.95587pt x 121.6158pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 127.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 125.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
@@ -2114,38 +2114,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 File: ./anhang/Zubau PV Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau PV Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau PV Agora2035.png  used on input line 13
-2.
+0.
 (pdftex.def)             Requested size: 250.95587pt x 83.47766pt.
 <./anhang/Zubau Onshore Agora2035.png, id=551, 476.78125pt x 158.5925pt>
 File: ./anhang/Zubau Onshore Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau Onshore Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau Onshore Agora2035.png  used on input li
-ne 139.
+ne 137.
 (pdftex.def)             Requested size: 250.95587pt x 83.47766pt.
 <./anhang/Zubau Offshore Agora2035.png, id=553, 476.78125pt x 166.6225pt>
 File: ./anhang/Zubau Offshore Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau Offshore Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau Offshore Agora2035.png  used on input l
-ine 146.
+ine 144.
 (pdftex.def)             Requested size: 250.95587pt x 87.70439pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 150.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 148.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [29 <./anhang/Zubau PV Agora2035.png> <./anhang/Zubau Onshore Agora2035.png> <.
 /anhang/Annahmen Agora2035.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 150--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--156
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 156.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 154.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [30 <./anhang/Zubau Offshore Agora2035.png>]
 <./anhang/Zunahme Stromverbrauch Agora2035.png, id=571, 487.8225pt x 357.335pt>
@@ -2153,34 +2153,39 @@ Package pdftex.def Info: bilder/ostfalia.png  used on input line 156.
 File: ./anhang/Zunahme Stromverbrauch Agora2035.png Graphic file (type png)
 <use ./anhang/Zunahme Stromverbrauch Agora2035.png>
 Package pdftex.def Info: ./anhang/Zunahme Stromverbrauch Agora2035.png  used on
- input line 159.
+ input line 157.
 (pdftex.def)             Requested size: 250.95587pt x 183.83055pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--172
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 172.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 170.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [31 <./anhang/Zunahme Stromverbrauch Agora2035.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
@@ -2189,25 +2194,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-
- []
-
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 183.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 181.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [32]
 <./anhang/Strombilanz Frauenhofer.png, id=586, 458.71375pt x 536.0025pt>
 File: ./anhang/Strombilanz Frauenhofer.png Graphic file (type png)
 <use ./anhang/Strombilanz Frauenhofer.png>
 Package pdftex.def Info: ./anhang/Strombilanz Frauenhofer.png  used on input li
-ne 186.
+ne 184.
 (pdftex.def)             Requested size: 250.95587pt x 293.24014pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 193.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 191.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
  [33 <./anhang/Strombilanz Frauenhofer.png>]) (./06_schluss.tex)
 File: bilder/ostfalia.png Graphic file (type png)
