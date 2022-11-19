@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  19 NOV 2022 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  19 NOV 2022 01:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2202,25 +2202,30 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 186.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [32 <./anhang/Strombilanz Frauenhofer.png>]) (./06_schluss.tex)
+ [32 <./anhang/Strombilanz Frauenhofer.png>]
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 186.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+ [33]) (./06_schluss.tex)
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 304.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [33
+
+[34
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 08.
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 308.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [34
+ [35
 
 
 ]
@@ -2252,7 +2257,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 309.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[35]
+[36]
 \openout2 = `08_anhang.aux'.
 
  (./08_anhang.tex (./00_Projekt_RET.atoc)
@@ -2263,7 +2268,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 5.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [36
+ [37
 
 
 
@@ -2284,8 +2289,8 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52762 strings out of 474975
- 1259688 string characters out of 5776239
+ 52763 strings out of 474975
+ 1259695 string characters out of 5776239
  2251643 words of memory out of 5000000
  73272 multiletter control sequences out of 15000+600000
  563026 words of font info for 83 fonts, out of 8000000 for 9000
@@ -2315,10 +2320,10 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (37 pages, 3073035 bytes).
+Output written on 00_Projekt_RET.pdf (38 pages, 3074084 bytes).
 PDF statistics:
- 886 PDF objects out of 1000 (max. 8388607)
- 700 compressed objects within 7 object streams
- 128 named destinations out of 1000 (max. 500000)
+ 891 PDF objects out of 1000 (max. 8388607)
+ 703 compressed objects within 8 object streams
+ 129 named destinations out of 1000 (max. 500000)
  400 words of extra memory for PDF output out of 10000 (max. 10000000)
 
