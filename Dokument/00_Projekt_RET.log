@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  19 NOV 2022 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  25 NOV 2022 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2046,7 +2046,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 90.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 92.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [26]
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
@@ -2322,7 +2322,7 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (38 pages, 3136448 bytes).
+Output written on 00_Projekt_RET.pdf (38 pages, 3136292 bytes).
 PDF statistics:
  895 PDF objects out of 1000 (max. 8388607)
  705 compressed objects within 8 object streams
