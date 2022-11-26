@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  25 NOV 2022 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.2)  26 NOV 2022 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2293,7 +2293,7 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 Here is how much of TeX's memory you used:
  52772 strings out of 474975
  1259920 string characters out of 5776239
- 2250734 words of memory out of 5000000
+ 2250735 words of memory out of 5000000
  73279 multiletter control sequences out of 15000+600000
  563026 words of font info for 83 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
@@ -2322,7 +2322,7 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (38 pages, 3136442 bytes).
+Output written on 00_Projekt_RET.pdf (38 pages, 3136082 bytes).
 PDF statistics:
  895 PDF objects out of 1000 (max. 8388607)
  705 compressed objects within 8 object streams
