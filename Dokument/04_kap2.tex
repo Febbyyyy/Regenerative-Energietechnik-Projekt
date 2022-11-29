@@ -42,24 +42,24 @@
 		Auf signifikante Betriebsstunden kommen die genannten Kraftwerke dementsprechend nur bei mangelndem Wind und mangelnder Sonneneinstrahlung.
 		Dies führt bei den Kraftwerksbetreibern zu geringen bzw. unvorhersehbaren Betriebsstunden. 
  		Für den Strompreis hingegen bedeutet dies erhebliche Schwankungen je nach gegebener Wetterlage.
-		Ohne ausreichende und planbare Betriebsstunden können die Kraftwerke nicht wirtschaftlich betrieben werden, da die Leistung ohne Vergütung vorgehalten werden muss \parencite{Frauenhofer_PV_Bericht}..
+		Ohne ausreichende und planbare Betriebsstunden können die Kraftwerke nicht wirtschaftlich betrieben werden, da die Leistung ohne Vergütung vorgehalten werden muss \parencite{Frauenhofer_PV_Bericht}.
 		Gegensätzlich dazu verlangt der Ausbau regenerativer Stromerzeuger einen Zuwachs dieser Kraftwerke, um plötzlich auftretende Schwankungen in der Produktion auszugleichen \parencite{Doktorarbeit_Reitsam}.
 		Auch ohne weiteren Ausbau von erneuerbaren Energien wird gerade in den wenig sonnigen Wintermonaten Januar und Februar weiterhin Residuallast gebraucht.
 		Konträr dazu wurde eine strategische Kraftwerksreserve aus Braunkohlekraftwerken aufgebaut (Sicherheitsbereitschaft) \parencite{bbh_blog}.		
-		Die Forderung eines Kapazitätsmarkts, indem auch vorgehaltene Kraftwerksleistung bepreist wird, gewinnt dahingehend an Aufmerksamkeit.
+		Die Forderung eines Kapazitätsmarkts, indem auch vorgehaltene Kraftwerksleistung bepreist wird, gewinnt dahingehend an Aufmerksamkeit und Bedeutung.
 		
 	\subsection{Kraftwerksreserven zur Netzfrequenzstabilisierung}
 	
+		Aufgrund des liberalisierten Strommarkts besitzen die Übertragungsnetzbetreiber zur Stabilisierung keine eigenen Kraftwerke.
+		Die Kraftwerksreserven zur Netzfrequenzstabilisierung werden deshalb am Regelenergiemarkt gehandelt.
+		Unter Regelenergie versteht man zum einen die Reservierung von Kraftwerksreserven
 		\begin{wrapfigure}{r}{0.55\textwidth}
 			\centering
 			\includegraphics[page=92,trim=260 71 50 450, clip, width=0.4\textwidth]{./anhang/Elektrizitätswirtschaft.pdf}
 			\caption{Regelzonen und Übertragungsnetzbetreiber in Deutschland \parencite{Elektrizitätswirtschaft}}
 			\label{Abb. Regelzonen Deutschland}
 		\end{wrapfigure}
-	
-		Aufgrund des liberalisierten Strommarkts besitzen die Übertragungsnetzbetreiber zur Stabilisierung keine eigenen Kraftwerke.
-		Die Kraftwerksreserven zur Netzfrequenzstabilisierung werden deshalb am Regelenergiemarkt gehandelt (vlt. Satz mit agieren?).
-		Unter Regelenergie versteht man zum einen die Reservierung von Kraftwerksreserven bzw. -kapazitäten (Regelleistung) und zum anderen den Ausgleich von Regelzonenungleichgewichten (Regelarbeit) \parencite{Elektrizitätswirtschaft}.
+		bzw. -kapazitäten (Regelleistung) und zum anderen den Ausgleich von Regelzonenungleichgewichten (Regelarbeit) \parencite{Elektrizitätswirtschaft}.
 		Da es im Stromnetz zu negativen und positiven Abweichungen der Frequenz kommen kann, wird zur Kompensation sowohl positive als auch negative Regelarbeit benötigt.
 		Anders als bei der Regelleistung wird eine gelieferte Strommenge in \si{\mega\watt\hour} vergütet.
 		Um Unterschiede zwischen Angebot und Nachfrage innerhalb und unter den vier deutschen Regelzonen auszugleichen, wird eine Reservierung von Kraftwerksleistung erforderlich (Regelzonen s. Abb. \ref{Abb. Regelzonen Deutschland}). 
@@ -69,7 +69,7 @@
 		\begin{figure} [H]
 			\centering
 			\label{Abb. Beispielhafte Darstellung der Regelenergie in Abhängigkeit der Netzfrequenz}
-			\includegraphics[page=115,trim=50 80 50 470, clip, width=0.9\textwidth]{./anhang/Elektrizitätswirtschaft.pdf}
+			\includegraphics[page=115,trim=50 80 50 470, clip, width=0.8\textwidth]{./anhang/Elektrizitätswirtschaft.pdf}
 			\caption{Beispielhafte Darstellung der Regelarbeit in Abhängigkeit der Netzfrequenz \parencite{Elektrizitätswirtschaft}}
 		\end{figure}
 	
@@ -98,30 +98,21 @@
 			Der Eingriff durch die Primärregelreserve (PRL) erfolgt unmittelbar nach Über- sowie Unterschreitung des zulässigen Frequenzbereichs durch die Anbieter von Primärreserven.
 			Die Bereitstellung erfolgt über ein Zusammenschluss von Nachbarstaaten aus dem Gebiet der ENTSO-E ("`European Network of Transmission System Operators for Electricity"').
 			Da es sich bei dem ENTSO-E um ein Synchrongebiet mit \SI{50}{\hertz} Netzfrequenz handelt, wird die Höhe der Vorhaltung von Primärregelleistung unter allen Teilnehmern, gemessen am eingespeisten Strom, aufgeteilt.
-			Die Mitglieder können der Abbildung \ref{Abb. Mitglieder ENTSO-E} entnommen werden.
-			Die gesamte Kapazität aller Mitglieder beläuft sich auf $\pm\SI{3}{\giga\watt}$ und wird anhand des zeitgleichen Ausfalls der zwei größten Kraftwerksblöcke innerhalb des Verbundnetzes ermittelt.
-			Um schnell und frequenzabhängig Strom einzuspeisen oder zu speichern, wird am Ort des Anbieters die Netzfrequenz gemessen. 
-			Innerhalb von \SI{30}{\second} muss die komplette Regelleistung abrufbar sein.
-			Die vollständig angebotene Regelarbeit muss hingegen für \SI{15}{\minute} geliefert werden können.
-			Der Regelbereich befindet sich dabei innerhalb des Regelbands und außerhalb des Totbands (s. Abb. \ref{Abb. Regelung Primarregelleistung} next Kraftwerke).
-			Ab einer Netzfrequenz von \SI{49,99}{\hertz} bzw. \SI{50,01}{\hertz} muss der Stromlieferant die Primärregelleistung hochfahren und bei einer Frequenz von \SI{49,8}{\hertz} bzw. \SI{50,2}{\hertz} \SI{100}{\percent} seiner angebotenen Leistung abrufen bzw. liefern können. 
-			
-			\begin{figure}[H]
+			Die Mitglieder des Zusammenschlusses können der Abbildung \ref{Abb. Mitglieder ENTSO-E} entnommen werden. 
+			Die gesamte Kapazität aller Mitglieder beläuft sich auf $\pm\SI{3}{\giga\watt}$ und wird anhand des zeitgleichen Ausfalls der zwei größten Kraftwerksblöcke innerhalb\begin{wrapfigure}{r}{0.55\textwidth}
 				\centering
-				\includegraphics[page=1,trim=70 70 70 120, clip, width=0.6\textwidth]{./anhang/frc-map.png}
+				\includegraphics[page=1,trim=70 70 70 120, clip, width=0.4\textwidth]{./anhang/frc-map.png}
 				\caption{Mitglieder der ENTSO-E für PRL\parencite{ENTSO-E_PRL}}
 				\label{Abb. Mitglieder ENTSO-E}
-			\end{figure}
-		\clearpage
+			\end{wrapfigure} des Verbundnetzes ermittelt.
+			Um schnell und frequenzabhängig Strom einzuspeisen oder zu speichern, wird am Ort des Anbieters die Netzfrequenz gemessen. 
+			Innerhalb von \SI{30}{\second} muss die komplette Regelleistung abrufbar sein.
+			Nach \num{15} Minuten wird die Primärregelreserve heruntergefahren und die Minutenreserve übernimmt, um neu auftretenden Störungen entgegenzuwirken.
+			Der Regelbereich befindet sich dabei innerhalb des Regelbands und außerhalb des Totbands (s. Abb. \ref{Abb. Beispielhafte Darstellung der Regelenergie in Abhängigkeit der Netzfrequenz}).
+			Ab einer Netzfrequenz von \SI{49,99}{\hertz} bzw. \SI{50,01}{\hertz} muss der Stromlieferant die Primärregelleistung hochfahren und bei einer Frequenz von \SI{49,8}{\hertz} bzw. \SI{50,2}{\hertz} \SI{100}{\percent} seiner angebotenen Leistung abrufen bzw. liefern können \cite{Primäreserve_NextKraftwerke}. 
 			
-			Die Ausschreibung von Primärregelleistung erfolgt täglich für einen Erbringungszeitraum von 0:00 Uhr bis 24:00 Uhr am Folgetag.
-			Angebotsabgabe erfolgt am Vortag bis 8:00 Uhr  \parencite{regelleistungnet_PRL_Ausschreibung}.
-			Die Auktion erfolgt online über die Internetseite regelleistung.net \parencite{regelleistungnet_PRL_Ausschreibung}.
-			Zuschlag bekommen diejenigen Anbieter, welche für den ÜNB am wirtschaftlichsten sind.
-			Der Anbieter, welcher Angebot und Nachfrage deckt, legt den Leistungspreis für alle anderen bezuschlagten Teilnehmer fest ("`Marginal Pricing"').
-			In Tabelle \ref{Tab. Merkmale der Primärregellung} sind die wichtigsten Eckpunkte der Primärregelleistung dargestellt.		
-		
 			\begin{table}[H]
+				\renewcommand*{\arraystretch}{1.75}
 				\centering
 				\caption{Merkmale der Primärregelleistung \cite{Regelleistung_NextKraftwerke}}
 				\label{Tab. Merkmale der Primärregellung}
@@ -133,22 +124,28 @@
 					Volle Leistung & Innerhalb von 30 Sekunden \\
 					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & \num{0} bis \num{15} Minuten  \\
 					Vergütung & Leistungspreis  \\
-					Mindestangebots-größe & Ab $\pm\SI{1}{\mega\watt}$ (symmetrisch) \\
+					Mindestangebotsgröße & Ab $\pm\SI{1}{\mega\watt}$ (symmetrisch) \\
 					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
 				\end{tabular}
 			\end{table}
-		
+			
+			Die Ausschreibung von Primärregelleistung erfolgt täglich für einen Erbringungszeitraum von 0:00 Uhr bis 24:00 Uhr am Folgetag.
+			Angebotsabgabe erfolgt am Vortag bis 8:00 Uhr  \parencite{regelleistungnet_PRL_Ausschreibung}.
+			Die Auktion erfolgt online über die Internetseite regelleistung.net \parencite{regelleistungnet_PRL_Ausschreibung}.
+			Zuschlag bekommen diejenigen Anbieter, welche für den ÜNB am wirtschaftlichsten sind.
+			Der Anbieter, welcher Angebot und Nachfrage deckt, legt den Leistungspreis für alle anderen bezuschlagten Teilnehmer fest ("`Marginal Pricing"').
+			In Tabelle \ref{Tab. Merkmale der Primärregellung} sind die wichtigsten Eckpunkte der Primärregelleistung dargestellt.		
+
 		\subsubsection{Sekundärregelreserve}		
 			
 			Bei länger anhaltender Frequenzabweichung wird die Sekundärregelreserve (SRL) zugeschaltet, um die Frequenz durch sowohl positive als auch negative Regelleistung zu stabilisieren.
 			Sie wird durch den innerhalb der Regelzone zuständigen Übertragungsnetzbetreiber per Signal angefordert und durch die an der Auktion teilgenommenen Anbieter von SRL abgerufen. 
 			Die SRL wird nach \num{30} Sekunden zugeschaltet und muss nach fünf Minuten volle Regelarbeit liefern können. 
-			Nach \num{15} Minuten wird die Sekundärregelreserve heruntergefahren und die Minutenreserve übernimmt, um neu auftretenden Störungen entgegenzuwirken.
+			Diese muss dann anschließend bis maximal eine Stunde nach Beginn des Störungsfalls geliefert werden. 
 			Für den täglichen Abruf der Reserve gibt es sechs Zeitscheiben mit je vier Stunden.
 			Da die Sekundärregelleistungsanbieter ihre Anlagen im Verbund nicht auf einige \si{\mega\watt} modulieren können, besteht fast kontinuierlicher Bedarf an Sekundärregelleistung.
-			Da jeder ÜNB in seiner Regelzone SRL zu- und abschalten kann, besteht eine Austauschpflicht unter den vier ÜNB.
-			Auf diese Weise wird ineffizientes gegeneinander regeln unter den Regelzonen auf ein Minimum reduziert \parencite{SRL_NextKraftwerke}. \\
-			\clearpage
+			Durch den Netzregelverbund(NRV) wird ineffizientes "`Gegeneinanderregeln"' vermieden und die Höhe der vorzuhaltenden Regelleistung reduziert.
+			Dieser wurde nach Aussagen der BNetzA auf weitere Nachbarstaaten ausgeweitet und trägt damit einer weiteren Reduzierung bei \cite{Monitoringbericht_BNetzA}. \\
 			
 			Die Mindestangebotsgröße beträgt \SI{5}{\mega\watt}.
 			Jedoch können nach einer Änderung des Beschlusses "`zur Festlegung von Ausschreibungsbedingungen und Veröffentlichungspflichten für Sekundärregelung"' der BNetzA auch Angebote in Höhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} eingereicht werden.
@@ -176,9 +173,9 @@
 					Bereitstellung durch  & ÜNB  \\
 					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - manuelle Anforderung durch ÜNB} \\
 					Volle Leistung & Innerhalb von 5 Minuten \\
-					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 30 Sekunden bis 15 Minuten \\
+					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 30 Sekunden bis 1 Stunde \\
 					Vergütung &  Leistungs- und Arbeitspreis \\
-					Mindestangebots-größe & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.}\\
+					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.}\\
 					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
 				\end{tabular}
 				\parbox{0.7\textwidth}{\parnotes}
@@ -206,34 +203,41 @@
 					Bereitstellung durch & ÜNB \\
 					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - löst automatisch PRL ab}\\
 					Volle Leistung & Innerhalb von 15 Minuten \\
-					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 15 Minuten bis 60 Minuten \\
+					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 5 Minuten bis 60 Minuten \\
 					Vergütung & Leistungs- und Arbeitspreis \\
-					Mindestangebots-größe & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.} \\
+					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.} \\
 					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
 				\end{tabular}
 				\parbox{0.7\textwidth}{\parnotes}
 			\end{table}
+			\renewcommand*{\arraystretch}{1.5}
 		
 		\subsubsection{Primärenergieträger und Einsatzzeiten}
 			
 			Aus Tabelle \ref{Tab. Übersicht der Präqualifizierten Leistung je PrimärenergieträgerKategorie in Deutschland} können die präqualifizierten Leistungen je Primärenergieträger entnommen werden.
-			Auffällig ist der hohe Anteil an Wasserkraft und Erdgas mit \SI{64,3}{\percent} und \SI{15,1}{\percent} an der Sekundärreserve bzw. \SI{42,3}{\percent} und \SI{21,1}{\percent} an der Minutenreserve.
-			Hierbei findet keine Unterteilung in Laufwasserkraftwerke oder Speicherkraftwerke statt.
-			Da die Ausschreibung der Reserven täglich stattfindet, finden saisonale Schwankung der Wasserkraft durchaus Berücksichtigung \cite{Doktorarbeit_Reitsam}.
-			Konventionellen Braun- und Steinkohlekraftwerken haben ebenfalls einen großen Anteil an der Minutenreserve mit \SI{21,5}{\percent}.
-			Die vorgehaltene Leistung steigt mit der Regelenergieart stetig an.
-			Des Weiteren ist gut zu erkennen, dass Windkraft, Batteriespeicher und Demand-Side-Management Systeme keinen nennenswerten Beitrag zur Netzfrequenzstabilisierung leisten. \\
+			Auffällig ist der hohe Anteil an Wasserkraft mit \SI{69,0}{\percent}, \SI{64,3}{\percent} und \SI{42,3}{\percent} an der Primär-, Sekundärreserve bzw. Minutenreserve.
+			Dies ist auf die zügige Regelbarkeit von Wasserkraftwerken zurückzuführen.
+			Hierbei findet jedoch keine Unterteilung in Laufwasser- oder Pumpspeicherkraftwerke statt.
+			Da die Ausschreibung der Reserven täglich stattfindet, finden saisonale Schwankung der Wasserkraft dennoch Berücksichtigung \cite{Doktorarbeit_Reitsam}. 
+			Außerdem kann festgestellt werden, dass die kontrahierte Leistung an Wasserkraft die in Deutschland installierte Leistung übersteigt.
+			Dies ist im Wesentlichen auf zwei Punkte zurückzuführen.
+			Zum einen bieten die Betreiber die Ein- sowie Ausspeicherung von Energie gemeinsam für die positive sowie negative Regelleistung an.
+			Somit taucht die kumulierte Leistung aus Ein- und Ausspeicherung in der Tabelle auf.
+			Zum anderen werden auch grenznahe Kraftwerke für die Bereitstellung von PRL kontrahiert. \\
 			
-			Um die Diversität der Teilnehmer am Regelleistungsmarkt zu analysieren, kann die von den ÜNB veröffentliche Liste genutzt werden \cite{regelleistungnet_PRL_Ausschreibung}.
-			Auf der Liste sind insgesamt \num{53} Unternehmen aufgeführt, welche am Regelleistungsmarkt ihre Kapazitäten zur Verfügung stellen.
-			Ausschließlich Unternehmen, welche die Präqualifikationskriterien des in der Regelzone verantwortlichen ÜNB erfüllen, dürfen am Regelleistungsmarkt teilnehmen.
-			Die Mehrzahl der aufgelisteten Marktteilnehmer sind Energieversorgungsunternehmen oder solche, die sich auf Energie- und Systemdienstleistungen spezialisiert haben.
-			Lediglich acht Unternehmen sind aus der Industrie.
-			Nennenswert ist der Ludwigshafener Chemiekonzern BASF oder Trimet Aluminium SE.
-			Die aufgelisteten Industriekonzerne bieten in erster Linie Sekundär- und Minutenreserve an.
-			Die wenigen Industrieunternehmen, die Primärreserven vorhalten, haben sich auf Batteriespeicher spezialisiert und können damit schnelle bzw. dynamische Reserven zur Verfügung stellen.
-			Nach Stand vom 28.01.2022 haben 30 Unternehmen Primärregelleistung und jeweils 34 Sekundärregelleistung bzw. Minutenreserve angeboten. 
-						
+			Obwohl Erdgaskraftwerke schnell geregelt und hochgefahren werden können, weisen diese erst ab der Sekundärreserve nennenswerte Anteile auf (SRL: \SI{15,1}{\percent} und MRL: \SI{21,1}{\percent}).
+			Für die Bereitstellung von Primärregelreserve muss das Kraftwerk bereits am Netz sein, um innerhalb von \num{30} Sekunden nennenswerte Regelleistung bereitstellen zu können (vgl. Kap. \ref{sect: Primärregelreserve}). 
+			Wie bereits in Kapitel \ref{sect: Wie funktioniert der deutsche Strommarkt?} erläutert, liegen die Gaskraftwerke häufig an der Grenze zwischen Teilnahme und Nichtteilnahme am Strommarkt.  
+			Wenn diese aufgrund von erhöhter Einspeisung der Erneuerbaren nicht am Strommarkt teilnehmen, können die Erdgaskraftwerke keine Primärregelleistung bereitstellen. \\
+			
+			Konventionelle Braun- und Steinkohlekraftwerke haben lediglich an der Minutenreserve einen größeren Anteil mit \SI{21,5}{\percent} (Braun- und Steinkohlekraftwerksleistung addiert).
+			Die vorgehaltene Leistung steigt mit der Regelenergieart stetig an.
+			Dies liegt wiederum an der mangelnden Schnelligkeit zur Regelung von Kraftwerksleistung. 
+			Des Weiteren ist gut zu erkennen, dass Windkraft, Batteriespeicher und Demand-Side-Management Systeme keine großen Anteile an der Netzfrequenzstabilisierung aufweisen. 
+			Bei Batteriespeichern liegt das an den massiven Investitionskosten für große Kapazitäten. 
+			Jedoch kommt Batteriespeichern in Zukunft eine größere Rolle zu, da diese schnell viel Leistung speichern sowie abgeben können.
+			Somit kann dem schrittweisen Wegfall der Momentanreserve ein Stück weit entgegengewirkt werden. 
+			
 			\begin{table}[H]
 				\renewcommand*{\arraystretch}{1.2} %höhere Zeilen in tabellen
 				\centering
@@ -258,6 +262,16 @@
 				\renewcommand*{\arraystretch}{1.3} %höhere Zeilen in tabellen
 			\end{table}
 			\renewcommand*{\arraystretch}{1.3} %höhere Zeilen in tabellen
+			
+			Um die Diversität der Teilnehmer am Regelleistungsmarkt zu analysieren, kann die von den ÜNB veröffentliche Liste genutzt werden \cite{regelleistungnet_PRL_Ausschreibung}.
+			Auf der Liste sind insgesamt \num{53} Unternehmen aufgeführt, welche am Regelleistungsmarkt ihre Kapazitäten zur Verfügung stellen.
+			Ausschließlich Unternehmen, welche die Präqualifikationskriterien des in der Regelzone verantwortlichen ÜNB erfüllen, dürfen am Regelleistungsmarkt teilnehmen.
+			Die Mehrzahl der aufgelisteten Marktteilnehmer sind Energieversorgungsunternehmen oder solche, die sich auf Energie- und Systemdienstleistungen spezialisiert haben.
+			Lediglich acht Unternehmen sind aus der Industrie.
+			Nennenswert ist der Ludwigshafener Chemiekonzern BASF oder Trimet Aluminium SE.
+			Die aufgelisteten Industriekonzerne bieten in erster Linie Sekundär- und Minutenreserve an.
+			Die wenigen Industrieunternehmen, die Primärreserven vorhalten, haben sich auf Batteriespeicher spezialisiert und können damit schnelle bzw. dynamische Reserven zur Verfügung stellen.
+			Nach Stand vom 28.01.2022 haben 30 Unternehmen Primärregelleistung und jeweils 34 Sekundärregelleistung bzw. Minutenreserve angeboten. \\
 			
 			Aus dem Monitoringbericht der BNetzA geht hervor, dass die Primärregelreserven ständig und unmittelbar abgerufen werden. 
 			Es findet also eine ständige Korrektur der Netzfrequenz statt.
@@ -296,12 +310,6 @@
 			
 			Aufgrund des direkten Zusammenhangs zwischen dem mechanischen Moment und der elektrischen Leistung ändert sich die Rotationsgeschwindigkeit in Abhängigkeit der Netzfrequenz.
 			Die rotierende Schwungmasse wirkt aufgrund ihrer Massenträgheit durch Aus- und Einspeichern von Rotationsenergie einer Änderung der Rotationsgeschwindigkeit entgegen \cite{Bericht_Momentanreserve}.
-			
-			\begin{align}
-				P_\mathrm{el}&=M*\num{2}*\pi*f \\
-				M&=J*w \\
-				E_\mathrm{rot}&=\frac{\num{1}}{\num{2}}*J*\omega
-			\end{align}
 		
 	\subsection{Kraftwerksreserven zur Reserveleistungsvorhaltung}
 	
@@ -408,14 +416,14 @@
 			Dies ist mit dem bereits angesprochenen Nord-Süd-Gefälle zu begründen.	
 			Weiterhin finden in Sommermonaten erhebliche Kraftwerkseinsätze statt.
 			Hierbei rückt nicht die maximal angeforderte Leistung in den Vordergrund sondern die erzeugte Menge Strom.
-			In den Sommermonaten kann dies an unterschiedlichen Faktoren liegen und ist nicht wie im Winter an die besonders hohe Windstromerzeugung gekoppelt.
+			In den Sommermonaten liegt dies unter anderem an der hohen PV-Einspeisung und dem damit erforderlichen regelzonenübergreifenden  Bilanzausgleich.
 		    
 		\subsubsection{Kapazitätsreserve}
 		
 			Die Kapazitätsreserve stellt den ÜNB eine zusätzliche Möglichkeit zur Verfügung, weitere Leistungsreserven zu aktivieren.
 			Dies geschieht, wenn trotz freier Preisbildung an der Strombörse keine Deckung von Angebot und Nachfrage erzielt wird.
 			Der Abruf der Kapazitätsreserve geschieht zeitlich nach der Strombörse und den Systemdienstleistungen (Regelleistungen) zur Frequenzstabilisierung. 
-			Laut dem BMWi werden die Kraftwerke gemäß der Anfahrtszeit bereits am Vortag aktiviert, sobald am Day-Ahead-Market kein markträumendes Ergebnis abzusehen ist \cite{Netz_Kapa_Reserve_NextKraftwerke}.
+			Laut dem BMWK werden die Kraftwerke gemäß der Anfahrtszeit bereits am Vortag aktiviert, sobald am Day-Ahead-Market kein markträumendes Ergebnis abzusehen ist \cite{Netz_Kapa_Reserve_NextKraftwerke}.
 			Die Anlagen in der Kapazitätsreserve sollen, sofern sie in netztechnisch geeigneten Regionen liegen, ebenfalls an der Netzreserve teilnehmen (vgl. Gaskraftwerk Thyrow).
 			Ab dem Winterhalbjahr 2020/2021 waren Kraftwerkskapazitäten mit einer Leistung von \SI{2}{\giga\watt} ausgeschrieben.
 			Nach Stand vom 31.05.2022 wurden Kraftwerke mit einer kumulierten Leistung von \SI{1,263}{\giga\watt} kontrahiert (s. Tab. \ref{Tab. Kraftwerke Kapazitätsreserve}). 
