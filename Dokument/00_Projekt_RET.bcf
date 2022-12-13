@@ -2429,7 +2429,16 @@
     <bcf:citekey order="93" intorder="1">strat_Ölreserve_Geschichte</bcf:citekey>
     <bcf:citekey order="94" intorder="1">IEA_Ölreserven</bcf:citekey>
     <bcf:citekey order="95" intorder="1">Stromproduktion_Erdgas</bcf:citekey>
-    <bcf:citekey order="96" intorder="1">Frauenhofer_LNG</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">Stresstest</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">EnSiG</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">Laufzeitverlängerung</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">Wiedereintritt_Kraftwerke</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">CO2_Uhr</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">Umweltbundesamt_Emissionen</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">Koalitionsvertrag</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">Kohleausstieg_RWE</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">Stand_der_Dinge</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">Frauenhofer_LNG</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

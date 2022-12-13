@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  13 DEC 2022 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  13 DEC 2022 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2051,162 +2051,162 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 73.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 75.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 92.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 94.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Overfull \hbox (19.04794pt too wide) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Overfull \hbox (19.04794pt too wide) in paragraph at lines 110--111
 \T1/lmr/m/n/12 Im Rah-men der wirt-schaft-li-chen Tei-ler-ho-lung im Jahr 2021 
 stie-gen die $[]$-Emissionen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 109.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 111.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Overfull \hbox (9.73698pt too wide) in paragraph at lines 116--118
+Overfull \hbox (9.73698pt too wide) in paragraph at lines 118--120
 \T1/lmr/m/n/12 Die An-nah-men der Stu-die lie-fert die No-vel-lie-rung des Erne
 uerbare-Energien-Gesetzes
  []
 
 
-Overfull \hbox (6.47122pt too wide) in paragraph at lines 116--118
+Overfull \hbox (6.47122pt too wide) in paragraph at lines 118--120
 \T1/lmr/m/n/12 (EEG). An-ge-nom-men wer-den für das Jahr 2030 $\OT1/lmr/m/n/12 
 115$$[]$ \T1/lmr/m/n/12 Onshore-Windkraft, $\OT1/lmr/m/n/12 30$$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
 
  []
 
-<./anhang/Annahmen Agora2035.png, id=582, 488.82625pt x 236.885pt>
+<./anhang/Annahmen Agora2035.png, id=599, 488.82625pt x 236.885pt>
 File: ./anhang/Annahmen Agora2035.png Graphic file (type png)
 <use ./anhang/Annahmen Agora2035.png>
 Package pdftex.def Info: ./anhang/Annahmen Agora2035.png  used on input line 12
-1.
+3.
 (pdftex.def)             Requested size: 250.95587pt x 121.6158pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 125.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 127.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-<./anhang/Zubau PV Agora2035.png, id=588, 476.78125pt x 158.5925pt>
+<./anhang/Zubau PV Agora2035.png, id=606, 476.78125pt x 158.5925pt>
 File: ./anhang/Zubau PV Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau PV Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau PV Agora2035.png  used on input line 13
-0.
+2.
 (pdftex.def)             Requested size: 250.95587pt x 83.47766pt.
-<./anhang/Zubau Onshore Agora2035.png, id=590, 476.78125pt x 158.5925pt>
+<./anhang/Zubau Onshore Agora2035.png, id=608, 476.78125pt x 158.5925pt>
 File: ./anhang/Zubau Onshore Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau Onshore Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau Onshore Agora2035.png  used on input li
-ne 137.
+ne 139.
 (pdftex.def)             Requested size: 250.95587pt x 83.47766pt.
-<./anhang/Zubau Offshore Agora2035.png, id=592, 476.78125pt x 166.6225pt>
+<./anhang/Zubau Offshore Agora2035.png, id=610, 476.78125pt x 166.6225pt>
 File: ./anhang/Zubau Offshore Agora2035.png Graphic file (type png)
 <use ./anhang/Zubau Offshore Agora2035.png>
 Package pdftex.def Info: ./anhang/Zubau Offshore Agora2035.png  used on input l
-ine 144.
+ine 146.
 (pdftex.def)             Requested size: 250.95587pt x 87.70439pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 148.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 150.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [31 <./anhang/Zubau PV Agora2035.png> <./anhang/Zubau Onshore Agora2035.png> <.
 /anhang/Annahmen Agora2035.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--154
+Underfull \hbox (badness 10000) in paragraph at lines 153--156
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 154.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 156.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [32 <./anhang/Zubau Offshore Agora2035.png>]
-<./anhang/Zunahme Stromverbrauch Agora2035.png, id=610, 487.8225pt x 357.335pt>
+<./anhang/Zunahme Stromverbrauch Agora2035.png, id=628, 487.8225pt x 357.335pt>
 
 File: ./anhang/Zunahme Stromverbrauch Agora2035.png Graphic file (type png)
 <use ./anhang/Zunahme Stromverbrauch Agora2035.png>
 Package pdftex.def Info: ./anhang/Zunahme Stromverbrauch Agora2035.png  used on
- input line 157.
+ input line 159.
 (pdftex.def)             Requested size: 250.95587pt x 183.83055pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 170.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 172.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [33 <./anhang/Zunahme Stromverbrauch Agora2035.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 171--173
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
@@ -2215,20 +2215,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 181.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 183.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [34]
-<./anhang/Strombilanz Frauenhofer.png, id=625, 458.71375pt x 536.0025pt>
+<./anhang/Strombilanz Frauenhofer.png, id=643, 458.71375pt x 536.0025pt>
 File: ./anhang/Strombilanz Frauenhofer.png Graphic file (type png)
 <use ./anhang/Strombilanz Frauenhofer.png>
 Package pdftex.def Info: ./anhang/Strombilanz Frauenhofer.png  used on input li
-ne 184.
+ne 186.
 (pdftex.def)             Requested size: 250.95587pt x 293.24014pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 191.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 193.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
  [35 <./anhang/Strombilanz Frauenhofer.png>]) (./06_schluss.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--11
@@ -2351,10 +2356,10 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52936 strings out of 474968
- 1266566 string characters out of 5776082
- 2255895 words of memory out of 5000000
- 73411 multiletter control sequences out of 15000+600000
+ 52945 strings out of 474968
+ 1266815 string characters out of 5776082
+ 2256285 words of memory out of 5000000
+ 73420 multiletter control sequences out of 15000+600000
  560028 words of font info for 82 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  108i,24n,106p,10609b,3177s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2382,10 +2387,10 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (44 pages, 3156421 bytes).
+Output written on 00_Projekt_RET.pdf (44 pages, 3157248 bytes).
 PDF statistics:
- 1027 PDF objects out of 1200 (max. 8388607)
- 830 compressed objects within 9 object streams
+ 1045 PDF objects out of 1200 (max. 8388607)
+ 848 compressed objects within 9 object streams
  162 named destinations out of 1000 (max. 500000)
  405 words of extra memory for PDF output out of 10000 (max. 10000000)
 
