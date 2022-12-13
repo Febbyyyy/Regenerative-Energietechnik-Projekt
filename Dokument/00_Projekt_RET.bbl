@@ -100,7 +100,6 @@
       \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
@@ -275,7 +274,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/primaerreserve-primaerregelleistung
       \endverb
@@ -439,6 +437,7 @@
       \strng{authorbibnamehash}{185e21db5284eef2563eb77b873e9fd3}
       \strng{authornamehash}{185e21db5284eef2563eb77b873e9fd3}
       \strng{authorfullhash}{185e21db5284eef2563eb77b873e9fd3}
+      \field{extraname}{1}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
@@ -841,6 +840,797 @@
       \field{title}{Conversion of LNG Terminals for Liquid Hydrogen or Ammonia}
       \field{year}{2022}
       \field{dateera}{ce}
+    \endentry
+    \entry{LEAG_Braunkohleversorgung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=14dbb9c6dc579addc3a6ed42e7876ecf}{%
+           family={LEAG},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \strng{fullhash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \strng{bibnamehash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \strng{authorbibnamehash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \strng{authornamehash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \strng{authorfullhash}{14dbb9c6dc579addc3a6ed42e7876ecf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Geschäftsfeld Kraftwerke}
+      \field{urlday}{01}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.leag.de/de/geschaeftsfelder/kraftwerke/
+      \endverb
+      \verb{url}
+      \verb https://www.leag.de/de/geschaeftsfelder/kraftwerke/
+      \endverb
+    \endentry
+    \entry{Mail_RWE}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c1662a5caa47afed0ab4091bd2aadf77}{%
+           family={Steffen},
+           familyi={S\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \strng{fullhash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \strng{bibnamehash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \strng{authorbibnamehash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \strng{authornamehash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \strng{authorfullhash}{c1662a5caa47afed0ab4091bd2aadf77}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Ihre Anfrage zur Rohstoffversorgungslage}
+      \field{type}{E-Mail}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ende_Steinkohle}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bff19a5004efb8939e13d2bac0cf9e92}{%
+           family={Bundesregierung},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{fullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{bibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorbibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authornamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorfullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Steinkohlebergbau ist Geschichte}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/service/archiv/steinkohlebergbau-ist-geschichte-1563902
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/service/archiv/steinkohlebergbau-ist-geschichte-1563902
+      \endverb
+    \endentry
+    \entry{EnBW_Steinkohle}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1c49b5e9cbdbfc7ecee09be979ad811f}{%
+           family={AG},
+           familyi={A\bibinitperiod},
+           given={EnBW\bibnamedelimb Energie\bibnamedelima Baden-Würtemberg},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \strng{fullhash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \strng{bibnamehash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \strng{authorbibnamehash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \strng{authornamehash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \strng{authorfullhash}{1c49b5e9cbdbfc7ecee09be979ad811f}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{EnBW bereitet Kohlekraftwerke auf verstärkten Betrieb im Winter vor – Versorgungssicherheit oberste Priorität}
+      \field{urlday}{11}
+      \field{urlmonth}{07}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.enbw.com/unternehmen/presse/enbw_zum_ekbg.html
+      \endverb
+      \verb{url}
+      \verb https://www.enbw.com/unternehmen/presse/enbw_zum_ekbg.html
+      \endverb
+    \endentry
+    \entry{STEAG_Steinkohle}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3c9da512b6348bd1ef73d846512eaf72}{%
+           family={STEAG},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c9da512b6348bd1ef73d846512eaf72}
+      \strng{fullhash}{3c9da512b6348bd1ef73d846512eaf72}
+      \strng{bibnamehash}{3c9da512b6348bd1ef73d846512eaf72}
+      \strng{authorbibnamehash}{3c9da512b6348bd1ef73d846512eaf72}
+      \strng{authornamehash}{3c9da512b6348bd1ef73d846512eaf72}
+      \strng{authorfullhash}{3c9da512b6348bd1ef73d846512eaf72}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{STEAG bringt 2,5 Gigawatt zusätzliche Kraftwerksleistung zurück an den Markt}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.steag.com/de/pressemitteilung/21-10-2022-steag-bringt-kraftwerk-bexbach-frueher-zurueck-an-den-markt
+      \endverb
+      \verb{url}
+      \verb https://www.steag.com/de/pressemitteilung/21-10-2022-steag-bringt-kraftwerk-bexbach-frueher-zurueck-an-den-markt
+      \endverb
+    \endentry
+    \entry{Logistikgipfel_Saarland}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1913a6f68382c95b8d5cfc67fb599bfd}{%
+           family={Wirtschaft\bibnamedelimb Innovation\bibnamedelimb Digitales\bibnamedelimb und\bibnamedelimb Energie\bibnamedelimb -\bibnamedelima Saarland},
+           familyi={W\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ministerium},
+           giveni={M\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \strng{fullhash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \strng{bibnamehash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \strng{authorbibnamehash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \strng{authornamehash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \strng{authorfullhash}{1913a6f68382c95b8d5cfc67fb599bfd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Kohlekraftwerke wieder ans Netz: Logistikbranche vor großen Herausforderungen}
+      \field{urlday}{21}
+      \field{urlmonth}{07}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.saarland.de/mwide/DE/aktuelles/aktuelle-meldungen/medieninfos/pm_2022_07_21_kohlekraftwerke_als_herausforderung_logistikbranche.html
+      \endverb
+      \verb{url}
+      \verb https://www.saarland.de/mwide/DE/aktuelles/aktuelle-meldungen/medieninfos/pm_2022_07_21_kohlekraftwerke_als_herausforderung_logistikbranche.html
+      \endverb
+    \endentry
+    \entry{Impuls_Acatech_Einsparung}{report}{}
+      \name{author}{1}{}{%
+        {{hash=62c277377374e537b94231f089d13ab0}{%
+           family={(Hrsg.)},
+           familyi={(\bibinitperiod},
+           prefix={acatech/Leopoldina/Akademienunion},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Akademienprojekt „Energiesysteme der Zukunft” (ESYS)}%
+      }
+      \strng{namehash}{62c277377374e537b94231f089d13ab0}
+      \strng{fullhash}{62c277377374e537b94231f089d13ab0}
+      \strng{bibnamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authorbibnamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authornamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authorfullhash}{62c277377374e537b94231f089d13ab0}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Welche Auswirkungen hat der Ukrainekrieg auf die Energiepreise und Versorgungssicherheit in Europa?}
+      \field{type}{Impuls}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{17}
+      \range{pages}{1}
+    \endentry
+    \entry{LNG_FSRU}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bff19a5004efb8939e13d2bac0cf9e92}{%
+           family={Bundesregierung},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{fullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{bibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorbibnamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authornamehash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \strng{authorfullhash}{bff19a5004efb8939e13d2bac0cf9e92}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Erster Anleger für Flüssigerdgaslieferung fertig}
+      \field{urlday}{16}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bundesregierung.de/breg-de/suche/erster-lng-terminal-2143122
+      \endverb
+      \verb{url}
+      \verb https://www.bundesregierung.de/breg-de/suche/erster-lng-terminal-2143122
+      \endverb
+    \endentry
+    \entry{Impuls_Acatech_Reverse_Flow}{report}{}
+      \name{author}{1}{}{%
+        {{hash=62c277377374e537b94231f089d13ab0}{%
+           family={(Hrsg.)},
+           familyi={(\bibinitperiod},
+           prefix={acatech/Leopoldina/Akademienunion},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Akademienprojekt „Energiesysteme der Zukunft” (ESYS)}%
+      }
+      \strng{namehash}{62c277377374e537b94231f089d13ab0}
+      \strng{fullhash}{62c277377374e537b94231f089d13ab0}
+      \strng{bibnamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authorbibnamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authornamehash}{62c277377374e537b94231f089d13ab0}
+      \strng{authorfullhash}{62c277377374e537b94231f089d13ab0}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Welche Auswirkungen hat der Ukrainekrieg auf die Energiepreise und Versorgungssicherheit in Europa?}
+      \field{type}{Impuls}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{15}
+      \range{pages}{1}
+    \endentry
+    \entry{Notfallplan_Gas}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bf08863b1320510019eb61665cccd1bc}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelima Klimaschutz},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{fullhash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{bibnamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authorbibnamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authornamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authorfullhash}{bf08863b1320510019eb61665cccd1bc}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{Notfallplan Gas für die Bundesrepublik	Deutschland}
+      \field{type}{Verordnung}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{strat_Ölreserve_Geschichte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bf08863b1320510019eb61665cccd1bc}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelima Klimaschutz},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{fullhash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{bibnamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authorbibnamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authornamehash}{bf08863b1320510019eb61665cccd1bc}
+      \strng{authorfullhash}{bf08863b1320510019eb61665cccd1bc}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Ölkrisenvorsorge und -management}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
+      \endverb
+      \verb{url}
+      \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
+      \endverb
+    \endentry
+    \entry{IEA_Ölreserven}{online}{}
+      \name{author}{1}{}{%
+        {{hash=18fdbec513c87989c7580f31bb7f03ab}{%
+           family={IEA},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{fullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{bibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
+      \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Oil Market Report, March 2022}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
+      \endverb
+      \verb{url}
+      \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
+      \endverb
+    \endentry
+    \entry{Stresstest}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a45e3366fae3b429d5250ea5721fd3f9}{%
+           family={50Hertz/TenneT/TransnetBW/Amperion},
+           familyi={5\bibinitperiod}}}%
+      }
+      \strng{namehash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \strng{fullhash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \strng{bibnamehash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \strng{authorbibnamehash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \strng{authornamehash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \strng{authorfullhash}{a45e3366fae3b429d5250ea5721fd3f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Abschlussbericht Sonderanalysen Winter 2022/2023}
+      \field{urlday}{13}
+      \field{urlmonth}{09}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bmwk.de/Redaktion/DE/Downloads/Energie/20220914-stresstest-strom-ergebnisse-langfassung.pdf?__blob=publicationFile&v=18
+      \endverb
+      \verb{url}
+      \verb https://www.bmwk.de/Redaktion/DE/Downloads/Energie/20220914-stresstest-strom-ergebnisse-langfassung.pdf?__blob=publicationFile&v=18
+      \endverb
+    \endentry
+    \entry{EnSiG}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0b73eff7327bca720a520b5113048952}{%
+           family={EnSiG},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b73eff7327bca720a520b5113048952}
+      \strng{fullhash}{0b73eff7327bca720a520b5113048952}
+      \strng{bibnamehash}{0b73eff7327bca720a520b5113048952}
+      \strng{authorbibnamehash}{0b73eff7327bca720a520b5113048952}
+      \strng{authornamehash}{0b73eff7327bca720a520b5113048952}
+      \strng{authorfullhash}{0b73eff7327bca720a520b5113048952}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Energiesicherungsgesetz}
+      \field{title}{Entwurf eines Gesetzes zur Änderung des Energiesicherungsgesetzes 1975 und anderer energiewirtschaftlicher Vorschriften}
+      \field{type}{Gesetz}
+      \field{version}{2022}
+      \field{year}{1975}
+      \true{nocite}
+    \endentry
+    \entry{Laufzeitverlängerung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2644f47cd13ffc0a75f326bb474477ce}{%
+           family={Bundestag},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2644f47cd13ffc0a75f326bb474477ce}
+      \strng{fullhash}{2644f47cd13ffc0a75f326bb474477ce}
+      \strng{bibnamehash}{2644f47cd13ffc0a75f326bb474477ce}
+      \strng{authorbibnamehash}{2644f47cd13ffc0a75f326bb474477ce}
+      \strng{authornamehash}{2644f47cd13ffc0a75f326bb474477ce}
+      \strng{authorfullhash}{2644f47cd13ffc0a75f326bb474477ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Bundestag beschließt AKW-Laufzeitverlängerung bis Mitte April 2023}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
+      \endverb
+      \verb{url}
+      \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
+      \endverb
+    \endentry
+    \entry{Wiedereintritt_Kraftwerke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=15f4e8038558a6e8b79daf99c4b54415}{%
+           family={BNetzA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{fullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{bibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorbibnamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
+      \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
+      \field{extraname}{7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Rückkehr von Kohlekraftwerken an den Strommarkt}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.smard.de/home/rueckkehr-von-kohlekraftwerken-an-den-strommarkt-209208
+      \endverb
+      \verb{url}
+      \verb https://www.smard.de/home/rueckkehr-von-kohlekraftwerken-an-den-strommarkt-209208
+      \endverb
+    \endentry
+    \entry{CO2_Uhr}{online}{}
+      \name{author}{2}{}{%
+        {{hash=4e411d3d78992b15b0cbded7e8bbdc84}{%
+           family={Global\bibnamedelima Commons},
+           familyi={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Mercator\bibnamedelimb Research\bibnamedelima Institut},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={on},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=7a947baf7ef21039884479d45abb72c6}{%
+           family={(MCC)},
+           familyi={(\bibinitperiod},
+           given={Climate\bibnamedelima Change},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e985326c17e23191db862df0611c358}
+      \strng{fullhash}{0e985326c17e23191db862df0611c358}
+      \strng{bibnamehash}{0e985326c17e23191db862df0611c358}
+      \strng{authorbibnamehash}{0e985326c17e23191db862df0611c358}
+      \strng{authornamehash}{0e985326c17e23191db862df0611c358}
+      \strng{authorfullhash}{0e985326c17e23191db862df0611c358}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{So schnell tickt die CO2-Uhr}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.mcc-berlin.net/forschung/co2-budget.html
+      \endverb
+      \verb{url}
+      \verb https://www.mcc-berlin.net/forschung/co2-budget.html
+      \endverb
+    \endentry
+    \entry{Umweltbundesamt_Emissionen}{report}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={Umweltbundesamt},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{title}{Übersicht zurEntwicklung der energiebedingten Emissionen und Brennstoffeinsätze in Deutschland 1990 – 2020}
+      \field{type}{Report}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{11}
+      \range{pages}{1}
+    \endentry
+    \entry{Koalitionsvertrag}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9a79d737bf00983485ea7914aa3170a9}{%
+           family={FDP},
+           familyi={F\bibinitperiod},
+           given={SPD\bibnamedelimb /\bibnamedelimb Bündnis90/Die\bibnamedelimb Grünen\bibnamedelima /},
+           giveni={S\bibinitperiod\bibinitdelim /\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim /\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {SPD / Bündnis90/Die Grünen / FPD}%
+      }
+      \strng{namehash}{9a79d737bf00983485ea7914aa3170a9}
+      \strng{fullhash}{9a79d737bf00983485ea7914aa3170a9}
+      \strng{bibnamehash}{9a79d737bf00983485ea7914aa3170a9}
+      \strng{authorbibnamehash}{9a79d737bf00983485ea7914aa3170a9}
+      \strng{authornamehash}{9a79d737bf00983485ea7914aa3170a9}
+      \strng{authorfullhash}{9a79d737bf00983485ea7914aa3170a9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{subtitle}{Bündnis Für Freiheit, Gerechtigkeit und Nachhaltigkeit}
+      \field{title}{Mehr Fortschritt Wagen}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Kohleausstieg_RWE}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f8180c3ec2967b97443be771dde2d73c}{%
+           family={AG},
+           familyi={A\bibinitperiod},
+           given={RWE},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8180c3ec2967b97443be771dde2d73c}
+      \strng{fullhash}{f8180c3ec2967b97443be771dde2d73c}
+      \strng{bibnamehash}{f8180c3ec2967b97443be771dde2d73c}
+      \strng{authorbibnamehash}{f8180c3ec2967b97443be771dde2d73c}
+      \strng{authornamehash}{f8180c3ec2967b97443be771dde2d73c}
+      \strng{authorfullhash}{f8180c3ec2967b97443be771dde2d73c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Verständigung auf Kohleausstieg 2030 und Stärkung der Versorgungssicherheit in der Energiekrise}
+      \field{urlday}{04}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.rwe.com/presse/rwe-ag/2022-10-04-verstaendigung-auf-kohleausstieg-2030-staerkung-der-versorgungssicherheit-in-energiekrise
+      \endverb
+      \verb{url}
+      \verb https://www.rwe.com/presse/rwe-ag/2022-10-04-verstaendigung-auf-kohleausstieg-2030-staerkung-der-versorgungssicherheit-in-energiekrise
+      \endverb
+    \endentry
+    \entry{Stand_der_Dinge}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2b9358c06354ecbe46fef050b5ab6b99}{%
+           family={Energiewende},
+           familyi={E\bibinitperiod},
+           given={Agora},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Agora Energiewende}%
+      }
+      \strng{namehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{fullhash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{bibnamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authorbibnamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{subtitle}{Rückblick auf die wesentlichen Entwicklungen sowie Ausblick auf 2022.}
+      \field{title}{Die Energiewende in Deutschland: Stand der Dinge 2021}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{Agora_KlimaneutralesStromsystem}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2b9358c06354ecbe46fef050b5ab6b99}{%
+           family={Energiewende},
+           familyi={E\bibinitperiod},
+           given={Agora},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Agora Energiewende, Prognos, Consentec}%
+      }
+      \strng{namehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{fullhash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{bibnamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authorbibnamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{subtitle}{Wie der deutsche Stromsektor bis zum Jahr 2035 klimaneutral werden kann.}
+      \field{title}{Klimaneutrales Stromsystem 2035.}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{AriadneReport}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5925ded98fde4cd5330c3802fc76783e}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Gunnar\bibnamedelimb Luderer\bibnamedelima (PIK)},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim (\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Potsdam}%
+      }
+      \list{publisher}{1}{%
+        {Potsdam-Institut für Klimafolgenforschung (PIK)}%
+      }
+      \strng{namehash}{5925ded98fde4cd5330c3802fc76783e}
+      \strng{fullhash}{5925ded98fde4cd5330c3802fc76783e}
+      \strng{bibnamehash}{5925ded98fde4cd5330c3802fc76783e}
+      \strng{authorbibnamehash}{5925ded98fde4cd5330c3802fc76783e}
+      \strng{authornamehash}{5925ded98fde4cd5330c3802fc76783e}
+      \strng{authorfullhash}{5925ded98fde4cd5330c3802fc76783e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{subtitle}{Szenarien und Pfade im Modellvergleich}
+      \field{title}{Ariadne Report / Deutschland auf dem Weg zur Klimaneutralität 2045}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{ESRa_Fraunhofer}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9ded09f3483565c5d363d1c35fb8c120}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Andrea\bibnamedelima Wiesholzer},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Germanwatch, Fraunhofer IEE, Global Climate Forum}%
+      }
+      \strng{namehash}{9ded09f3483565c5d363d1c35fb8c120}
+      \strng{fullhash}{9ded09f3483565c5d363d1c35fb8c120}
+      \strng{bibnamehash}{9ded09f3483565c5d363d1c35fb8c120}
+      \strng{authorbibnamehash}{9ded09f3483565c5d363d1c35fb8c120}
+      \strng{authornamehash}{9ded09f3483565c5d363d1c35fb8c120}
+      \strng{authorfullhash}{9ded09f3483565c5d363d1c35fb8c120}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{subtitle}{Produkt 3.3 - Klimaneutrale Energiesysteme und zukunftsfähige Qualifikationsprofile.}
+      \field{title}{Verbundvorhaben: ESRa - Energiewende im sozialen Raum}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{EU_Klimaziele}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e82e2109bc6e3585cab659e453f438e6}{%
+           family={Kommission},
+           familyi={K\bibinitperiod},
+           given={Europäische},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{fullhash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{bibnamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authorbibnamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authornamehash}{e82e2109bc6e3585cab659e453f438e6}
+      \strng{authorfullhash}{e82e2109bc6e3585cab659e453f438e6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Klima- und energiepolitischer Rahmen bis 2030}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2030-climate-energy-framework_de
+      \endverb
+      \verb{url}
+      \verb https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2030-climate-energy-framework_de
+      \endverb
+    \endentry
+    \entry{Stromproduktion_Erdgas}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1b362769cbab2008398a2850d7e6c0a0}{%
+           family={Destatis},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b362769cbab2008398a2850d7e6c0a0}
+      \strng{fullhash}{1b362769cbab2008398a2850d7e6c0a0}
+      \strng{bibnamehash}{1b362769cbab2008398a2850d7e6c0a0}
+      \strng{authorbibnamehash}{1b362769cbab2008398a2850d7e6c0a0}
+      \strng{authornamehash}{1b362769cbab2008398a2850d7e6c0a0}
+      \strng{authorfullhash}{1b362769cbab2008398a2850d7e6c0a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Stromproduktion im 1. Halbjahr 2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22_374_43312.html
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22_374_43312.html
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
