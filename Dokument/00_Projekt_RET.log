@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  13 DEC 2022 19:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  14 DEC 2022 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2356,10 +2356,10 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52945 strings out of 474968
- 1266815 string characters out of 5776082
- 2256285 words of memory out of 5000000
- 73420 multiletter control sequences out of 15000+600000
+ 52946 strings out of 474968
+ 1266841 string characters out of 5776082
+ 2256325 words of memory out of 5000000
+ 73421 multiletter control sequences out of 15000+600000
  560028 words of font info for 82 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  108i,24n,106p,10609b,3177s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2387,10 +2387,10 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (44 pages, 3157248 bytes).
+Output written on 00_Projekt_RET.pdf (44 pages, 3157086 bytes).
 PDF statistics:
- 1045 PDF objects out of 1200 (max. 8388607)
- 848 compressed objects within 9 object streams
+ 1046 PDF objects out of 1200 (max. 8388607)
+ 849 compressed objects within 9 object streams
  162 named destinations out of 1000 (max. 500000)
  405 words of extra memory for PDF output out of 10000 (max. 10000000)
 
