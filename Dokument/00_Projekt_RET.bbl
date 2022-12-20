@@ -1629,12 +1629,43 @@
       \field{urlmonth}{05}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2022/20220503_DatenerhebungGas.html
       \endverb
       \verb{url}
       \verb https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2022/20220503_DatenerhebungGas.html
+      \endverb
+    \endentry
+    \entry{AKW_Frankreich}{online}{}
+      \name{author}{1}{}{%
+        {{hash=12046e93ac9db4ae121e7dcb328c3036}{%
+           family={Deutschland},
+           familyi={D\bibinitperiod},
+           given={Redaktionsnetzwerk},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{12046e93ac9db4ae121e7dcb328c3036}
+      \strng{fullhash}{12046e93ac9db4ae121e7dcb328c3036}
+      \strng{bibnamehash}{12046e93ac9db4ae121e7dcb328c3036}
+      \strng{authorbibnamehash}{12046e93ac9db4ae121e7dcb328c3036}
+      \strng{authornamehash}{12046e93ac9db4ae121e7dcb328c3036}
+      \strng{authorfullhash}{12046e93ac9db4ae121e7dcb328c3036}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Wartungen an AKWs verzögern sich: Droht Frankreich nun ein Blackout?}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.rnd.de/wirtschaft/frankreich-droht-strom-engpass-wegen-ruhender-atomkraftwerke-AP3JLDZUC4WVUNELTT6PX4FX3A.html
+      \endverb
+      \verb{url}
+      \verb https://www.rnd.de/wirtschaft/frankreich-droht-strom-engpass-wegen-ruhender-atomkraftwerke-AP3JLDZUC4WVUNELTT6PX4FX3A.html
       \endverb
     \endentry
   \enddatalist
