@@ -3,26 +3,26 @@
 \contentsline {section}{\numberline {2}Wie kann der Begriff Kraftwerksreserve definiert werden?}{6}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1}Wie funktioniert der deutsche Strommarkt?}{6}{subsection.0.2.1}%
 \contentsline {subsection}{\numberline {2.2}Kraftwerksreserven zur Netzfrequenzstabilisierung}{8}{subsection.0.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Prim^^c3^^a4rregelreserve}{10}{subsubsection.0.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Sekund^^c3^^a4rregelreserve}{11}{subsubsection.0.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Primärregelreserve}{10}{subsubsection.0.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Sekundärregelreserve}{11}{subsubsection.0.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Minutenreserve}{13}{subsubsection.0.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Prim^^c3^^a4renergietr^^c3^^a4ger und Einsatzzeiten}{13}{subsubsection.0.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4}Primärenergieträger und Einsatzzeiten}{13}{subsubsection.0.2.2.4}%
 \contentsline {subsubsection}{\numberline {2.2.5}Momentanreserve}{16}{subsubsection.0.2.2.5}%
 \contentsline {subsection}{\numberline {2.3}Kraftwerksreserven zur Reserveleistungsvorhaltung}{17}{subsection.0.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Netzreserve}{17}{subsubsection.0.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Kapazit^^c3^^a4tsreserve}{20}{subsubsection.0.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2}Kapazitätsreserve}{20}{subsubsection.0.2.3.2}%
 \contentsline {subsubsection}{\numberline {2.3.3}Sicherheitsbereitschaft}{22}{subsubsection.0.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}Ver^^c3^^a4nderungen der Kraftwerksreserven aufgrund des russischen ^^c3^^9cberfalls auf die Ukraine}{23}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {2.4}Veränderungen der Kraftwerksreserven aufgrund des russischen Überfalls auf die Ukraine}{23}{subsection.0.2.4}%
 \contentsline {section}{\numberline {3}Aktuelle Bewertung der Kraftwerksreserven zur Netzstabilisierung und Reserveleistungsvorhaltung}{24}{section.0.3}%
 \contentsline {subsection}{\numberline {3.1}Bewertung der logistischen Situation der Reserven}{24}{subsection.0.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Logistischer Stand der Braunkohle}{24}{subsubsection.0.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Logistischer Stand der Steinkohle}{25}{subsubsection.0.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Logistischer Stand des Erdgases}{26}{subsubsection.0.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Logistischer Stand des Mineral^^c3^^b6ls}{26}{subsubsection.0.3.1.4}%
-\contentsline {subsection}{\numberline {3.2}Kapazit^^c3^^a4tssituation f^^c3^^bcr den Winter 2022/23}{27}{subsection.0.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Der zweite Stresstest f^^c3^^bcr die Stromversorgung}{28}{subsubsection.0.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.4}Logistischer Stand des Mineralöls}{26}{subsubsection.0.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Kapazitätssituation für den Winter 2022/23}{27}{subsection.0.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Der zweite Stresstest für die Stromversorgung}{28}{subsubsection.0.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{28}{subsubsection.0.3.2.2}%
-\contentsline {section}{\numberline {4}Die zuk^^c3^^bcnftige Entwicklung von Kraftwerksreserven}{29}{section.0.4}%
+\contentsline {section}{\numberline {4}Die zukünftige Entwicklung von Kraftwerksreserven}{29}{section.0.4}%
 \contentsline {subsection}{\numberline {4.1}Aktueller Stand der Stromproduktion und des Energiesystems}{31}{subsection.0.4.1}%
 \contentsline {subsection}{\numberline {4.2}Entwicklung eines klimaneutralen Energiesystems bis zum Jahr 2030}{31}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3}Entwicklung eines klimaneutralen Energiesystems bis zum Jahr 2045}{35}{subsection.0.4.3}%

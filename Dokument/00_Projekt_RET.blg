@@ -1,17 +1,17 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is '00_Projekt_RET.blg'
-[102] biber-darwin:340> INFO - === Thu Dec 22, 2022, 17:55:02
-[120] Biber.pm:418> INFO - Reading '00_Projekt_RET.bcf'
-[250] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[270] Biber.pm:4401> INFO - Processing section 0
-[284] Biber.pm:4592> INFO - Looking for bibtex file '07_literaturverzeichnis.bib' for section 0
-[288] bibtex.pm:1713> INFO - LaTeX decoding ...
-[368] bibtex.pm:1518> INFO - Found BibTeX data source '07_literaturverzeichnis.bib'
-[701] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[701] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[701] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[701] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[747] bbl.pm:654> INFO - Writing '00_Projekt_RET.bbl' with encoding 'UTF-8'
-[775] bbl.pm:757> INFO - Output to 00_Projekt_RET.bbl
-[776] Biber.pm:130> WARN - BibTeX subsystem: /var/folders/_r/qf2zc59x0_90w5cpqcq_60kh0000gn/T/biber_tmp_tf2U/b2c219d5b726aa39ec0741a97704517a_6779.utf8, line 45, warning: 1 characters of junk seen at toplevel
-[776] Biber.pm:132> INFO - WARNINGS: 1
+[44] biber-darwin:340> INFO - === Thu Dec 22, 2022, 23:42:34
+[53] Biber.pm:418> INFO - Reading '00_Projekt_RET.bcf'
+[108] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[119] Biber.pm:4401> INFO - Processing section 0
+[125] Biber.pm:4592> INFO - Looking for bibtex file '07_literaturverzeichnis.bib' for section 0
+[126] bibtex.pm:1713> INFO - LaTeX decoding ...
+[158] bibtex.pm:1518> INFO - Found BibTeX data source '07_literaturverzeichnis.bib'
+[287] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[287] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[287] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[287] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[307] bbl.pm:654> INFO - Writing '00_Projekt_RET.bbl' with encoding 'UTF-8'
+[317] bbl.pm:757> INFO - Output to 00_Projekt_RET.bbl
+[317] Biber.pm:130> WARN - BibTeX subsystem: /var/folders/cc/_yx6tlvn63s9d5j0wsd2p2g80000gn/T/biber_tmp_uPku/b2c219d5b726aa39ec0741a97704517a_24089.utf8, line 45, warning: 1 characters of junk seen at toplevel
+[317] Biber.pm:132> INFO - WARNINGS: 1

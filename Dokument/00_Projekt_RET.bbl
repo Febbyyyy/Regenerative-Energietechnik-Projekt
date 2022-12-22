@@ -100,7 +100,6 @@
       \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
@@ -275,7 +274,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/primaerreserve-primaerregelleistung
       \endverb
@@ -1181,7 +1179,6 @@
       \field{month}{11}
       \field{title}{Ölkrisenvorsorge und -management}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
       \endverb
@@ -1211,7 +1208,6 @@
       \field{urlmonth}{03}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
       \endverb
@@ -1292,7 +1288,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
       \endverb
@@ -1436,8 +1431,8 @@
       \strng{authornamehash}{f8180c3ec2967b97443be771dde2d73c}
       \strng{authorfullhash}{f8180c3ec2967b97443be771dde2d73c}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -1474,8 +1469,8 @@
       \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
       \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{01}
@@ -1505,8 +1500,8 @@
       \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
       \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{06}
@@ -1538,8 +1533,8 @@
       \strng{authornamehash}{5925ded98fde4cd5330c3802fc76783e}
       \strng{authorfullhash}{5925ded98fde4cd5330c3802fc76783e}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
@@ -1571,8 +1566,8 @@
       \strng{authornamehash}{9ded09f3483565c5d363d1c35fb8c120}
       \strng{authorfullhash}{9ded09f3483565c5d363d1c35fb8c120}
       \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{06}
@@ -1595,8 +1590,8 @@
       \strng{authorbibnamehash}{e82e2109bc6e3585cab659e453f438e6}
       \strng{authornamehash}{e82e2109bc6e3585cab659e453f438e6}
       \strng{authorfullhash}{e82e2109bc6e3585cab659e453f438e6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{12}
@@ -1622,8 +1617,8 @@
       \strng{authorbibnamehash}{1b362769cbab2008398a2850d7e6c0a0}
       \strng{authornamehash}{1b362769cbab2008398a2850d7e6c0a0}
       \strng{authorfullhash}{1b362769cbab2008398a2850d7e6c0a0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
