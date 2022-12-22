@@ -100,6 +100,7 @@
       \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
       \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
@@ -274,6 +275,7 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/primaerreserve-primaerregelleistung
       \endverb
@@ -416,6 +418,30 @@
       \verb{url}
       \verb https://www.bbh-blog.de/alle-themen/energie/kommission-macht-weg-fuer-kapazitaetsreserve-frei/
       \endverb
+    \endentry
+    \entry{Bericht_Wasserkraft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a1a6a627ac4b91c7bbd9f88a721275b3}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Ingenieurbüro\bibnamedelima Floecksmühle},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \strng{fullhash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \strng{bibnamehash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \strng{authorbibnamehash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \strng{authornamehash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \strng{authorfullhash}{a1a6a627ac4b91c7bbd9f88a721275b3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{subtitle}{Teilvorhaben II d: Wasserkraft - Zwischenbericht}
+      \field{title}{Vorbereitung und Begleitung bei der Erstellung eines Erfahrungsberichts gemäß § 97 Erneuerbare-Energien-Gesetz}
+      \field{year}{2018}
+      \field{dateera}{ce}
     \endentry
     \entry{Bericht_Momentanreserve}{report}{}
       \name{author}{1}{}{%
@@ -1155,6 +1181,7 @@
       \field{month}{11}
       \field{title}{Ölkrisenvorsorge und -management}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
       \endverb
@@ -1184,6 +1211,7 @@
       \field{urlmonth}{03}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
       \endverb
@@ -1264,6 +1292,7 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
       \endverb
@@ -1573,6 +1602,7 @@
       \field{month}{12}
       \field{title}{Klima- und energiepolitischer Rahmen bis 2030}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2030-climate-energy-framework_de
       \endverb
@@ -1619,8 +1649,8 @@
       \strng{authornamehash}{15f4e8038558a6e8b79daf99c4b54415}
       \strng{authorfullhash}{15f4e8038558a6e8b79daf99c4b54415}
       \field{extraname}{8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -1650,8 +1680,8 @@
       \strng{authorbibnamehash}{12046e93ac9db4ae121e7dcb328c3036}
       \strng{authornamehash}{12046e93ac9db4ae121e7dcb328c3036}
       \strng{authorfullhash}{12046e93ac9db4ae121e7dcb328c3036}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -1660,7 +1690,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.rnd.de/wirtschaft/frankreich-droht-strom-engpass-wegen-ruhender-atomkraftwerke-AP3JLDZUC4WVUNELTT6PX4FX3A.html
       \endverb
