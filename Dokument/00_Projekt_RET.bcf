@@ -2350,108 +2350,110 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">haucap</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">haucap</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
     <bcf:citekey order="24" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
     <bcf:citekey order="25" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Frauenhofer_PV_Bericht</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">Frauenhofer_PV_Bericht</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">bbh_blog</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">\cite</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">Angerer_Krohns</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">Elektrizitätswirtschaft</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">ENTSO-E_PRL</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">ENTSO-E_PRL</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">Primäreserve_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Frauenhofer_PV_Bericht</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Frauenhofer_PV_Bericht</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">bbh_blog</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">\cite</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Angerer_Krohns</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Elektrizit^^c3^^a4tswirtschaft</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">ENTSO-E_PRL</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">ENTSO-E_PRL</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Prim^^c3^^a4reserve_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">Beschluss_SRL</bcf:citekey>
     <bcf:citekey order="46" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">Beschluss_SRL</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">Studie_Regelleistung_Wasserkraft</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">Studie_Regelleistung_Wasserkraft</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">Bericht_Wasserkraft</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
     <bcf:citekey order="55" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">Regelleistung_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">Doktorarbeit_Reitsam</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">Bericht_Wasserkraft</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">Gawlik</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">Energiespeicher</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">Bericht_Momentanreserve</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">Bericht_Momentanreserve</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">regelleistungnet_PRL_Ausschreibung</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">Gawlik</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">Energiespeicher</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">Bericht_Momentanreserve</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">Bericht_Momentanreserve</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">EnWG</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">Bedarf_Netz_Kapa_Reserve</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">Bedarf_Netz_Kapa_Reserve</bcf:citekey>
     <bcf:citekey order="71" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
     <bcf:citekey order="72" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">EnWG</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">Bedarf_Netz_Kapa_Reserve</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">Bedarf_Netz_Kapa_Reserve</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">EnWG</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
     <bcf:citekey order="78" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">EnWG</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">Monitoringbericht_BNetzA</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">Agora_Braunkohle</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">EnWG</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
     <bcf:citekey order="84" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">Agora_Braunkohle</bcf:citekey>
-    <bcf:citekey order="88" intorder="1">EnWG</bcf:citekey>
-    <bcf:citekey order="89" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="90" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="91" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="92" intorder="1">EnWG</bcf:citekey>
-    <bcf:citekey order="93" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
-    <bcf:citekey order="94" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="95" intorder="1">LEAG_Braunkohleversorgung</bcf:citekey>
-    <bcf:citekey order="96" intorder="1">Mail_RWE</bcf:citekey>
-    <bcf:citekey order="97" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="98" intorder="1">Ende_Steinkohle</bcf:citekey>
-    <bcf:citekey order="99" intorder="1">EnBW_Steinkohle</bcf:citekey>
-    <bcf:citekey order="100" intorder="1">Logistikgipfel_Saarland</bcf:citekey>
-    <bcf:citekey order="101" intorder="1">STEAG_Steinkohle</bcf:citekey>
-    <bcf:citekey order="102" intorder="1">Datenerhebung_Gas</bcf:citekey>
-    <bcf:citekey order="103" intorder="1">Impuls_Acatech_Einsparung</bcf:citekey>
-    <bcf:citekey order="104" intorder="1">Speicherfüllstände</bcf:citekey>
-    <bcf:citekey order="105" intorder="1">LNG_FSRU</bcf:citekey>
-    <bcf:citekey order="106" intorder="1">Impuls_Acatech_Reverse_Flow</bcf:citekey>
-    <bcf:citekey order="107" intorder="1">Notfallplan_Gas</bcf:citekey>
-    <bcf:citekey order="108" intorder="1">strat_Ölreserve_Geschichte</bcf:citekey>
-    <bcf:citekey order="109" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
-    <bcf:citekey order="110" intorder="1">IEA_Ölreserven</bcf:citekey>
-    <bcf:citekey order="111" intorder="1">IEA_Ölreserven</bcf:citekey>
-    <bcf:citekey order="112" intorder="1">Stromproduktion_Erdgas</bcf:citekey>
-    <bcf:citekey order="113" intorder="1">AKW_Frankreich</bcf:citekey>
-    <bcf:citekey order="114" intorder="1">Stresstest</bcf:citekey>
-    <bcf:citekey order="115" intorder="1">EnSiG</bcf:citekey>
-    <bcf:citekey order="116" intorder="1">Laufzeitverlängerung</bcf:citekey>
-    <bcf:citekey order="117" intorder="1">Wiedereintritt_Kraftwerke</bcf:citekey>
-    <bcf:citekey order="118" intorder="1">CO2_Uhr</bcf:citekey>
-    <bcf:citekey order="119" intorder="1">Umweltbundesamt_Emissionen</bcf:citekey>
-    <bcf:citekey order="120" intorder="1">Koalitionsvertrag</bcf:citekey>
-    <bcf:citekey order="121" intorder="1">Kohleausstieg_RWE</bcf:citekey>
-    <bcf:citekey order="122" intorder="1">Stand_der_Dinge</bcf:citekey>
-    <bcf:citekey order="123" intorder="1">Stand_der_Dinge</bcf:citekey>
-    <bcf:citekey order="124" intorder="1">Stand_der_Dinge</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">EnWG</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">Netz_Kapa_Reserve_NextKraftwerke</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">LEAG_Braunkohleversorgung</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">Mail_RWE</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">Ende_Steinkohle</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">EnBW_Steinkohle</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">Logistikgipfel_Saarland</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">STEAG_Steinkohle</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">Datenerhebung_Gas</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">Impuls_Acatech_Einsparung</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">Speicherf^^c3^^bcllst^^c3^^a4nde</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">LNG_FSRU</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">Impuls_Acatech_Reverse_Flow</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">Notfallplan_Gas</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">strat_^^c3^^96lreserve_Geschichte</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">Excel_Kraftwerksliste</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">IEA_^^c3^^96lreserven</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">IEA_^^c3^^96lreserven</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">Stromproduktion_Erdgas</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">AKW_Frankreich</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">Stresstest</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">EnSiG</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">Laufzeitverl^^c3^^a4ngerung</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">Wiedereintritt_Kraftwerke</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">CO2_Uhr</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">Umweltbundesamt_Emissionen</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">Koalitionsvertrag</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">Kohleausstieg_RWE</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">Stand_der_Dinge</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">Stand_der_Dinge</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">Stand_der_Dinge</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
     <bcf:citekey order="125" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
     <bcf:citekey order="126" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
     <bcf:citekey order="127" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
@@ -2459,26 +2461,20 @@
     <bcf:citekey order="129" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
     <bcf:citekey order="130" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
     <bcf:citekey order="131" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="132" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="133" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="134" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="135" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="136" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="137" intorder="1">Agora_KlimaneutralesStromsystem</bcf:citekey>
-    <bcf:citekey order="138" intorder="1">AriadneReport</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">AriadneReport</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">ESRa_Fraunhofer</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">ESRa_Fraunhofer</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">ESRa_Fraunhofer</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">ESRa_Fraunhofer</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">ESRa_Fraunhofer</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="139" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="140" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="141" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="142" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="143" intorder="1">ESRa_Fraunhofer</bcf:citekey>
     <bcf:citekey order="144" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="145" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="146" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="147" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="148" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="149" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="150" intorder="1">ESRa_Fraunhofer</bcf:citekey>
-    <bcf:citekey order="151" intorder="1">Frauenhofer_LNG</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">Frauenhofer_LNG</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

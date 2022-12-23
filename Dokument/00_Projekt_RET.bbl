@@ -100,6 +100,7 @@
       \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
       \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
@@ -274,6 +275,7 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/primaerreserve-primaerregelleistung
       \endverb
@@ -416,6 +418,36 @@
       \verb{url}
       \verb https://www.bbh-blog.de/alle-themen/energie/kommission-macht-weg-fuer-kapazitaetsreserve-frei/
       \endverb
+    \endentry
+    \entry{Studie_Regelleistung_Wasserkraft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e16e0d0d8fe337bd4e6bf96465351676}{%
+           family={M.Brinkhaus},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi Huneke},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffix={C.\bibnamedelimi Troost},
+           suffixi={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Energy Brainpool}%
+      }
+      \strng{namehash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \strng{fullhash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \strng{bibnamehash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \strng{authorbibnamehash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \strng{authornamehash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \strng{authorfullhash}{e16e0d0d8fe337bd4e6bf96465351676}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zukünftige energiewirtschaftliche Rolle der kleinen Wasserkraft}
+      \field{year}{2020}
+      \field{dateera}{ce}
     \endentry
     \entry{Bericht_Wasserkraft}{book}{}
       \name{author}{1}{}{%
@@ -566,6 +598,7 @@
       \field{urlmonth}{10}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/regelenergie
       \endverb
@@ -1179,6 +1212,7 @@
       \field{month}{11}
       \field{title}{Ölkrisenvorsorge und -management}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
       \endverb
@@ -1208,6 +1242,7 @@
       \field{urlmonth}{03}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
       \endverb
@@ -1288,6 +1323,7 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
       \endverb
@@ -1500,8 +1536,8 @@
       \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
       \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{06}
@@ -1533,8 +1569,8 @@
       \strng{authornamehash}{5925ded98fde4cd5330c3802fc76783e}
       \strng{authorfullhash}{5925ded98fde4cd5330c3802fc76783e}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
@@ -1566,8 +1602,8 @@
       \strng{authornamehash}{9ded09f3483565c5d363d1c35fb8c120}
       \strng{authorfullhash}{9ded09f3483565c5d363d1c35fb8c120}
       \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{06}
