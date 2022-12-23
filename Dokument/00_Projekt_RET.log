@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  23 DEC 2022 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  23 DEC 2022 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1955,22 +1955,22 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 467.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 493--500
+Underfull \hbox (badness 10000) in paragraph at lines 491--498
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 506.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 504.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 510--517
+Underfull \hbox (badness 10000) in paragraph at lines 508--515
 
  []
 
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 525.
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 523.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [23]) (./05_kap3.tex
 Overfull \hbox (1.1186pt too wide) in paragraph at lines 16--19
@@ -2136,30 +2136,22 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 306.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 307--310
-
- []
-
-<./anhang/Frauenhofer Studie.pdf, id=770, page=17, 597.79335pt x 845.19763pt>
+<./anhang/Frauenhofer Studie.pdf, id=769, page=17, 597.79335pt x 845.19763pt>
 File: ./anhang/Frauenhofer Studie.pdf Graphic file (type pdf)
 <use ./anhang/Frauenhofer Studie.pdf, page 17>
 Package pdftex.def Info: ./anhang/Frauenhofer Studie.pdf , page17 used on input
- line 321.
+ line 314.
 (pdftex.def)             Requested size: 397.34149pt x 426.02644pt.
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 324.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[35]
+ [35 <./anhang/Frauenhofer Studie.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 327--335
 
  []
 
-File: bilder/ostfalia.png Graphic file (type png)
-<use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 335.
-(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[36 <./anhang/Frauenhofer Studie.pdf>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 336--342
 
  []
@@ -2169,25 +2161,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--349
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--354
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 349.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+[36]
+File: bilder/ostfalia.png Graphic file (type png)
+<use bilder/ostfalia.png>
+Package pdftex.def Info: bilder/ostfalia.png  used on input line 354.
+(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
+ [37]) (./06_schluss.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-File: bilder/ostfalia.png Graphic file (type png)
-<use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 359.
-(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[37]) (./06_schluss.tex)
+)
 File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 306.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [38]
+ [38
+
+]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 10.
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 File: bilder/ostfalia.png Graphic file (type png)
@@ -2316,7 +2314,7 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on 00_Projekt_RET.pdf (45 pages, 3558000 bytes).
+Output written on 00_Projekt_RET.pdf (45 pages, 3558302 bytes).
 PDF statistics:
  1223 PDF objects out of 1440 (max. 8388607)
  988 compressed objects within 10 object streams
