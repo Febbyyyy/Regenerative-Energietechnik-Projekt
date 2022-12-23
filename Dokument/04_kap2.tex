@@ -111,30 +111,30 @@
 			Der Regelbereich befindet sich dabei innerhalb des Regelbands und außerhalb des Totbands (s. Abb. \ref{Abb. Beispielhafte Darstellung der Regelenergie in Abhängigkeit der Netzfrequenz}).
 			Ab einer Netzfrequenz von \SI{49,99}{\hertz} bzw. \SI{50,01}{\hertz} muss der Stromlieferant die Primärregelleistung hochfahren und bei einer Frequenz von \SI{49,8}{\hertz} bzw. \SI{50,2}{\hertz} \SI{100}{\percent} seiner angebotenen Leistung abrufen bzw. liefern können \cite{Primäreserve_NextKraftwerke}. 
 			
-			\begin{table}[H]
-				\renewcommand*{\arraystretch}{1.75}
-				\centering
-				\caption{Merkmale der Primärregelleistung \cite{Regelleistung_NextKraftwerke}}
-				\label{Tab. Merkmale der Primärregellung}
-				\begin{tabular}{ll}
-					\hline
-					Regelenergieart & Primärregelleistung  \\ \hline
-					Bereitstellung durch & ENTSO-E  \\
-					Aktivierung & \makecell[l]{Frequenzgesteuert: \\ Eigenständige Messung/Eingriff vor \\ Ort durch Anbieter der PRL} \\
-					Volle Leistung & Innerhalb von 30 Sekunden \\
-					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & \num{0} bis \num{15} Minuten  \\
-					Vergütung & Leistungspreis  \\
-					Mindestangebotsgröße & Ab $\pm\SI{1}{\mega\watt}$ (symmetrisch) \\
-					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
-				\end{tabular}
-			\end{table}
+%			\begin{table}[H]
+%				\renewcommand*{\arraystretch}{1.75}
+%				\centering
+%				\caption{Merkmale der Primärregelleistung \cite{Regelleistung_NextKraftwerke}}
+%				\label{Tab. Merkmale der Primärregellung}
+%				\begin{tabular}{ll}
+%					\hline
+%					Regelenergieart & Primärregelleistung  \\ \hline
+%					Bereitstellung durch & ENTSO-E  \\
+%					Aktivierung & \makecell[l]{Frequenzgesteuert: \\ Eigenständige Messung/Eingriff vor \\ Ort durch Anbieter der PRL} \\
+%					Volle Leistung & Innerhalb von 30 Sekunden \\
+%					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & \num{0} bis \num{15} Minuten  \\
+%					Vergütung & Leistungspreis  \\
+%					Mindestangebotsgröße & Ab $\pm\SI{1}{\mega\watt}$ (symmetrisch) \\
+%					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
+%				\end{tabular}
+%			\end{table}
 			
 			Die Ausschreibung von Primärregelleistung erfolgt täglich für einen Erbringungszeitraum von 0:00 Uhr bis 24:00 Uhr am Folgetag.
 			Angebotsabgabe erfolgt am Vortag bis 8:00 Uhr  \cite{regelleistungnet_PRL_Ausschreibung}.
 			Die Auktion erfolgt online über die Internetseite regelleistung.net \cite{regelleistungnet_PRL_Ausschreibung}.
 			Zuschlag bekommen diejenigen Anbieter, welche für den ÜNB am wirtschaftlichsten sind.
 			Der Anbieter, welcher Angebot und Nachfrage deckt, legt den Leistungspreis für alle anderen bezuschlagten Teilnehmer fest ("`Marginal Pricing"').
-			In Tabelle \ref{Tab. Merkmale der Primärregellung} sind die wichtigsten Eckpunkte der Primärregelleistung dargestellt.		
+			In Abbildung \ref{Abb. Eigenschaften der drei Regelleistungsstufen} sind die wichtigsten Eckpunkte der Primärregelleistung dargestellt.		
 
 		\subsubsection{Sekundärregelreserve}		
 			
@@ -161,25 +161,25 @@
 			Die Vergabe erfolgt nach einer Merit-Order-Liste, in welcher die Bieter nach aufsteigendem Preis aufgelistet werden.
 			Jedoch erfolgt die Vergütung nach dem Pay-as-Bid Verfahren.
 			Dies bedeutet, dass ausschließlich der angebotene Preis bezahlt wird \cite[S. 81 ff.]{Doktorarbeit_Reitsam}.
-			Die Tabelle \ref{Tab. Merkmale der Sekundärregelreserve} zeigt nochmals die wichtigsten Eckdaten der Sekundärregelreserve.
+			Die Abbildung \ref{Abb. Eigenschaften der drei Regelleistungsstufen} zeigt nochmals die wichtigsten Eckdaten der Sekundärregelreserve.
 			
-			\begin{table}[H]
-				\centering
-				\caption{Merkmale der Sekundärregelreserve \cite{Regelleistung_NextKraftwerke}}
-				\label{Tab. Merkmale der Sekundärregelreserve}
-				\begin{tabular}{ll}
-					\hline
-					Regelenergieart &  Sekundärregelreserve  \\ \hline
-					Bereitstellung durch  & ÜNB  \\
-					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - manuelle Anforderung durch ÜNB} \\
-					Volle Leistung & Innerhalb von 5 Minuten \\
-					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 30 Sekunden bis 1 Stunde \\
-					Vergütung &  Leistungs- und Arbeitspreis \\
-					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.}\\
-					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
-				\end{tabular}
-				\parbox{0.7\textwidth}{\parnotes}
-			\end{table}
+%			\begin{table}[H]
+%				\centering
+%				\caption{Merkmale der Sekundärregelreserve \cite{Regelleistung_NextKraftwerke}}
+%				\label{Tab. Merkmale der Sekundärregelreserve}
+%				\begin{tabular}{ll}
+%					\hline
+%					Regelenergieart &  Sekundärregelreserve  \\ \hline
+%					Bereitstellung durch  & ÜNB  \\
+%					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - manuelle Anforderung durch ÜNB} \\
+%					Volle Leistung & Innerhalb von 5 Minuten \\
+%					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 30 Sekunden bis 1 Stunde \\
+%					Vergütung &  Leistungs- und Arbeitspreis \\
+%					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.}\\
+%					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
+%				\end{tabular}
+%				\parbox{0.7\textwidth}{\parnotes}
+%			\end{table}
 	
 		\subsubsection{Minutenreserve}
 		
@@ -192,24 +192,31 @@
 			Die Vergütung erfolgt analog zu der Sekundärregelreserve, aufgeteilt nach Leistungs- und Arbeitspreis.
 			Das Einreichen von Angeboten und die darauffolgende Vergabe verläuft ebenfalls analog zu der SRL.
 			Die Angebotsabgabefrist verschiebt sich lediglich um eine Stunde  auf 10:00 Uhr \cite{regelleistungnet_PRL_Ausschreibung}.
-	
-			\begin{table}[H]
+			
+			\begin{figure} [H]
 				\centering
-				\caption{Merkmale der Minutenreserve \cite{Regelleistung_NextKraftwerke}}
-				\label{Tab. Merkmale der Minutenreserve}
-				\begin{tabular}{ll}
-					\hline
-					Regelenergieart  & Minutenreserve \\ \hline
-					Bereitstellung durch & ÜNB \\
-					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - löst automatisch PRL ab}\\
-					Volle Leistung & Innerhalb von 15 Minuten \\
-					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 5 Minuten bis 60 Minuten \\
-					Vergütung & Leistungs- und Arbeitspreis \\
-					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.} \\
-					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
-				\end{tabular}
-				\parbox{0.7\textwidth}{\parnotes}
-			\end{table}
+				\includegraphics[page=23,trim=40 340 40 130, clip, width=0.95\textwidth]{./anhang/Studie Tabelle Regelleistungen.pdf}
+				\caption{Eigenschaften der drei Regelleistungsstufen \cite[S. 20]{Studie Regelleistung Wasserkraft}}
+				\label{Abb. Eigenschaften der drei Regelleistungsstufen}
+			\end{figure}
+	
+%			\begin{table}[H]
+%				\centering
+%				\caption{Merkmale der Minutenreserve \cite{Regelleistung_NextKraftwerke}}
+%				\label{Tab. Merkmale der Minutenreserve}
+%				\begin{tabular}{ll}
+%					\hline
+%					Regelenergieart  & Minutenreserve \\ \hline
+%					Bereitstellung durch & ÜNB \\
+%					Aktivierung & \makecell[l]{Durch verantwortlichen ÜNB \\ - löst automatisch PRL ab}\\
+%					Volle Leistung & Innerhalb von 15 Minuten \\
+%					\makecell[l]{Abzudeckender Zeitraum \\ nach Störungsfall} & ab 5 Minuten bis 60 Minuten \\
+%					Vergütung & Leistungs- und Arbeitspreis \\
+%					Mindestangebotsgröße & \SI{5}{\mega\watt} positiv oder negativ\parnote{Eine Angebotshöhe von \SI{1}{\mega\watt} bis \SI{4}{\mega\watt} ist zulässig, sobald ein Anbieter von Minutenreserve nur ein einziges Angebot je Zeitscheibe für positive oder negative MRL in der jeweiligen Regelzone abgibt.} \\
+%					Tägliche Produkte & \makecell[l]{Positiv und negativ: \\ \num{6} Zeitintervalle über \num{4} Stunden} \\ \hline
+%				\end{tabular}
+%				\parbox{0.7\textwidth}{\parnotes}
+%			\end{table}
 			\renewcommand*{\arraystretch}{1.5}
 		
 		\subsubsection{Primärenergieträger und Einsatzzeiten}
