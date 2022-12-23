@@ -24,7 +24,7 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Umsetzung der Empfehlungen}{28}{subsubsection.0.3.2.2}%
 \contentsline {section}{\numberline {4}Die zukünftige Entwicklung von Kraftwerksreserven}{29}{section.0.4}%
 \contentsline {subsection}{\numberline {4.1}Aktueller Stand der Stromproduktion und des Energiesystems}{30}{subsection.0.4.1}%
-\contentsline {subsection}{\numberline {4.2}Entwicklung eines klimaneutralen Energiesystems bis zum Jahr 2030}{31}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.2}Entwicklung eines klimaneutralen Energiesystems bis zum Jahr 2035}{31}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3}Entwicklung eines klimaneutralen Energiesystems bis zum Jahr 2045}{34}{subsection.0.4.3}%
 \contentsline {subsection}{\numberline {4.4}Vergleich der Studien im Hinblick auf die Entwicklung der Kraftwerksreserven}{36}{subsection.0.4.4}%
 \contentsline {section}{\numberline {5}Zusammenfassung und Ausblick}{38}{section.0.5}%
