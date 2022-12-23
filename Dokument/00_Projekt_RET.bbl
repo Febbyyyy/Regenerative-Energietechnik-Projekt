@@ -1431,8 +1431,8 @@
       \strng{authornamehash}{f8180c3ec2967b97443be771dde2d73c}
       \strng{authorfullhash}{f8180c3ec2967b97443be771dde2d73c}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -1469,8 +1469,8 @@
       \strng{authornamehash}{2b9358c06354ecbe46fef050b5ab6b99}
       \strng{authorfullhash}{2b9358c06354ecbe46fef050b5ab6b99}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{01}
@@ -1690,6 +1690,40 @@
       \endverb
       \verb{url}
       \verb https://www.rnd.de/wirtschaft/frankreich-droht-strom-engpass-wegen-ruhender-atomkraftwerke-AP3JLDZUC4WVUNELTT6PX4FX3A.html
+      \endverb
+    \endentry
+    \entry{Speicherfüllstände}{online}{}
+      \name{author}{1}{}{%
+        {{hash=669160ceef52c698cbac9237c12da98b}{%
+           family={Gas-\bibnamedelimb und\bibnamedelimb Wasserfachs\bibnamedelima e.V.},
+           familyi={G\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim e\bibinitperiod},
+           given={Deutscher\bibnamedelima Verein},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           prefix={des},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{669160ceef52c698cbac9237c12da98b}
+      \strng{fullhash}{669160ceef52c698cbac9237c12da98b}
+      \strng{bibnamehash}{669160ceef52c698cbac9237c12da98b}
+      \strng{authorbibnamehash}{669160ceef52c698cbac9237c12da98b}
+      \strng{authornamehash}{669160ceef52c698cbac9237c12da98b}
+      \strng{authorfullhash}{669160ceef52c698cbac9237c12da98b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Füll­stände der Gas­speicher für Deutsch­land mit Reichwei­ten­prognose}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.dvgw.de/themen/sicherheit/versorgungssicherheit-gas/fuellstaende-der-gasspeicher-fuer-deutschland-mit-reichweitenprognose#/2022-11-13
+      \endverb
+      \verb{url}
+      \verb https://www.dvgw.de/themen/sicherheit/versorgungssicherheit-gas/fuellstaende-der-gasspeicher-fuer-deutschland-mit-reichweitenprognose#/2022-11-13
       \endverb
     \endentry
   \enddatalist
