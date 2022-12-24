@@ -13,7 +13,7 @@
 \contentsline {subsubsection}{\numberline {2.3.2}Kapazit^^c3^^a4tsreserve}{19}{subsubsection.0.2.3.2}%
 \contentsline {subsubsection}{\numberline {2.3.3}Sicherheitsbereitschaft}{21}{subsubsection.0.2.3.3}%
 \contentsline {subsection}{\numberline {2.4}Ver^^c3^^a4nderungen der Kraftwerksreserven aufgrund des russischen ^^c3^^9cberfalls auf die Ukraine}{22}{subsection.0.2.4}%
-\contentsline {section}{\numberline {3}Aktuelle Bewertung der Kraftwerksreserven zur Netzstabilisierung und Reserveleistungsvorhaltung}{23}{section.0.3}%
+\contentsline {section}{\numberline {3}Aktuelle Bewertung der Kraftwerksreserven zur Frequenzstabilisierung und Reserveleistungsvorhaltung}{23}{section.0.3}%
 \contentsline {subsection}{\numberline {3.1}Bewertung der logistischen Situation der Reserven}{23}{subsection.0.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Logistischer Stand der Braunkohle}{23}{subsubsection.0.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Logistischer Stand der Steinkohle}{24}{subsubsection.0.3.1.2}%
