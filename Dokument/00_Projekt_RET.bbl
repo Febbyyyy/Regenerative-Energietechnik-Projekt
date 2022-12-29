@@ -100,7 +100,6 @@
       \field{title}{Elektrizitätswirtschaft}
       \field{year}{2022}
       \field{dateera}{ce}
-      \true{nocite}
     \endentry
     \entry{Doktorarbeit_Reitsam}{thesis}{}
       \name{author}{1}{}{%
@@ -275,7 +274,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.next-kraftwerke.de/wissen/primaerreserve-primaerregelleistung
       \endverb
@@ -1212,7 +1210,6 @@
       \field{month}{11}
       \field{title}{Ölkrisenvorsorge und -management}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bmwk.de/Redaktion/DE/Artikel/Energie/mineraloel-oelbevorratung-transport-oelreserven.html
       \endverb
@@ -1242,7 +1239,6 @@
       \field{urlmonth}{03}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://iea.blob.core.windows.net/assets/9aea25c1-5450-49db-8e1f-a67c0212720c/-16MAR2022_OilMarketReport.pdf
       \endverb
@@ -1323,7 +1319,6 @@
       \field{urlmonth}{11}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.bundestag.de/dokumente/textarchiv/2022/kw45-de-atomgesetz-freitag-917474
       \endverb
@@ -1754,7 +1749,6 @@
       \field{urlmonth}{12}
       \field{urlyear}{2022}
       \field{year}{2022}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.dvgw.de/themen/sicherheit/versorgungssicherheit-gas/fuellstaende-der-gasspeicher-fuer-deutschland-mit-reichweitenprognose#/2022-11-13
       \endverb
