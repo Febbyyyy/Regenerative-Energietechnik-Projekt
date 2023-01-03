@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  2 JAN 2023 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  2 JAN 2023 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1378,7 +1378,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 29
 (Z:\Latex\MikTex\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (00_Projekt_RET.aux (01_deckblatt.aux)
-(01_Eidstaatliche_Erklärung.aux) (02_verzeichnisse.aux) (08_anhang.aux))
+(01_Eidstaatliche_Erklärung.aux) (02_verzeichnisse.aux))
 \openout1 = `00_Projekt_RET.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 294.
@@ -1659,7 +1659,7 @@ Overfull \hbox (6.43155pt too wide) in paragraph at lines 3--8
 -f�r bil-det der Strom-markt,
  []
 
-<./anhang/Doktorarbeit Reitsam.pdf, id=186, page=82, 597.50829pt x 845.0471pt>
+<./anhang/Doktorarbeit Reitsam.pdf, id=184, page=82, 597.50829pt x 845.0471pt>
 File: ./anhang/Doktorarbeit Reitsam.pdf Graphic file (type pdf)
 <use ./anhang/Doktorarbeit Reitsam.pdf, page 82>
 Package pdftex.def Info: ./anhang/Doktorarbeit Reitsam.pdf , page82 used on inp
@@ -1682,7 +1682,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 50.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
  [7]
-<./anhang/Elektrizitätswirtschaft.pdf, id=238, page=92, 478.00583pt x 682.8661
+<./anhang/Elektrizitätswirtschaft.pdf, id=236, page=92, 478.00583pt x 682.8661
 8pt>
 File: ./anhang/Elektrizitätswirtschaft.pdf Graphic file (type pdf)
 <use ./anhang/Elektrizitätswirtschaft.pdf, page 92>
@@ -1713,7 +1713,7 @@ Underfull \hbox (badness 2951) in paragraph at lines 61--68
 \T1/lmr/m/n/12 schen Re-gel-zo-nen aus-zu-glei-chen,
  []
 
-<./anhang/Elektrizitätswirtschaft.pdf, id=244, page=115, 478.00583pt x 682.866
+<./anhang/Elektrizitätswirtschaft.pdf, id=242, page=115, 478.00583pt x 682.866
 18pt>
 File: ./anhang/Elektrizitätswirtschaft.pdf Graphic file (type pdf)
 <use ./anhang/Elektrizitätswirtschaft.pdf, page 115>
@@ -1725,14 +1725,14 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 75.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [8 <./anhang/Elektrizitätswirtschaft.pdf>]
-<./anhang/Monitoringbericht_Energie2021.pdf, id=286, page=209, 597.55246pt x 84
+<./anhang/Monitoringbericht_Energie2021.pdf, id=284, page=209, 597.55246pt x 84
 5.07712pt>
 File: ./anhang/Monitoringbericht_Energie2021.pdf Graphic file (type pdf)
 <use ./anhang/Monitoringbericht_Energie2021.pdf, page 209>
 Package pdftex.def Info: ./anhang/Monitoringbericht_Energie2021.pdf , page209 u
 sed on input line 92.
 (pdftex.def)             Requested size: 397.34149pt x 132.55794pt.
-<./anhang/frc-map.png, id=291, 366.6498pt x 419.166pt>
+<./anhang/frc-map.png, id=289, 366.6498pt x 419.166pt>
 File: ./anhang/frc-map.png Graphic file (type png)
 <use ./anhang/frc-map.png>
 Package pdftex.def Info: ./anhang/frc-map.png  used on input line 104.
@@ -1790,7 +1790,7 @@ er-ve, auf-ge-teilt nach Leistungs-
 
 pdfTeX warning: pdflatex.exe (file ./anhang/Studie Tabelle Regelleistungen.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./anhang/Studie Tabelle Regelleistungen.pdf, id=400, page=23, 597.23125pt x 84
+<./anhang/Studie Tabelle Regelleistungen.pdf, id=398, page=23, 597.23125pt x 84
 5.1575pt>
 File: ./anhang/Studie Tabelle Regelleistungen.pdf Graphic file (type pdf)
 <use ./anhang/Studie Tabelle Regelleistungen.pdf, page 23>
@@ -1833,7 +1833,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--318
 
  []
 
-<./anhang/Karte Kraftwerke.pdf, id=451, 614.295pt x 870.19862pt>
+<./anhang/Karte Kraftwerke.pdf, id=449, 614.295pt x 870.19862pt>
 File: ./anhang/Karte Kraftwerke.pdf Graphic file (type pdf)
 <use ./anhang/Karte Kraftwerke.pdf>
 Package pdftex.def Info: ./anhang/Karte Kraftwerke.pdf  used on input line 326.
@@ -1975,7 +1975,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 93.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [25]
-<./anhang/Ölreserve.png, id=577, 461.725pt x 355.3275pt>
+<./anhang/Ölreserve.png, id=575, 461.725pt x 355.3275pt>
 File: ./anhang/Ölreserve.png Graphic file (type png)
 <use ./anhang/Ölreserve.png>
 Package pdftex.def Info: ./anhang/Ölreserve.png  used on input line 104.
@@ -2022,13 +2022,13 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 222.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [29]
-<./anhang/Agora Studie.pdf, id=629, page=22, 597.50829pt x 845.0471pt>
+<./anhang/Agora Studie.pdf, id=627, page=22, 597.50829pt x 845.0471pt>
 File: ./anhang/Agora Studie.pdf Graphic file (type pdf)
 <use ./anhang/Agora Studie.pdf, page 22>
 Package pdftex.def Info: ./anhang/Agora Studie.pdf , page22 used on input line 
 226.
 (pdftex.def)             Requested size: 397.34149pt x 165.056pt.
-<./anhang/Agora Studie.pdf, id=635, page=24, 597.50829pt x 845.0471pt>
+<./anhang/Agora Studie.pdf, id=633, page=24, 597.50829pt x 845.0471pt>
 File: ./anhang/Agora Studie.pdf Graphic file (type pdf)
 <use ./anhang/Agora Studie.pdf, page 24>
 Package pdftex.def Info: ./anhang/Agora Studie.pdf , page24 used on input line 
@@ -2048,7 +2048,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 250.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [31 <./anhang/Agora Studie.pdf>]
-<./anhang/Agora Studie.pdf, id=700, page=33, 597.50829pt x 845.0471pt>
+<./anhang/Agora Studie.pdf, id=698, page=33, 597.50829pt x 845.0471pt>
 File: ./anhang/Agora Studie.pdf Graphic file (type pdf)
 <use ./anhang/Agora Studie.pdf, page 33>
 Package pdftex.def Info: ./anhang/Agora Studie.pdf , page33 used on input line 
@@ -2073,7 +2073,7 @@ File: bilder/ostfalia.png Graphic file (type png)
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 311.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
 [33]
-<./anhang/Frauenhofer Studie.pdf, id=767, page=17, 597.79335pt x 845.19763pt>
+<./anhang/Frauenhofer Studie.pdf, id=765, page=17, 597.79335pt x 845.19763pt>
 File: ./anhang/Frauenhofer Studie.pdf Graphic file (type pdf)
 <use ./anhang/Frauenhofer Studie.pdf, page 17>
 Package pdftex.def Info: ./anhang/Frauenhofer Studie.pdf , page17 used on input
@@ -2192,24 +2192,8 @@ File: bilder/ostfalia.png Graphic file (type png)
 <use bilder/ostfalia.png>
 Package pdftex.def Info: bilder/ostfalia.png  used on input line 311.
 (pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
-[42]
-\openout2 = `08_anhang.aux'.
-
- (08_anhang.tex (00_Projekt_RET.atoc)
-\tf@atoc=\write9
-\openout9 = `00_Projekt_RET.atoc'.
-
-File: bilder/ostfalia.png Graphic file (type png)
-<use bilder/ostfalia.png>
-Package pdftex.def Info: bilder/ostfalia.png  used on input line 5.
-(pdftex.def)             Requested size: 202.75284pt x 42.67912pt.
- [43
-
-
-
-]) (00_Projekt_RET.aux
-(01_deckblatt.aux) (01_Eidstaatliche_Erklärung.aux) (02_verzeichnisse.aux)
-(08_anhang.aux))
+[42] (00_Projekt_RET.aux (01_deckblatt.aux) (01_Eidstaatliche_Erklärung.aux)
+(02_verzeichnisse.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -2225,10 +2209,10 @@ Package logreq Info: Writing requests to '00_Projekt_RET.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52967 strings out of 475281
- 1258834 string characters out of 2787665
- 2255665 words of memory out of 3000000
- 73420 multiletter control sequences out of 15000+600000
+ 52923 strings out of 475281
+ 1257521 string characters out of 2787665
+ 2253132 words of memory out of 3000000
+ 73389 multiletter control sequences out of 15000+600000
  563026 words of font info for 83 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  108i,23n,106p,10611b,3320s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -2249,9 +2233,9 @@ lmr6.pfb><Z:/Latex/MikTex/fonts/type1/public/lm/lmr8.pfb><Z:/Latex/MikTex/fonts
 lic/lm/lmro9.pfb><Z:/Latex/MikTex/fonts/type1/public/lm/lmssbx10.pfb><Z:/Latex/
 MikTex/fonts/type1/public/lm/lmsy10.pfb><Z:/Latex/MikTex/fonts/type1/public/lm/
 lmsy8.pfb><Z:/Latex/MikTex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 00_Projekt_RET.pdf (44 pages, 3807199 bytes).
+Output written on 00_Projekt_RET.pdf (43 pages, 3805495 bytes).
 PDF statistics:
- 1218 PDF objects out of 1440 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
- 400 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1208 PDF objects out of 1440 (max. 8388607)
+ 158 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
